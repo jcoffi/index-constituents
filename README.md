@@ -63,4 +63,4 @@ Historical data of a particular index is only available from the month we start 
 * [Bloomberg](https://www.bloomberg.com/)
 
 ## Author
-* [jcoffi](https://github.com/jcoffi)
+* Forked from original author: [yfiua](https://github.com/yfiua)
