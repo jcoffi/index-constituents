@@ -1,102 +1,102 @@
 Symbol,Name
 AAPL,Apple Inc
-NVDA,NVIDIA Corp
 MSFT,Microsoft Corp
+NVDA,NVIDIA Corp
 AVGO,Broadcom Inc
-META,Meta Platforms Inc
 AMZN,Amazon.com Inc
-COST,Costco Wholesale Corp
+META,Meta Platforms Inc
 TSLA,Tesla Inc
+COST,Costco Wholesale Corp
 GOOGL,Alphabet Inc
 GOOG,Alphabet Inc
 NFLX,Netflix Inc
-ADBE,Adobe Inc
-PEP,PepsiCo Inc
 AMD,Advanced Micro Devices Inc
+PEP,PepsiCo Inc
+ADBE,Adobe Inc
 TMUS,T-Mobile US Inc
 LIN,Linde PLC
 CSCO,Cisco Systems Inc
 QCOM,QUALCOMM Inc
+INTU,Intuit Inc
 TXN,Texas Instruments Inc
 AMGN,Amgen Inc
-INTU,Intuit Inc
 ISRG,Intuitive Surgical Inc
 AMAT,Applied Materials Inc
 CMCSA,Comcast Corp
-HON,Honeywell International Inc
 BKNG,Booking Holdings Inc
-REGN,Regeneron Pharmaceuticals Inc
+HON,Honeywell International Inc
 VRTX,Vertex Pharmaceuticals Inc
+REGN,Regeneron Pharmaceuticals Inc
+ADP,Automatic Data Processing Inc
 PANW,Palo Alto Networks Inc
 ADI,Analog Devices Inc
-ADP,Automatic Data Processing Inc
-KLAC,KLA Corp
 SBUX,Starbucks Corp
-LRCX,Lam Research Corp
-MU,Micron Technology Inc
 MELI,MercadoLibre Inc
 GILD,Gilead Sciences Inc
+KLAC,KLA Corp
+MU,Micron Technology Inc
 MDLZ,Mondelez International Inc
-INTC,Intel Corp
+LRCX,Lam Research Corp
 CTAS,Cintas Corp
-ASML,ASML Holding NV
+INTC,Intel Corp
 SNPS,Synopsys Inc
+ASML,ASML Holding NV
 PYPL,PayPal Holdings Inc
 CDNS,Cadence Design Systems Inc
 ORLY,O'Reilly Automotive Inc
-CSX,CSX Corp
 MAR,Marriott International Inc/MD
-NXPI,NXP Semiconductors NV
+CSX,CSX Corp
+MRVL,Marvell Technology Inc
+PDD,PDD Holdings Inc ADR
 CEG,Constellation Energy Corp
 CRWD,Crowdstrike Holdings Inc
-PDD,PDD Holdings Inc ADR
-MRVL,Marvell Technology Inc
 ROP,Roper Technologies Inc
+NXPI,NXP Semiconductors NV
 FTNT,Fortinet Inc
-WDAY,Workday Inc
 ADSK,Autodesk Inc
 AEP,American Electric Power Co Inc
-ABNB,Airbnb Inc
-CHTR,Charter Communications Inc
-CPRT,Copart Inc
-AZN,AstraZeneca PLC ADR
-ROST,Ross Stores Inc
-PCAR,PACCAR Inc
-KDP,Keurig Dr Pepper Inc
+WDAY,Workday Inc
 MNST,Monster Beverage Corp
+ROST,Ross Stores Inc
+ABNB,Airbnb Inc
+KDP,Keurig Dr Pepper Inc
 DASH,DoorDash Inc
+PCAR,PACCAR Inc
+CHTR,Charter Communications Inc
 PAYX,Paychex Inc
+CPRT,Copart Inc
 TTD,Trade Desk Inc/The
+AZN,AstraZeneca PLC ADR
 KHC,Kraft Heinz Co/The
-MCHP,Microchip Technology Inc
 ODFL,Old Dominion Freight Line Inc
-EA,Electronic Arts Inc
+MCHP,Microchip Technology Inc
 IDXX,IDEXX Laboratories Inc
-VRSK,Verisk Analytics Inc
+EXC,Exelon Corp
 FAST,Fastenal Co
 GEHC,GE HealthCare Technologies Inc
+EA,Electronic Arts Inc
 CTSH,Cognizant Technology Solutions Corp
-EXC,Exelon Corp
+VRSK,Verisk Analytics Inc
 CCEP,Coca-Cola Europacific Partners PLC
+XEL,Xcel Energy Inc
 DDOG,Datadog Inc
 BKR,Baker Hughes Co
-FANG,Diamondback Energy Inc
-XEL,Xcel Energy Inc
-ON,ON Semiconductor Corp
 CSGP,CoStar Group Inc
 LULU,Lululemon Athletica Inc
+ON,ON Semiconductor Corp
+FANG,Diamondback Energy Inc
 CDW,CDW Corp/DE
-MRNA,Moderna Inc
 BIIB,Biogen Inc
-ZS,Zscaler Inc
-DXCM,Dexcom Inc
 ANSS,ANSYS Inc
-TTWO,Take-Two Interactive Software Inc
+DXCM,Dexcom Inc
 SMCI,Super Micro Computer Inc
+MRNA,Moderna Inc
+TTWO,Take-Two Interactive Software Inc
 TEAM,Atlassian Corp
+ZS,Zscaler Inc
 GFS,GLOBALFOUNDRIES Inc
-ILMN,Illumina Inc
-DLTR,Dollar Tree Inc
-WBD,Warner Bros Discovery Inc
 MDB,MongoDB Inc
+WBD,Warner Bros Discovery Inc
+ILMN,Illumina Inc
 ARM,ARM Holdings PLC ADR
+DLTR,Dollar Tree Inc
