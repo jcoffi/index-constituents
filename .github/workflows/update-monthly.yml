@@ -20,4 +20,6 @@ jobs:
       run: pip install -r requirements.txt
     - name: update
       run: ./update-monthly.sh
+    - name: Ensure Manual Files Are Not Deleted
+      run: git add docs/**/*.json docs/**/*.csv --intent-to-add
     - uses: stefanzweifel/git-auto-commit-action@v4
