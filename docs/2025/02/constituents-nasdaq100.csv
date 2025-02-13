@@ -1,102 +1,102 @@
 Symbol,Name
 AAPL,Apple Inc
-MSFT,Microsoft Corp
 NVDA,NVIDIA Corp
+MSFT,Microsoft Corp
 AMZN,Amazon.com Inc
 AVGO,Broadcom Inc
 META,Meta Platforms Inc
 TSLA,Tesla Inc
-GOOGL,Alphabet Inc
-GOOG,Alphabet Inc
 COST,Costco Wholesale Corp
+GOOGL,Alphabet Inc
 NFLX,Netflix Inc
+GOOG,Alphabet Inc
 TMUS,T-Mobile US Inc
+PLTR,Palantir Technologies Inc
 CSCO,Cisco Systems Inc
 LIN,Linde PLC
-PEP,PepsiCo Inc
 ISRG,Intuitive Surgical Inc
 ADBE,Adobe Inc
+PEP,PepsiCo Inc
 QCOM,QUALCOMM Inc
 AMD,Advanced Micro Devices Inc
-PLTR,Palantir Technologies Inc
-INTU,Intuit Inc
 TXN,Texas Instruments Inc
+INTU,Intuit Inc
 BKNG,Booking Holdings Inc
 AMGN,Amgen Inc
 AMAT,Applied Materials Inc
 HON,Honeywell International Inc
 CMCSA,Comcast Corp
+PANW,Palo Alto Networks Inc
 SBUX,Starbucks Corp
 ADP,Automatic Data Processing Inc
-PANW,Palo Alto Networks Inc
-GILD,Gilead Sciences Inc
 VRTX,Vertex Pharmaceuticals Inc
+GILD,Gilead Sciences Inc
 APP,AppLovin Corp
-ADI,Analog Devices Inc
-MU,Micron Technology Inc
 LRCX,Lam Research Corp
+MU,Micron Technology Inc
 MELI,MercadoLibre Inc
+ADI,Analog Devices Inc
+CEG,Constellation Energy Corp
 KLAC,KLA Corp
 CRWD,Crowdstrike Holdings Inc
 MRVL,Marvell Technology Inc
-CEG,Constellation Energy Corp
-PYPL,PayPal Holdings Inc
 INTC,Intel Corp
 MAR,Marriott International Inc/MD
-CTAS,Cintas Corp
-CDNS,Cadence Design Systems Inc
-SNPS,Synopsys Inc
-MSTR,MicroStrategy Inc
-MDLZ,Mondelez International Inc
 FTNT,Fortinet Inc
+CDNS,Cadence Design Systems Inc
+CTAS,Cintas Corp
+SNPS,Synopsys Inc
+PYPL,PayPal Holdings Inc
+MDLZ,Mondelez International Inc
 PDD,PDD Holdings Inc ADR
+MSTR,MicroStrategy Inc
 ORLY,O'Reilly Automotive Inc
-REGN,Regeneron Pharmaceuticals Inc
 DASH,DoorDash Inc
+REGN,Regeneron Pharmaceuticals Inc
+ASML,ASML Holding NV
 ADSK,Autodesk Inc
 CSX,CSX Corp
-ASML,ASML Holding NV
 ROP,Roper Technologies Inc
-PCAR,PACCAR Inc
 ABNB,Airbnb Inc
 WDAY,Workday Inc
 CPRT,Copart Inc
+PCAR,PACCAR Inc
 TTD,Trade Desk Inc/The
+AEP,American Electric Power Co Inc
 NXPI,NXP Semiconductors NV
 PAYX,Paychex Inc
-AEP,American Electric Power Co Inc
+TEAM,Atlassian Corp
+AXON,Axon Enterprise Inc
 CHTR,Charter Communications Inc
 FANG,Diamondback Energy Inc
 ROST,Ross Stores Inc
-AXON,Axon Enterprise Inc
 LULU,Lululemon Athletica Inc
+BKR,Baker Hughes Co
 MNST,Monster Beverage Corp
 DDOG,Datadog Inc
-TEAM,Atlassian Corp
-KDP,Keurig Dr Pepper Inc
-BKR,Baker Hughes Co
-FAST,Fastenal Co
-AZN,AstraZeneca PLC ADR
 CTSH,Cognizant Technology Solutions Corp
-GEHC,GE HealthCare Technologies Inc
-VRSK,Verisk Analytics Inc
-EXC,Exelon Corp
 ODFL,Old Dominion Freight Line Inc
+AZN,AstraZeneca PLC ADR
+FAST,Fastenal Co
+EXC,Exelon Corp
+KDP,Keurig Dr Pepper Inc
+VRSK,Verisk Analytics Inc
+GEHC,GE HealthCare Technologies Inc
 XEL,Xcel Energy Inc
+IDXX,IDEXX Laboratories Inc
+TTWO,Take-Two Interactive Software Inc
 CCEP,Coca-Cola Europacific Partners PLC
 KHC,Kraft Heinz Co/The
-IDXX,IDEXX Laboratories Inc
-DXCM,Dexcom Inc
-TTWO,Take-Two Interactive Software Inc
-CSGP,CoStar Group Inc
-ZS,Zscaler Inc
 EA,Electronic Arts Inc
+DXCM,Dexcom Inc
+ZS,Zscaler Inc
+CSGP,CoStar Group Inc
 ANSS,ANSYS Inc
 MCHP,Microchip Technology Inc
 CDW,CDW Corp/DE
 WBD,Warner Bros Discovery Inc
-ON,ON Semiconductor Corp
+MDB,MongoDB Inc
 GFS,GLOBALFOUNDRIES Inc
 BIIB,Biogen Inc
-MDB,MongoDB Inc
 ARM,ARM Holdings PLC ADR
+ON,ON Semiconductor Corp
