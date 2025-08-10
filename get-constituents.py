@@ -2,7 +2,7 @@
 # coding: utf-8
 
 import pandas as pd
-import random
+import random  # Used for retry delay randomization in multiple places
 import requests
 import time
 
