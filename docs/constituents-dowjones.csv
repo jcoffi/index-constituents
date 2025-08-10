@@ -1,31 +1,31 @@
 Symbol,Name
 GS,"The Goldman Sachs Group, Inc."
 MSFT,Microsoft Corporation
-HD,"The Home Depot, Inc."
-V,Visa Inc.
-SHW,Sherwin-Williams
 CAT,Caterpillar Inc.
+HD,"The Home Depot, Inc."
+SHW,Sherwin-Williams
+V,Visa Inc.
 MCD,McDonald's Corporation
-UNH,UnitedHealth Group Incorporated
 AXP,American Express Company
+JPM,JPMorgan Chase & Co.
 AMGN,Amgen Inc.
 TRV,"The Travelers Companies, Inc."
-CRM,"Salesforce, Inc."
-JPM,JPMorgan Chase & Co.
+UNH,UnitedHealth Group Incorporated
 IBM,International Business Machines Corporation
-HON,Honeywell International Inc.
+CRM,"Salesforce, Inc."
+AAPL,Apple Inc.
 BA,The Boeing Company
 AMZN,"Amazon.com, Inc.amazon.com"
-AAPL,Apple Inc.
-PG,The Procter & Gamble Company
-JNJ,Johnson & Johnson
-MMM,3M Company
-CVX,Chevron Corporation
+HON,Honeywell International Inc.
 NVDA,Nvidia
+JNJ,Johnson & Johnson
+CVX,Chevron Corporation
+PG,The Procter & Gamble Company
+MMM,3M Company
 DIS,The Walt Disney Company
 WMT,Walmart Inc.
 MRK,"Merck & Co., Inc."
-KO,The Coca-Cola Company
-CSCO,"Cisco Systems, Inc."
 NKE,"Nike, Inc."
+CSCO,"Cisco Systems, Inc."
+KO,The Coca-Cola Company
 VZ,Verizon Communications Inc.
