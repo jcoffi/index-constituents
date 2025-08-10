@@ -1,504 +1,504 @@
 Symbol,Name
-,Nvidia
-,Microsoft
-,Apple Inc.
-,Amazon
-,Meta Platforms
-,Broadcom
-,Alphabet Inc. (Class A)
-,Alphabet Inc. (Class C)
-,Berkshire Hathaway
-,"Tesla, Inc."
-,JPMorgan Chase
-,Walmart
-,Oracle Corporation
-,Lilly (Eli)
-,Visa Inc.
-,Mastercard
-,Netflix
-,ExxonMobil
-,Costco
-,Johnson & Johnson
-,Home Depot (The)
-,Palantir Technologies
-,Procter & Gamble
-,AbbVie
-,Bank of America
-,Chevron Corporation
-,Coca-Cola Company (The)
-,GE Aerospace
-,Advanced Micro Devices
-,T-Mobile US
-,Cisco
-,Philip Morris International
-,Wells Fargo
-,Salesforce
-,IBM
-,Morgan Stanley
-,Abbott Laboratories
-,Goldman Sachs
-,McDonald's
-,Intuit
-,Linde plc
-,UnitedHealth Group
-,RTX Corporation
-,Walt Disney Company (The)
-,American Express
-,Caterpillar Inc.
-,Merck & Co.
-,AT&T
-,PepsiCo
-,ServiceNow
-,Uber
-,Verizon
-,GE Vernova
-,Thermo Fisher Scientific
-,Booking Holdings
-,Charles Schwab Corporation
-,Intuitive Surgical
-,Citigroup
-,BlackRock
-,Boeing
-,S&P Global
-,Texas Instruments
-,Qualcomm
-,Amgen
-,Accenture
-,Boston Scientific
-,Eaton Corporation
-,Arista Networks
-,Adobe Inc.
-,NextEra Energy
-,Applied Materials
-,Stryker Corporation
-,Progressive Corporation
-,Danaher Corporation
-,Gilead Sciences
-,TJX Companies
-,Honeywell
-,Deere & Company
-,Pfizer
-,Blackstone Inc.
-,Capital One
-,Union Pacific Corporation
-,Amphenol
-,KKR
-,Lowe's
-,Lam Research
-,Automatic Data Processing
-,Comcast
-,Vertex Pharmaceuticals
-,Micron Technology
-,KLA Corporation
-,ConocoPhillips
-,Palo Alto Networks
-,Synopsys
-,Medtronic
-,CrowdStrike
-,Welltower
-,"Nike, Inc."
-,Analog Devices
-,Constellation Energy
-,Chubb Limited
-,Intercontinental Exchange
-,DoorDash
-,Southern Company
-,Altria
-,CME Group
-,American Tower
-,Starbucks
-,Lockheed Martin
-,Trane Technologies
-,Prologis
-,Cadence Design Systems
-,Marsh McLennan
-,Duke Energy
-,Waste Management
-,Parker Hannifin
-,Bristol Myers Squibb
-,Moody's Corporation
-,Cintas
-,TransDigm Group
-,McKesson Corporation
-,Dell Technologies
-,HCA Healthcare
-,Sherwin-Williams
-,Royal Caribbean Group
-,Intel
-,O'Reilly Auto Parts
-,Northrop Grumman
-,General Dynamics
-,Mondelez International
-,Coinbase Global
-,Emerson Electric
-,CVS Health
-,Apollo Global Management
-,Airbnb
-,3M
-,Aon
-,Equinix
-,Fortinet
-,Howmet Aerospace
-,Ecolab
-,Williams Companies
-,Fiserv
-,Illinois Tool Works
-,PNC Financial Services
-,Motorola Solutions
-,Arthur J. Gallagher & Co.
-,Republic Services
-,United Parcel Service
-,Vistra Corp.
-,BNY Mellon
-,Johnson Controls
-,Cigna
-,Marriott International
-,Newmont
-,U.S. Bancorp
-,Colgate-Palmolive
-,Zoetis
-,CSX Corporation
-,AutoZone
-,PayPal
-,EOG Resources
-,Autodesk
-,Air Products
-,Kinder Morgan
-,Elevance Health
-,Norfolk Southern Railway
-,Hilton Worldwide
-,American Electric Power
-,TE Connectivity
-,"Workday, Inc."
-,Regeneron Pharmaceuticals
-,Quanta Services
-,Digital Realty
-,Roper Technologies
-,Travelers Companies (The)
-,Axon Enterprise
-,Monster Beverage
-,Chipotle Mexican Grill
-,Carrier Global
-,Freeport-McMoRan
-,Cencora
-,Truist Financial
-,United Rentals
-,"Nasdaq, Inc."
-,Corning Inc.
-,Aflac
-,NXP Semiconductors
-,Sempra
-,Allstate
-,Simon Property Group
-,Fastenal
-,L3Harris
-,Dominion Energy
-,FedEx
-,Realty Income
-,Marathon Petroleum
-,Paccar
-,Becton Dickinson
-,Paychex
-,General Motors
-,MetLife
-,ONEOK
-,Schlumberger
-,Cummins
-,Public Storage
-,Corteva
-,Phillips 66
-,Ameriprise Financial
-,Kroger
-,Datadog
-,Crown Castle
-,Edwards Lifesciences
-,CBRE Group
-,Block
-,Target Corporation
-,Keurig Dr Pepper
-,Exelon
-,Ross Stores
-,D. R. Horton
-,W. W. Grainger
-,Public Service Enterprise Group
-,American International Group
-,Copart
-,Xcel Energy
-,Kimberly-Clark
-,MSCI
-,Idexx Laboratories
-,Ford Motor Company
-,Baker Hughes
-,Occidental Petroleum
-,Diamondback Energy
-,Ametek
-,Garmin
-,The Trade Desk
-,eBay
-,Kenvue
-,Valero Energy
-,Fidelity National Information Services
-,ResMed
-,Take-Two Interactive
-,Yum! Brands
-,CoStar Group
-,Entergy
-,Electronic Arts
-,Carnival
-,Rockwell Automation
-,Hershey Company (The)
-,Sysco
-,Verisk Analytics
-,Consolidated Edison
-,Monolithic Power Systems
-,Cardinal Health
-,Vulcan Materials Company
-,Charter Communications
-,Las Vegas Sands
-,Microchip Technology
-,WEC Energy Group
-,Prudential Financial
-,Targa Resources
-,Vici Properties
-,Martin Marietta Materials
-,Xylem Inc.
-,Hartford (The)
-,Cognizant
-,Live Nation Entertainment
-,Supermicro
-,Delta Air Lines
-,Otis Worldwide
-,Fair Isaac
-,Arch Capital Group
-,Seagate Technology
-,NRG Energy
-,Estée Lauder Companies (The)
-,EQT Corporation
-,Raymond James Financial
-,Kraft Heinz
-,Agilent Technologies
-,Nucor
-,Wabtec
-,GE HealthCare
-,Warner Bros. Discovery
-,Dexcom
-,PG&E Corporation
-,IQVIA
-,State Street Corporation
-,Willis Towers Watson
-,Ventas
-,Tractor Supply
-,Brown & Brown
-,Lennar
-,Old Dominion
-,Ingersoll Rand
-,Humana
-,Extra Space Storage
-,Equifax
-,Constellation Brands
-,DuPont
-,M&T Bank
-,DTE Energy
-,Broadridge Financial Solutions
-,American Water Works
-,"Rollins, Inc."
-,Kellanova
-,Iron Mountain
-,Ameren
-,United Airlines Holdings
-,Fifth Third Bancorp
-,Keysight Technologies
-,Western Digital
-,General Mills
-,AvalonBay Communities
-,PPL Corporation
-,W. R. Berkley Corporation
-,Hewlett Packard Enterprise
-,Veralto
-,Cboe Global Markets
-,Archer Daniels Midland
-,Teledyne Technologies
-,PTC Inc.
-,CenterPoint Energy
-,Gartner
-,Tyler Technologies
-,Synchrony Financial
-,FirstEnergy
-,Mettler Toledo
-,Verisign
-,Atmos Energy
-,SBA Communications
-,International Paper
-,Expand Energy
-,Northern Trust
-,Eversource Energy
-,Dover Corporation
-,Dollar Tree
-,Dollar General
-,Equity Residential
-,Darden Restaurants
-,ON Semiconductor
-,PPG Industries
-,Huntington Bancshares
-,Jabil
-,Lululemon Athletica
-,Smurfit WestRock
-,Church & Dwight
-,Williams-Sonoma
-,PulteGroup
-,HP Inc.
-,Cincinnati Financial
-,Ulta Beauty
-,Hubbell Incorporated
-,T. Rowe Price
-,Expedia Group
-,Steris
-,Corpay
-,GoDaddy
-,Regions Financial Corporation
-,CDW
-,CMS Energy
-,"Tapestry, Inc."
-,LabCorp
-,"NVR, Inc."
-,Texas Pacific Land Corporation
-,Amcor
-,Lennox International
-,Devon Energy
-,Leidos
-,Edison International
-,Citizens Financial Group
-,NetApp
-,Insulet Corporation
-,NiSource
-,First Solar
-,Trimble Inc.
-,KeyCorp
-,Biogen
-,Quest Diagnostics
-,Global Payments
-,Loews Corporation
-,McCormick & Company
-,Tyson Foods
-,Invitation Homes
-,Halliburton
-,Erie Indemnity
-,Steel Dynamics
-,Weyerhaeuser
-,Coterra
-,Zimmer Biomet
-,Genuine Parts Company
-,Ralph Lauren Corporation
-,"F5, Inc."
-,International Flavors & Fragrances
-,Gen Digital
-,Waters Corporation
-,Packaging Corporation of America
-,West Pharmaceutical Services
-,LyondellBasell
-,Zebra Technologies
-,Principal Financial Group
-,Alliant Energy
-,Jacobs Solutions
-,Teradyne
-,Snap-on
-,Essex Property Trust
-,Pentair
-,Evergy
-,Mid-America Apartment Communities
-,Ball Corporation
-,Domino's
-,Fortive
-,Expeditors International
-,Southwest Airlines
-,Bunge Global
-,Hormel Foods
-,Dow Inc.
-,Deckers Brands
-,Clorox
-,Hologic
-,CF Industries
-,FactSet
-,Incyte
-,Masco
-,Builders FirstSource
-,Aptiv
-,Allegion
-,Cooper Companies (The)
-,Kimco Realty
-,Everest Group
-,Omnicom Group
-,Textron
-,Brown–Forman
-,Best Buy
-,TKO Group Holdings
-,C.H. Robinson
-,J.B. Hunt
-,Alexandria Real Estate Equities
-,Avery Dennison
-,"UDR, Inc."
-,Regency Centers
-,Centene Corporation
-,Paycom
-,Franklin Resources
-,Solventum
-,Jack Henry & Associates
-,IDEX Corporation
-,Fox Corporation (Class B)
-,Fox Corporation (Class A)
-,Nordson Corporation
-,Healthpeak Properties
-,Camden Property Trust
-,J.M. Smucker Company (The)
-,Pool Corporation
-,Generac
-,Globe Life
-,Wynn Resorts
-,Baxter International
-,Mosaic Company (The)
-,News Corp (Class A)
-,Norwegian Cruise Line Holdings
-,Pinnacle West
-,Host Hotels & Resorts
-,Moderna
-,Huntington Ingalls Industries
-,Akamai Technologies
-,Universal Health Services
-,DaVita
-,Hasbro
-,Revvity
-,Stanley Black & Decker
-,Viatris
-,"BXP, Inc."
-,Skyworks Solutions
-,Walgreens Boots Alliance
-,Align Technology
-,A. O. Smith
-,Molson Coors Beverage Company
-,MGM Resorts
-,Campbell Soup Company
-,Assurant
-,AES Corporation
-,Invesco
-,Interpublic Group of Companies (The)
-,Conagra Brands
-,Dayforce
-,Paramount Global
-,Bio-Techne
-,EPAM Systems
-,Henry Schein
-,Molina Healthcare
-,CarMax
-,Match Group
-,Charles River Laboratories
-,Albemarle Corporation
-,Federal Realty Investment Trust
-,Lamb Weston
-,MarketAxess
-,LKQ Corporation
-,Mohawk Industries
-,Eastman Chemical Company
-,APA Corporation
-,News Corp (Class B)
-,Caesars Entertainment
-,Enphase Energy
+NVDA,Nvidia
+MSFT,Microsoft
+AAPL,Apple Inc.
+AMZN,Amazon
+META,Meta Platforms
+AVGO,Broadcom
+GOOGL,Alphabet Inc. (Class A)
+GOOG,Alphabet Inc. (Class C)
+TSLA,"Tesla, Inc."
+BRK.B,Berkshire Hathaway
+WMT,Walmart
+JPM,JPMorgan Chase
+ORCL,Oracle Corporation
+V,Visa Inc.
+LLY,Lilly (Eli)
+MA,Mastercard
+NFLX,Netflix
+XOM,ExxonMobil
+PLTR,Palantir Technologies
+COST,Costco
+JNJ,Johnson & Johnson
+HD,Home Depot (The)
+PG,Procter & Gamble
+ABBV,AbbVie
+BAC,Bank of America
+CVX,Chevron Corporation
+KO,Coca-Cola Company (The)
+GE,GE Aerospace
+CSCO,Cisco
+AMD,Advanced Micro Devices
+TMUS,T-Mobile US
+PM,Philip Morris International
+WFC,Wells Fargo
+ABT,Abbott Laboratories
+CRM,Salesforce
+MS,Morgan Stanley
+UNH,UnitedHealth Group
+IBM,IBM
+LIN,Linde plc
+MCD,McDonald's
+GS,Goldman Sachs
+INTU,Intuit
+RTX,RTX Corporation
+AXP,American Express
+DIS,Walt Disney Company (The)
+MRK,Merck & Co.
+T,AT&T
+PEP,PepsiCo
+CAT,Caterpillar Inc.
+UBER,Uber
+VZ,Verizon
+NOW,ServiceNow
+GEV,GE Vernova
+SCHW,Charles Schwab Corporation
+BKNG,Booking Holdings
+ANET,Arista Networks
+BLK,BlackRock
+TMO,Thermo Fisher Scientific
+BA,Boeing
+C,Citigroup
+TXN,Texas Instruments
+SPGI,S&P Global
+ISRG,Intuitive Surgical
+QCOM,Qualcomm
+AMGN,Amgen
+BSX,Boston Scientific
+NEE,NextEra Energy
+ACN,Accenture
+GILD,Gilead Sciences
+AMAT,Applied Materials
+TJX,TJX Companies
+ADBE,Adobe Inc.
+PGR,Progressive Corporation
+SYK,Stryker Corporation
+DHR,Danaher Corporation
+ETN,Eaton Corporation
+PFE,Pfizer
+DE,Deere & Company
+HON,Honeywell
+LOW,Lowe's
+APH,Amphenol
+COF,Capital One
+MU,Micron Technology
+BX,Blackstone Inc.
+UNP,Union Pacific Corporation
+LRCX,Lam Research
+KKR,KKR
+ADP,Automatic Data Processing
+KLAC,KLA Corporation
+MDT,Medtronic
+COP,ConocoPhillips
+CMCSA,Comcast
+SNPS,Synopsys
+WELL,Welltower
+PANW,Palo Alto Networks
+ADI,Analog Devices
+DASH,DoorDash
+NKE,"Nike, Inc."
+CB,Chubb Limited
+MO,Altria
+ICE,Intercontinental Exchange
+CRWD,CrowdStrike
+CEG,Constellation Energy
+SBUX,Starbucks
+SO,Southern Company
+CME,CME Group
+MMC,Marsh McLennan
+LMT,Lockheed Martin
+PLD,Prologis
+DUK,Duke Energy
+AMT,American Tower
+CDNS,Cadence Design Systems
+TT,Trane Technologies
+WM,Waste Management
+VRTX,Vertex Pharmaceuticals
+BMY,Bristol Myers Squibb
+DELL,Dell Technologies
+PH,Parker Hannifin
+MCO,Moody's Corporation
+CTAS,Cintas
+HCA,HCA Healthcare
+SHW,Sherwin-Williams
+ORLY,O'Reilly Auto Parts
+INTC,Intel
+GD,General Dynamics
+MCK,McKesson Corporation
+NOC,Northrop Grumman
+CVS,CVS Health
+RCL,Royal Caribbean Group
+MMM,3M
+APO,Apollo Global Management
+MDLZ,Mondelez International
+COIN,Coinbase Global
+AON,Aon
+TDG,TransDigm Group
+ECL,Ecolab
+EQIX,Equinix
+NEM,Newmont
+MSI,Motorola Solutions
+ITW,Illinois Tool Works
+PNC,PNC Financial Services
+EMR,Emerson Electric
+ABNB,Airbnb
+AJG,Arthur J. Gallagher & Co.
+RSG,Republic Services
+UPS,United Parcel Service
+CI,Cigna
+HWM,Howmet Aerospace
+BK,BNY Mellon
+FI,Fiserv
+WMB,Williams Companies
+MAR,Marriott International
+USB,U.S. Bancorp
+JCI,Johnson Controls
+VST,Vistra Corp.
+CL,Colgate-Palmolive
+AZO,AutoZone
+ELV,Elevance Health
+AXON,Axon Enterprise
+CSX,CSX Corporation
+ZTS,Zoetis
+PYPL,PayPal
+APD,Air Products
+EOG,EOG Resources
+MNST,Monster Beverage
+NSC,Norfolk Southern Railway
+ADSK,Autodesk
+HLT,Hilton Worldwide
+AEP,American Electric Power
+KMI,Kinder Morgan
+TEL,TE Connectivity
+REGN,Regeneron Pharmaceuticals
+TRV,Travelers Companies (The)
+WDAY,"Workday, Inc."
+FCX,Freeport-McMoRan
+DLR,Digital Realty
+PWR,Quanta Services
+ROP,Roper Technologies
+FTNT,Fortinet
+GLW,Corning Inc.
+CARR,Carrier Global
+NDAQ,"Nasdaq, Inc."
+CMG,Chipotle Mexican Grill
+TFC,Truist Financial
+BDX,Becton Dickinson
+AFL,Aflac
+URI,United Rentals
+COR,Cencora
+FAST,Fastenal
+ALL,Allstate
+SPG,Simon Property Group
+FDX,FedEx
+CMI,Cummins
+SRE,Sempra
+D,Dominion Energy
+IDXX,Idexx Laboratories
+NXPI,NXP Semiconductors
+O,Realty Income
+MET,MetLife
+PCAR,Paccar
+GM,General Motors
+PAYX,Paychex
+LHX,L3Harris
+PSA,Public Storage
+KR,Kroger
+SLB,Schlumberger
+MPC,Marathon Petroleum
+CTVA,Corteva
+PSX,Phillips 66
+TGT,Target Corporation
+AMP,Ameriprise Financial
+ROST,Ross Stores
+OKE,ONEOK
+KDP,Keurig Dr Pepper
+DHI,D. R. Horton
+CBRE,CBRE Group
+EW,Edwards Lifesciences
+EXC,Exelon
+CCI,Crown Castle
+GWW,W. W. Grainger
+DDOG,Datadog
+KMB,Kimberly-Clark
+XYZ,"Block, Inc."
+F,Ford Motor Company
+AIG,American International Group
+GRMN,Garmin
+CPRT,Copart
+PEG,Public Service Enterprise Group
+OXY,Occidental Petroleum
+XEL,Xcel Energy
+BKR,Baker Hughes
+EBAY,eBay
+MSCI,MSCI
+AME,Ametek
+EA,Electronic Arts
+RMD,ResMed
+VLO,Valero Energy
+FANG,Diamondback Energy
+KVUE,Kenvue
+ETR,Entergy
+TTWO,Take-Two Interactive
+CSGP,CoStar Group
+YUM,Yum! Brands
+MPWR,Monolithic Power Systems
+SYY,Sysco
+CCL,Carnival
+VMC,Vulcan Materials Company
+ED,Consolidated Edison
+CAH,Cardinal Health
+ROK,Rockwell Automation
+HSY,Hershey Company (The)
+FIS,Fidelity National Information Services
+VRSK,Verisk Analytics
+MLM,Martin Marietta Materials
+PRU,Prudential Financial
+LVS,Las Vegas Sands
+HIG,Hartford (The)
+TRGP,Targa Resources
+WEC,WEC Energy Group
+LYV,Live Nation Entertainment
+VICI,Vici Properties
+CHTR,Charter Communications
+DAL,Delta Air Lines
+XYL,Xylem Inc.
+OTIS,Otis Worldwide
+CTSH,Cognizant
+MCHP,Microchip Technology
+ACGL,Arch Capital Group
+RJF,Raymond James Financial
+PCG,PG&E Corporation
+GEHC,GE HealthCare
+KHC,Kraft Heinz
+WAB,Wabtec
+EL,Estée Lauder Companies (The)
+A,Agilent Technologies
+HUM,Humana
+NUE,Nucor
+EQT,EQT Corporation
+STX,Seagate Technology
+WTW,Willis Towers Watson
+FICO,Fair Isaac
+STT,State Street Corporation
+TSCO,Tractor Supply
+LEN,Lennar
+VTR,Ventas
+BR,Broadridge Financial Solutions
+DXCM,Dexcom
+BRO,Brown & Brown
+IQV,IQVIA
+ODFL,Old Dominion
+IR,Ingersoll Rand
+STZ,Constellation Brands
+EFX,Equifax
+DD,DuPont
+NRG,NRG Energy
+MTB,M&T Bank
+DTE,DTE Energy
+EXR,Extra Space Storage
+UAL,United Airlines Holdings
+ROL,"Rollins, Inc."
+KEYS,Keysight Technologies
+AWK,American Water Works
+K,Kellanova
+ADM,Archer Daniels Midland
+FITB,Fifth Third Bancorp
+AEE,Ameren
+HPE,Hewlett Packard Enterprise
+GIS,General Mills
+WBD,Warner Bros. Discovery
+PPL,PPL Corporation
+AVB,AvalonBay Communities
+WRB,W. R. Berkley Corporation
+VLTO,Veralto
+SMCI,Supermicro
+IRM,Iron Mountain
+TTD,"The Trade Desk, Inc."
+CBOE,Cboe Global Markets
+WDC,Western Digital
+ATO,Atmos Energy
+MTD,Mettler Toledo
+SYF,Synchrony Financial
+TYL,Tyler Technologies
+DG,Dollar General
+TDY,Teledyne Technologies
+VRSN,Verisign
+CNP,CenterPoint Energy
+IP,International Paper
+FE,FirstEnergy
+EXPE,Expedia Group
+PTC,PTC Inc.
+WSM,Williams-Sonoma
+HPQ,HP Inc.
+DLTR,Dollar Tree
+PPG,PPG Industries
+ES,Eversource Energy
+JBL,Jabil
+EQR,Equity Residential
+PHM,PulteGroup
+NTRS,Northern Trust
+STE,Steris
+DOV,Dover Corporation
+SBAC,SBA Communications
+EXE,Expand Energy
+HBAN,Huntington Bancshares
+DRI,Darden Restaurants
+CINF,Cincinnati Financial
+TROW,T. Rowe Price
+SW,Smurfit WestRock
+LULU,Lululemon Athletica
+TPR,"Tapestry, Inc."
+LDOS,Leidos
+ULTA,Ulta Beauty
+HUBB,Hubbell Incorporated
+RF,Regions Financial Corporation
+AMCR,Amcor
+CHD,Church & Dwight
+LH,LabCorp
+CMS,CMS Energy
+NVR,"NVR, Inc."
+PODD,Insulet Corporation
+CDW,CDW
+DVN,Devon Energy
+CPAY,Corpay
+NTAP,NetApp
+EIX,Edison International
+LII,Lennox International
+CFG,Citizens Financial Group
+TSN,Tyson Foods
+TRMB,Trimble Inc.
+NI,NiSource
+TPL,Texas Pacific Land Corporation
+FSLR,First Solar
+DGX,Quest Diagnostics
+GPN,Global Payments
+ZBH,Zimmer Biomet
+ON,ON Semiconductor
+L,Loews Corporation
+KEY,KeyCorp
+BIIB,Biogen
+GDDY,GoDaddy
+MKC,McCormick & Company
+GEN,Gen Digital
+ERIE,Erie Indemnity
+FFIV,"F5, Inc."
+GPC,Genuine Parts Company
+WY,Weyerhaeuser
+INVH,Invitation Homes
+CTRA,Coterra
+STLD,Steel Dynamics
+HAL,Halliburton
+J,Jacobs Solutions
+PKG,Packaging Corporation of America
+RL,Ralph Lauren Corporation
+IT,Gartner
+WST,West Pharmaceutical Services
+TER,Teradyne
+PFG,Principal Financial Group
+LNT,Alliant Energy
+PNR,Pentair
+SNA,Snap-on
+WAT,Waters Corporation
+EVRG,Evergy
+BG,Bunge Global
+MAA,Mid-America Apartment Communities
+ESS,Essex Property Trust
+IFF,International Flavors & Fragrances
+ZBRA,Zebra Technologies
+FTV,Fortive
+EXPD,Expeditors International
+LYB,LyondellBasell
+HRL,Hormel Foods
+LUV,Southwest Airlines
+CLX,Clorox
+INCY,Incyte
+HOLX,Hologic
+DECK,Deckers Brands
+DOW,Dow Inc.
+DPZ,Domino's
+BALL,Ball Corporation
+BLDR,Builders FirstSource
+BBY,Best Buy
+APTV,Aptiv
+BF.B,Brown–Forman
+MAS,Masco
+FDS,FactSet
+OMC,Omnicom Group
+KIM,Kimco Realty
+ALLE,Allegion
+COO,Cooper Companies (The)
+EG,Everest Group
+CHRW,C.H. Robinson
+TXT,Textron
+JBHT,J.B. Hunt
+TKO,TKO Group Holdings
+AVY,Avery Dennison
+CF,CF Industries
+REG,Regency Centers
+BEN,Franklin Resources
+PAYC,Paycom
+SOLV,Solventum
+ARE,Alexandria Real Estate Equities
+UDR,"UDR, Inc."
+CNC,Centene Corporation
+BAX,Baxter International
+NDSN,Nordson Corporation
+IEX,IDEX Corporation
+SJM,J.M. Smucker Company (The)
+DOC,Healthpeak Properties
+JKHY,Jack Henry & Associates
+GL,Globe Life
+FOX,Fox Corporation (Class B)
+FOXA,Fox Corporation (Class A)
+GNRC,Generac
+POOL,Pool Corporation
+VTRS,Viatris
+CPT,Camden Property Trust
+WYNN,Wynn Resorts
+UHS,Universal Health Services
+PNW,Pinnacle West
+HAS,Hasbro
+NCLH,Norwegian Cruise Line Holdings
+NWSA,News Corp (Class A)
+SWK,Stanley Black & Decker
+HST,Host Hotels & Resorts
+SWKS,Skyworks Solutions
+HII,Huntington Ingalls Industries
+WBA,Walgreens Boots Alliance
+AIZ,Assurant
+MRNA,Moderna
+MOS,Mosaic Company (The)
+ALGN,Align Technology
+RVTY,Revvity
+AKAM,Akamai Technologies
+TAP,Molson Coors Beverage Company
+BXP,"BXP, Inc."
+AOS,A. O. Smith
+CPB,Campbell Soup Company
+AES,AES Corporation
+MGM,MGM Resorts
+DVA,DaVita
+IVZ,Invesco
+CAG,Conagra Brands
+IPG,Interpublic Group of Companies (The)
+EPAM,EPAM Systems
+ALB,Albemarle Corporation
+MTCH,Match Group
+MOH,Molina Healthcare
+KMX,CarMax
+DAY,Dayforce
+HSIC,Henry Schein
+TECH,Bio-Techne
+FRT,Federal Realty Investment Trust
+LKQ,LKQ Corporation
+MHK,Mohawk Industries
+PARA,Paramount Global
+CRL,Charles River Laboratories
+APA,APA Corporation
+LW,Lamb Weston
+EMN,Eastman Chemical Company
+MKTX,MarketAxess
+NWS,News Corp (Class B)
+CZR,Caesars Entertainment
+ENPH,Enphase Energy

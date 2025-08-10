@@ -38,7 +38,7 @@ def get_constituents_from_csindex(url):
 def get_constituents_from_slickcharts(url):
     selector_yml = '''
                     Symbol:
-                        css: '#companyListComponent tr td:nth-of-type(3) a'
+                        css: 'tr td:nth-of-type(3) a'
                         xpath: null
                         multiple: true
                         type: Text
@@ -55,7 +55,17 @@ def get_constituents_from_slickcharts(url):
     r = requests.get(url, headers=headers)
 
     data = e.extract(r.text)
-    df = pd.DataFrame(data)
+    
+    # Handle potential None values and array length mismatches
+    symbols = data.get('Symbol') or []
+    names = data.get('Name') or []
+    
+    # Handle mismatched lengths by taking the minimum
+    min_length = min(len(symbols), len(names))
+    symbols = symbols[:min_length]
+    names = names[:min_length]
+    
+    df = pd.DataFrame({'Symbol': symbols, 'Name': names})
 
     return df
 
