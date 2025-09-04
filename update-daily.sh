@@ -13,6 +13,6 @@ mkdir -p docs/$year/$month/$day
 # retrieve data
 ./get-constituents.py
 
-# copy files into daily folder
-cp docs/*.json docs/$year/$month/$day
-cp docs/*.csv docs/$year/$month/$day
+# copy files into daily folder (robust if no matches)
+find docs/ -maxdepth 1 -type f -name '*.json' -exec cp -t "docs/$year/$month/$day" {} +
+find docs/ -maxdepth 1 -type f -name '*.csv'  -exec cp -t "docs/$year/$month/$day" {} +
