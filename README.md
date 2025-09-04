@@ -1,6 +1,6 @@
 # index-constituents
 
-[![update-monthly](https://github.com/yfiua/index-constituents/workflows/update-monthly/badge.svg)](https://github.com/yfiua/index-constituents/actions?query=workflow:%22update-monthly%22)
+[![update-daily](https://github.com/yfiua/index-constituents/workflows/update-daily/badge.svg)](https://github.com/yfiua/index-constituents/actions?query=workflow:%22update-daily%22)
 [![Website](https://img.shields.io/badge/Visit-Website-blue?logo=github)](https://yfiua.github.io/index-constituents/)
 
 Get the current and historical constituents of popular stock indices.
@@ -25,7 +25,7 @@ All symbols are consistent with those in [Yahoo Finance](https://finance.yahoo.c
 
 ## Usage
 ### Direct download
-To get the current index constituents, use the links above. You probably have noticed the URLs have some pattern:
+To get the current index constituents, use the links in [Supported indices](#supported-indices) above. You may have noticed the URLs follow a pattern:
 
 ```sh
 wget https://yfiua.github.io/index-constituents/constituents-$CODE.$FORMAT
@@ -41,29 +41,36 @@ url = "https://yfiua.github.io/index-constituents/constituents-csi300.csv"
 df = pd.read_csv(url)
 ```
 
-### Build yourself
-Check `requirements.txt`. Run:
+### Build it yourself
+Check [requirements.txt](./requirements.txt). Then run:
 
 ```sh
 ./get-constituents.py
 ```
 
-## Historical data
-To get the historical index constituents, use the following URL:
+This will generate CSV and JSON files under the [docs/](./docs/) folder.
 
+## Historical data
+To get the historical index constituents, use one of the following URLs:
+
+- Monthly archive:
 ```sh
 https://yfiua.github.io/index-constituents/$YYYY/$MM/constituents-$CODE.$FORMAT
 ```
+- Daily archive:
+```sh
+https://yfiua.github.io/index-constituents/$YYYY/$MM/$DD/constituents-$CODE.$FORMAT
+```
 
-By default we automatically update the data monthly (usually on the first day).
+By default we automatically update the data daily. See the [GitHub Actions workflow](.github/workflows/update-daily.yml).
 Historical data of a particular index is only available from the month we start to include it.
 
-## Data source
+## Data sources
 * [中证指数](http://www.csindex.com.cn/)
 * [深交所](http://www.szse.cn/)
 * [Slickcharts](https://www.slickcharts.com/)
 * [Bloomberg](https://www.bloomberg.com/)
-* [乌龟量化](https://wglh.com/) - deprecated
+
 
 ## Author
 * [Yfiua](https://github.com/yfiua)
