@@ -6,6 +6,17 @@
 Get the current and historical constituents of popular stock indices.
 All symbols are consistent with those in [Yahoo Finance](https://finance.yahoo.com/).
 
+## Table of contents
+- [Supported indices](#supported-indices)
+- [Usage](#usage)
+  - [Direct download](#direct-download)
+  - [Use in your program](#use-in-your-program)
+  - [Build it yourself](#build-it-yourself)
+- [Historical data](#historical-data)
+- [Automation](#automation)
+- [Data sources](#data-sources)
+- [Author](#author)
+
 ## Supported indices
 
 
@@ -65,11 +76,17 @@ https://yfiua.github.io/index-constituents/$YYYY/$MM/$DD/constituents-$CODE.$FOR
 By default we automatically update the data daily. See the [GitHub Actions workflow](.github/workflows/update-daily.yml).
 Historical data of a particular index is only available from the month we start to include it.
 
+## Automation
+- Daily updates are scheduled via [GitHub Actions](.github/workflows/update-daily.yml) at 22:00 UTC.
+- The workflow runs [update-daily.sh](./update-daily.sh), which writes the latest CSV/JSON to [docs/](./docs/) and also snapshots them under docs/$YYYY/$MM/$DD/.
+
 ## Data sources
 * [中证指数](http://www.csindex.com.cn/)
 * [深交所](http://www.szse.cn/)
 * [Slickcharts](https://www.slickcharts.com/)
 * [Bloomberg](https://www.bloomberg.com/)
+
+
 
 
 ## Author
