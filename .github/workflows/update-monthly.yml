@@ -1,9 +1,10 @@
-name: update-monthly
+name: update-daily
 
 on:
   workflow_dispatch:
   schedule:
-    - cron: "0 12 1 * *"
+    # Run once daily at 22:00 UTC (within 20:00–23:00 UTC window)
+    - cron: "0 22 * * *"
 
 jobs:
   build:
