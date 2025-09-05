@@ -20,6 +20,7 @@ LIN,Linde plc
 PEP,PepsiCo
 INTU,Intuit
 SHOP,Shopify
+INTU,Intuit
 BKNG,Booking Holdings
 PDD,PDD Holdings
 TXN,Texas Instruments
@@ -30,7 +31,6 @@ AMGN,Amgen
 ADBE,Adobe Inc.
 ARM,Arm Holdings
 GILD,Gilead Sciences
-HON,Honeywell
 MU,Micron Technology
 PANW,Palo Alto Networks
 LRCX,Lam Research
@@ -95,7 +95,6 @@ KHC,Kraft Heinz
 ODFL,Old Dominion Freight Line
 WBD,Warner Bros. Discovery
 TTD,Trade Desk (The)
-LULU,Lululemon Athletica
 CDW,CDW Corporation
 BIIB,Biogen
 ON,Onsemi

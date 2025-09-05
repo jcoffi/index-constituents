@@ -34,6 +34,7 @@ WFC,Wells Fargo
 AMD,Advanced Micro Devices
 PM,Philip Morris International
 MS,Morgan Stanley
+CRM,Salesforce
 ABT,Abbott Laboratories
 IBM,IBM
 CRM,Salesforce
@@ -83,6 +84,7 @@ ETN,Eaton Corporation
 BX,Blackstone Inc.
 UNP,Union Pacific Corporation
 PANW,Palo Alto Networks
+DE,Deere & Company
 LRCX,Lam Research
 DE,Deere & Company
 AMAT,Applied Materials
@@ -138,6 +140,8 @@ MDLZ,Mondelez International
 COIN,Coinbase Global
 ECL,Ecolab
 AJG,Arthur J. Gallagher & Co.
+ECL,Ecolab
+APO,Apollo Global Management
 ITW,Illinois Tool Works
 APO,Apollo Global Management
 USB,U.S. Bancorp
@@ -171,6 +175,7 @@ WDAY,"Workday, Inc."
 URI,United Rentals
 TEL,TE Connectivity
 CSX,CSX Corporation
+REGN,Regeneron Pharmaceuticals
 TFC,Truist Financial
 REGN,Regeneron Pharmaceuticals
 GLW,Corning Inc.
@@ -217,6 +222,7 @@ CBRE,CBRE Group
 EW,Edwards Lifesciences
 OKE,ONEOK
 F,Ford Motor Company
+XYZ,"Block, Inc."
 GRMN,Garmin
 XYZ,"Block, Inc."
 OXY,Occidental Petroleum
@@ -242,6 +248,11 @@ MPWR,Monolithic Power Systems
 RMD,ResMed
 YUM,Yum! Brands
 KDP,Keurig Dr Pepper
+DAL,Delta Air Lines
+SYY,Sysco
+RMD,ResMed
+KVUE,Kenvue
+STX,Seagate Technology
 ETR,Entergy
 SYY,Sysco
 KVUE,Kenvue
@@ -422,7 +433,7 @@ DPZ,Domino's
 TKO,TKO Group Holdings
 MAS,Masco
 KIM,Kimco Realty
-CHRW,C.H. Robinson
+CLX,Clorox
 OMC,Omnicom Group
 CLX,Clorox
 HOLX,Hologic
@@ -449,6 +460,8 @@ PAYC,Paycom
 NDSN,Nordson Corporation
 SOLV,Solventum
 DOC,Healthpeak Properties
+PAYC,Paycom
+SOLV,Solventum
 IEX,IDEX Corporation
 BAX,Baxter International
 VTRS,Viatris
@@ -470,6 +483,7 @@ SWKS,Skyworks Solutions
 AIZ,Assurant
 PNW,Pinnacle West
 HII,Huntington Ingalls Industries
+GNRC,Generac
 MOS,Mosaic Company (The)
 GNRC,Generac
 MGM,MGM Resorts
