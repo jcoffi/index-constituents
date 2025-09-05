@@ -20,19 +20,19 @@ All symbols are consistent with those in [Yahoo Finance](https://finance.yahoo.c
 ## Supported indices
 
 
-| Code      |  Name             |  Start   | Download                                                                                                                                                      |
-|:----------|:------------------|:---------|:--------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| csi300    | CSI 300 (沪深300) | 2023/07  | [json](https://jcoffi.github.io/index-constituents/constituents-csi300.json) / [csv](https://jcoffi.github.io/index-constituents/constituents-csi300.csv)       |
-| csi500    | CSI 500 (中证500)   | 2024/01  | [json](https://jcoffi.github.io/index-constituents/constituents-csi500.json) / [csv](https://jcoffi.github.io/index-constituents/constituents-csi500.csv)       |
-| csi1000   | CSI 1000 (中证1000) | 2024/01  | [json](https://jcoffi.github.io/index-constituents/constituents-csi1000.json) / [csv](https://jcoffi.github.io/index-constituents/constituents-csi1000.csv)     |
-| sse       | SSE (上证综指)    | 2023/07  | [json](https://jcoffi.github.io/index-constituents/constituents-sse.json) / [csv](https://jcoffi.github.io/index-constituents/constituents-sse.csv)             |
-| szse      | SZSE (深证成指)   | 2023/07  | [json](https://jcoffi.github.io/index-constituents/constituents-szse.json) / [csv](https://jcoffi.github.io/index-constituents/constituents-szse.csv)           |
-| nasdaq100 | NASDAQ 100        | 2023/07  | [json](https://jcoffi.github.io/index-constituents/constituents-nasdaq100.json) / [csv](https://jcoffi.github.io/index-constituents/constituents-nasdaq100.csv) |
-| sp500     | S&P 500           | 2023/07  | [json](https://jcoffi.github.io/index-constituents/constituents-sp500.json) / [csv](https://jcoffi.github.io/index-constituents/constituents-sp500.csv)         |
-| dowjones  | Dow Jones         | 2023/07  | [json](https://jcoffi.github.io/index-constituents/constituents-dowjones.json) / [csv](https://jcoffi.github.io/index-constituents/constituents-dowjones.csv)   |
-| dax       | DAX               | 2023/07  | [json](https://jcoffi.github.io/index-constituents/constituents-dax.json) / [csv](https://jcoffi.github.io/index-constituents/constituents-dax.csv)             |
-| hsi       | HSI (恒生指数)    | 2023/07  | [json](https://jcoffi.github.io/index-constituents/constituents-hsi.json) / [csv](https://jcoffi.github.io/index-constituents/constituents-hsi.csv)             |
-| ftse100   | FTSE 100          | 2023/07  | [json](https://jcoffi.github.io/index-constituents/constituents-ftse100.json) / [csv](https://jcoffi.github.io/index-constituents/constituents-ftse100.csv)     |
+| Code      |  Name             |  Start     | Download                                                                                                                                                        |
+|:----------|:------------------|:-----------|:----------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| csi300    | CSI 300 (沪深300)   | 2023/07    | [json](https://jcoffi.github.io/index-constituents/constituents-csi300.json) / [csv](https://jcoffi.github.io/index-constituents/constituents-csi300.csv)       |
+| csi500    | CSI 500 (中证500)   | 2024/02    | [json](https://jcoffi.github.io/index-constituents/constituents-csi500.json) / [csv](https://jcoffi.github.io/index-constituents/constituents-csi500.csv)       |
+| csi1000   | CSI 1000 (中证1000) | 2024/02    | [json](https://jcoffi.github.io/index-constituents/constituents-csi1000.json) / [csv](https://jcoffi.github.io/index-constituents/constituents-csi1000.csv)     |
+| sse       | SSE (上证综指)        | 2023/07    | [json](https://jcoffi.github.io/index-constituents/constituents-sse.json) / [csv](https://jcoffi.github.io/index-constituents/constituents-sse.csv)             |
+| szse      | SZSE (深证成指)       | 2023/07    | [json](https://jcoffi.github.io/index-constituents/constituents-szse.json) / [csv](https://jcoffi.github.io/index-constituents/constituents-szse.csv)           |
+| nasdaq100 | NASDAQ 100        | 1995/01/27 | [json](https://jcoffi.github.io/index-constituents/constituents-nasdaq100.json) / [csv](https://jcoffi.github.io/index-constituents/constituents-nasdaq100.csv) |
+| sp500     | S&P 500           | 1970/03/05 | [json](https://jcoffi.github.io/index-constituents/constituents-sp500.json) / [csv](https://jcoffi.github.io/index-constituents/constituents-sp500.csv)         |
+| dowjones  | Dow Jones         | 1982/08/30 | [json](https://jcoffi.github.io/index-constituents/constituents-dowjones.json) / [csv](https://jcoffi.github.io/index-constituents/constituents-dowjones.csv)   |
+| dax       | DAX               | 2023/07    | [json](https://jcoffi.github.io/index-constituents/constituents-dax.json) / [csv](https://jcoffi.github.io/index-constituents/constituents-dax.csv)             |
+| hsi       | HSI (恒生指数)        | 2023/07    | [json](https://jcoffi.github.io/index-constituents/constituents-hsi.json) / [csv](https://jcoffi.github.io/index-constituents/constituents-hsi.csv)             |
+| ftse100   | FTSE 100          | 2023/07    | [json](https://jcoffi.github.io/index-constituents/constituents-ftse100.json) / [csv](https://jcoffi.github.io/index-constituents/constituents-ftse100.csv)     |
 
 ## Usage
 ### Direct download
