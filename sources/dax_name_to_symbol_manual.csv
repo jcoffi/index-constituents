@@ -1,0 +1,102 @@
+name,symbol,evidence_url
+Airbus SE,AIR.DE,
+Allianz,ALV.DE,
+Altana,ALT.DE,https://www.marketscreener.com/quote/stock/ALTANA-AG-436718/
+BASF,BAS.DE,https://www.boerse-frankfurt.de/global-search/BAS
+BMW,BMW.DE,
+Bayer,BAYN.DE,
+Bayer. Hypo- und Vereinsbank,HVB.DE,https://en.wikipedia.org/wiki/HypoVereinsbank
+Bayer. Hypo.- und Wechsel-Bank,HYP.DE,https://en.wikipedia.org/wiki/Bayerische_Hypotheken-_und_Wechsel-Bank
+Bayerische Vereinsbank,VBH.DE,https://en.wikipedia.org/wiki/Bayerische_Vereinsbank
+Beiersdorf,BEI.DE,
+Beiersdorf AG,BEI.DE,
+Brenntag SE,BNR.DE,
+Commerzbank,CBK.DE,
+Commerzbank AG,CBK.DE,
+Continental,CON.DE,
+Covestro,1COV.DE,
+Covestro AG,1COV.DE,
+Daimler Truck Holding,DTG.DE,
+Daimler-Benz,MBG.DE,https://en.wikipedia.org/wiki/Mercedes-Benz_Group#History
+DaimlerChrysler,MBG.DE,https://en.wikipedia.org/wiki/Mercedes-Benz_Group#History
+Degussa,DGX.DE,https://www.deutsche-boerse-cash-market.com/resource/blob/187550/228c637c245b4179961d935bbd35030a/data/52_03d.pdf
+Degussa-Hüls,DHA.DE,https://www.deutsche-boerse-cash-market.com/resource/blob/261830/fa836a50921c87846add7bae580f2703/data/Teilnehmerinformationen-zu-Simulation-und-Datenkonvertierung.pdf
+Delivery Hero SE,DHER.DE,
+Deutsche Babcock,BBAG.DE,https://de.wikipedia.org/wiki/Babcock_Borsig
+Deutsche Bank,DBK.DE,
+Deutsche Börse,DB1.DE,
+Deutsche Lufthansa,LHA.DE,
+Deutsche Lufthansa AG,LHA.DE,
+Deutsche Post,DHL.DE,
+Deutsche Postbank,DPB.DE,https://www.boerse-frankfurt.de/global-search/DPB
+Deutsche Telekom,DTE.DE,
+Deutsche Wohnen SE,DWNI.DE,
+Dr. Ing. h.c. F. Porsche VZOI,P911.DE,https://en.wikipedia.org/wiki/Porsche_AG
+Dresdner Bank,DRB.DE,
+E.ON,EOAN.DE,
+EPCOS,EPC.DE,https://web.archive.org/web/20000817031645/http://www.epcos.com/web/generator/www.epcos.com/en/Customers/Newsroom/PressReleases/News/010299/epcos-stock-in-germany.html
+Feldmühle Nobel,,
+Fresenius Medical Care,FME.DE,
+Fresenius Pref,FRE3.DE,https://www.boerse-frankfurt.de/global-search/FRE3
+Hannover Rück,HNR1.DE,
+Hannover Rück SE,HNR1.DE,
+Hannover Rückversicherung,HNR1.DE,https://de.wikipedia.org/wiki/Hannover_R%C3%BCck
+HeidelbergCement,HEI.DE,
+HelloFresh SE,HFG.DE,
+Henkel,HEN3.DE,https://raw.githubusercontent.com/jingchengdev/automating-technical-analysis/8d48a9c3693a50d47cf2804b0725ea2e409c75e1/market_data/stocks.txt
+Hoechst,HST.DE,https://en.wikipedia.org/wiki/Hoechst_AG
+Hypo Real Estate,HRX.DE,
+Hypo Real Estate Holding,HRX.DE,
+Infineon,IFX.DE,
+K+S,SDF.DE,https://en.wikipedia.org/wiki/K+S
+Karstadt,AROG.DE,https://en.wikipedia.org/wiki/Arcandor
+Karstadt Quelle,ARO.DE,https://en.wikipedia.org/wiki/Arcandor
+Kaufhof,,
+Lanxess,LXS.DE,
+Lanxess AG,LXS.DE,
+Linde,LIN.DE,
+Linde PLC,LIN.DE,
+MAN,MAN.DE,https://en.wikipedia.org/wiki/MAN_SE
+MLP,MLP.DE,https://www.boerse-frankfurt.de/global-search/MLP
+MTU Aero Engines,MTX.DE,
+Mannesmann,MMN.DE,https://www.deutsche-boerse-cash-market.com/resource/blob/261830/fa836a50921c87846add7bae580f2703/data/Teilnehmerinformationen-zu-Simulation-und-Datenkonvertierung.pdf
+Merck KGaA,MRK.DE,
+Metallgesellschaft,MG.DE,https://pm20.zbw.eu/folder/co/016110
+Metro,B4B3.DE,
+Münchener Rückversicherung,MUV2.DE,https://de.wikipedia.org/wiki/M%C3%BCnchener_R%C3%BCck
+Nixdorf,NIX3.DE,https://web.archive.org/web/20020202052020/http://finance.wiwi.uni-karlsruhe.de/kkmdb/
+Porsche Automobile Holding VZO,PAH3.DE,
+Preussag,TUI1.DE,https://en.wikipedia.org/wiki/Preussag
+ProSiebenSat.1 Media,PSM.DE,
+ProSiebenSat.1 Media SA,PSM.DE,https://www.boerse-frankfurt.de/global-search/PSM
+Puma SE,PUM.DE,
+Qiagen NV,QIA.DE,
+RWE,RWE.DE,https://raw.githubusercontent.com/jingchengdev/automating-technical-analysis/8d48a9c3693a50d47cf2804b0725ea2e409c75e1/market_data/stocks.txt
+Rheinmetall AG,RHM.DE,
+SAP,SAP.DE,https://raw.githubusercontent.com/jingchengdev/automating-technical-analysis/8d48a9c3693a50d47cf2804b0725ea2e409c75e1/market_data/stocks.txt
+Salzgitter,SZG.DE,
+Sartorius AG VZ,SRT3.DE,
+Schering,SHC.DE,https://en.wikipedia.org/wiki/Schering_AG
+Siemens,SIE.DE,
+Siemens Energy AG,ENR.DE,
+Siemens Healthineers AG,SHL.DE,
+Symrise AG,SY1.DE,
+TUI,TUI1.DE,https://en.wikipedia.org/wiki/Preussag
+Thyssen,TKA.DE,https://en.wikipedia.org/wiki/Thyssen_AG
+ThyssenKrupp,TKA.DE,
+Thyssenkrupp AG,TKA.DE,
+Veba,EOAN.DE,https://en.wikipedia.org/wiki/E.ON
+Viag,EOAN.DE,https://en.wikipedia.org/wiki/E.ON
+Volkswagen,VOW3.DE,
+Volkswagen (St),VOW.DE,
+Volkswagen (Vz),VOW3.DE,
+Vonovia SE,VNA.DE,
+Wirecard AG,WDI.DE,
+Zalando SE,ZAL.DE,
+adidas-Salomon,ADS.DE,
+Kaufhof Warenhaus AG,KFH.DE,https://web.archive.org/web/19970217194957/http://www.teledata.de/fonds/listen/aktien-d.txt
+Feldmühle Nobel AG (later FPB Holding AG),FDN.DE,https://web.archive.org/web/19970217194957/http://www.teledata.de/fonds/listen/aktien-d.txt
+Metallgesellschaft AG,MET.DE,https://web.archive.org/web/19970217194957/http://www.teledata.de/fonds/listen/aktien-d.txt
+Kaufhof,KFH.DE,https://web.archive.org/web/19970217194957/http://www.teledata.de/fonds/listen/aktien-d.txt
+Feldmühle Nobel,FDN.DE,https://web.archive.org/web/19970217194957/http://www.teledata.de/fonds/listen/aktien-d.txt
+Metallgesellschaft,MET.DE,https://web.archive.org/web/19970217194957/http://www.teledata.de/fonds/listen/aktien-d.txt
