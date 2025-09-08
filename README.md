@@ -30,7 +30,7 @@ All symbols are consistent with those in [Yahoo Finance](https://finance.yahoo.c
 | nasdaq100 | NASDAQ 100        | 1995/01/27 | [json](https://jcoffi.github.io/index-constituents/constituents-nasdaq100.json) / [csv](https://jcoffi.github.io/index-constituents/constituents-nasdaq100.csv) |
 | sp500     | S&P 500           | 1970/03/05 | [json](https://jcoffi.github.io/index-constituents/constituents-sp500.json) / [csv](https://jcoffi.github.io/index-constituents/constituents-sp500.csv)         |
 | dowjones  | Dow Jones         | 1982/08/30 | [json](https://jcoffi.github.io/index-constituents/constituents-dowjones.json) / [csv](https://jcoffi.github.io/index-constituents/constituents-dowjones.csv)   |
-| dax       | DAX               | 2023/07    | [json](https://jcoffi.github.io/index-constituents/constituents-dax.json) / [csv](https://jcoffi.github.io/index-constituents/constituents-dax.csv)             |
+| dax       | DAX               | 1987/12/30 | [json](https://jcoffi.github.io/index-constituents/constituents-dax.json) / [csv](https://jcoffi.github.io/index-constituents/constituents-dax.csv)             |
 | hsi       | HSI (恒生指数)        | 2023/07    | [json](https://jcoffi.github.io/index-constituents/constituents-hsi.json) / [csv](https://jcoffi.github.io/index-constituents/constituents-hsi.csv)             |
 | ftse100   | FTSE 100          | 2023/07    | [json](https://jcoffi.github.io/index-constituents/constituents-ftse100.json) / [csv](https://jcoffi.github.io/index-constituents/constituents-ftse100.csv)     |
 
@@ -82,6 +82,7 @@ Historical data of a particular index is only available from the month we start 
 * [Slickcharts](https://www.slickcharts.com/)
 * [Bloomberg](https://www.bloomberg.com/)
 * [The Sheridan Press](https://www.wyomingnewspapers.org/)
+* [Misc Sources](./sources/)
 
 
 
