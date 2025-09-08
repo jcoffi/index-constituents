@@ -21,23 +21,23 @@ PEP,PepsiCo
 SHOP,Shopify
 INTU,Intuit
 BKNG,Booking Holdings
+APP,Applovin Corp
 PDD,PDD Holdings
 QCOM,Qualcomm
 TXN,Texas Instruments
 ISRG,Intuitive Surgical
-APP,Applovin Corp
 AMGN,Amgen
 ADBE,Adobe Inc.
 MU,Micron Technology
 ARM,Arm Holdings
 GILD,Gilead Sciences
 HON,Honeywell
-LRCX,Lam Research
 PANW,Palo Alto Networks
+LRCX,Lam Research
 AMAT,Applied Materials
 CMCSA,Comcast
-MELI,MercadoLibre
 ADI,Analog Devices
+MELI,MercadoLibre
 ADP,ADP
 KLAC,KLA Corporation
 SNPS,Synopsys
@@ -47,8 +47,8 @@ CRWD,CrowdStrike
 VRTX,Vertex Pharmaceuticals
 SBUX,Starbucks
 CDNS,Cadence Design Systems
-MSTR,MicroStrategy Inc.
 CEG,Constellation Energy
+MSTR,MicroStrategy Inc.
 ORLY,O'Reilly Automotive
 CTAS,Cintas
 MDLZ,Mondelez International
@@ -60,11 +60,11 @@ PYPL,PayPal
 WDAY,"Workday, Inc."
 MNST,Monster Beverage
 REGN,Regeneron Pharmaceuticals
-CSX,CSX Corporation
 FTNT,Fortinet
+CSX,CSX Corporation
 AEP,American Electric Power
-AXON,Axon Enterprise Inc.
 NXPI,NXP Semiconductors
+AXON,Axon Enterprise Inc.
 ROP,Roper Technologies
 FAST,Fastenal
 MRVL,Marvell Technology
@@ -72,8 +72,8 @@ PCAR,Paccar
 IDXX,Idexx Laboratories
 ROST,Ross Stores
 PAYX,Paychex
-DDOG,Datadog
 CPRT,Copart
+DDOG,Datadog
 TEAM,Atlassian
 BKR,Baker Hughes
 TTWO,Take-Two Interactive
@@ -97,6 +97,6 @@ WBD,Warner Bros. Discovery
 TTD,Trade Desk (The)
 CDW,CDW Corporation
 BIIB,Biogen
-ON,Onsemi
 LULU,Lululemon Athletica
+ON,Onsemi
 GFS,GlobalFoundries
