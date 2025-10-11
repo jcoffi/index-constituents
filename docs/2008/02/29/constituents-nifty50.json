@@ -1,63 +1,51 @@
 [
   {
-    "Symbol": "ADANIENT",
-    "Name": "ADANIENT"
+    "Symbol": "ABB",
+    "Name": "ABB"
   },
   {
-    "Symbol": "ADANIPORTS",
-    "Name": "ADANIPORTS"
+    "Symbol": "ACC",
+    "Name": "ACC"
   },
   {
-    "Symbol": "APOLLOHOSP",
-    "Name": "APOLLOHOSP"
-  },
-  {
-    "Symbol": "ASIANPAINT",
-    "Name": "ASIANPAINT"
-  },
-  {
-    "Symbol": "AXISBANK",
-    "Name": "AXISBANK"
+    "Symbol": "AMBUJACEM",
+    "Name": "AMBUJACEM"
   },
   {
     "Symbol": "BAJAJAUTO",
     "Name": "BAJAJAUTO"
   },
   {
-    "Symbol": "BAJAJFINSV",
-    "Name": "BAJAJFINSV"
-  },
-  {
-    "Symbol": "BAJFINANCE",
-    "Name": "BAJFINANCE"
-  },
-  {
-    "Symbol": "BEL",
-    "Name": "BEL"
-  },
-  {
     "Symbol": "BHARTIARTL",
     "Name": "BHARTIARTL"
+  },
+  {
+    "Symbol": "BHEL",
+    "Name": "BHEL"
+  },
+  {
+    "Symbol": "BPCL",
+    "Name": "BPCL"
+  },
+  {
+    "Symbol": "CAIRN",
+    "Name": "CAIRN"
   },
   {
     "Symbol": "CIPLA",
     "Name": "CIPLA"
   },
   {
-    "Symbol": "COALINDIA",
-    "Name": "COALINDIA"
-  },
-  {
     "Symbol": "DRREDDY",
     "Name": "DRREDDY"
   },
   {
-    "Symbol": "EICHERMOT",
-    "Name": "EICHERMOT"
+    "Symbol": "GAIL",
+    "Name": "GAIL"
   },
   {
-    "Symbol": "ETERNAL",
-    "Name": "ETERNAL"
+    "Symbol": "GLAXO",
+    "Name": "GLAXO"
   },
   {
     "Symbol": "GRASIM",
@@ -68,12 +56,12 @@
     "Name": "HCLTECH"
   },
   {
-    "Symbol": "HDFCBANK",
-    "Name": "HDFCBANK"
+    "Symbol": "HDFC",
+    "Name": "HDFC"
   },
   {
-    "Symbol": "HDFCLIFE",
-    "Name": "HDFCLIFE"
+    "Symbol": "HDFCBANK",
+    "Name": "HDFCBANK"
   },
   {
     "Symbol": "HEROMOTOCO",
@@ -92,8 +80,8 @@
     "Name": "ICICIBANK"
   },
   {
-    "Symbol": "INDUSINDBK",
-    "Name": "INDUSINDBK"
+    "Symbol": "IDEA",
+    "Name": "IDEA"
   },
   {
     "Symbol": "INFY",
@@ -102,18 +90,6 @@
   {
     "Symbol": "ITC",
     "Name": "ITC"
-  },
-  {
-    "Symbol": "JIOFIN",
-    "Name": "JIOFIN"
-  },
-  {
-    "Symbol": "JSWSTEEL",
-    "Name": "JSWSTEEL"
-  },
-  {
-    "Symbol": "KOTAKBANK",
-    "Name": "KOTAKBANK"
   },
   {
     "Symbol": "LT",
@@ -128,8 +104,8 @@
     "Name": "MARUTI"
   },
   {
-    "Symbol": "NESTLEIND",
-    "Name": "NESTLEIND"
+    "Symbol": "NATIONALUM",
+    "Name": "NATIONALUM"
   },
   {
     "Symbol": "NTPC",
@@ -140,36 +116,64 @@
     "Name": "ONGC"
   },
   {
-    "Symbol": "POWERGRID",
-    "Name": "POWERGRID"
+    "Symbol": "PNB",
+    "Name": "PNB"
+  },
+  {
+    "Symbol": "RANBAXY",
+    "Name": "RANBAXY"
+  },
+  {
+    "Symbol": "RCOM",
+    "Name": "RCOM"
   },
   {
     "Symbol": "RELIANCE",
     "Name": "RELIANCE"
   },
   {
-    "Symbol": "SBILIFE",
-    "Name": "SBILIFE"
+    "Symbol": "RELINFRA",
+    "Name": "RELINFRA"
+  },
+  {
+    "Symbol": "RPL",
+    "Name": "RPL"
+  },
+  {
+    "Symbol": "SAIL",
+    "Name": "SAIL"
+  },
+  {
+    "Symbol": "SATYAMCOMP",
+    "Name": "SATYAMCOMP"
   },
   {
     "Symbol": "SBIN",
     "Name": "SBIN"
   },
   {
-    "Symbol": "SHRIRAMFIN",
-    "Name": "SHRIRAMFIN"
+    "Symbol": "SIEMENS",
+    "Name": "SIEMENS"
+  },
+  {
+    "Symbol": "STER",
+    "Name": "STER"
   },
   {
     "Symbol": "SUNPHARMA",
     "Name": "SUNPHARMA"
   },
   {
-    "Symbol": "TATACONSUM",
-    "Name": "TATACONSUM"
+    "Symbol": "SUZLON",
+    "Name": "SUZLON"
   },
   {
     "Symbol": "TATAMOTORS",
     "Name": "TATAMOTORS"
+  },
+  {
+    "Symbol": "TATAPOWER",
+    "Name": "TATAPOWER"
   },
   {
     "Symbol": "TATASTEEL",
@@ -180,23 +184,19 @@
     "Name": "TCS"
   },
   {
-    "Symbol": "TECHM",
-    "Name": "TECHM"
+    "Symbol": "UNITECH",
+    "Name": "UNITECH"
   },
   {
-    "Symbol": "TITAN",
-    "Name": "TITAN"
-  },
-  {
-    "Symbol": "TRENT",
-    "Name": "TRENT"
-  },
-  {
-    "Symbol": "ULTRACEMCO",
-    "Name": "ULTRACEMCO"
+    "Symbol": "VSNL",
+    "Name": "VSNL"
   },
   {
     "Symbol": "WIPRO",
     "Name": "WIPRO"
+  },
+  {
+    "Symbol": "ZEEL",
+    "Name": "ZEEL"
   }
 ]

@@ -40,6 +40,14 @@
     "Name": "BHARTIARTL"
   },
   {
+    "Symbol": "BPCL",
+    "Name": "BPCL"
+  },
+  {
+    "Symbol": "BRITANNIA",
+    "Name": "BRITANNIA"
+  },
+  {
     "Symbol": "CIPLA",
     "Name": "CIPLA"
   },
@@ -54,10 +62,6 @@
   {
     "Symbol": "EICHERMOT",
     "Name": "EICHERMOT"
-  },
-  {
-    "Symbol": "ETERNAL",
-    "Name": "ETERNAL"
   },
   {
     "Symbol": "GRASIM",
@@ -102,10 +106,6 @@
   {
     "Symbol": "ITC",
     "Name": "ITC"
-  },
-  {
-    "Symbol": "JIOFIN",
-    "Name": "JIOFIN"
   },
   {
     "Symbol": "JSWSTEEL",

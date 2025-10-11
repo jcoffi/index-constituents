@@ -32,12 +32,16 @@
     "Name": "BAJFINANCE"
   },
   {
-    "Symbol": "BEL",
-    "Name": "BEL"
-  },
-  {
     "Symbol": "BHARTIARTL",
     "Name": "BHARTIARTL"
+  },
+  {
+    "Symbol": "BPCL",
+    "Name": "BPCL"
+  },
+  {
+    "Symbol": "BRITANNIA",
+    "Name": "BRITANNIA"
   },
   {
     "Symbol": "CIPLA",
@@ -48,16 +52,16 @@
     "Name": "COALINDIA"
   },
   {
+    "Symbol": "DIVISLAB",
+    "Name": "DIVISLAB"
+  },
+  {
     "Symbol": "DRREDDY",
     "Name": "DRREDDY"
   },
   {
     "Symbol": "EICHERMOT",
     "Name": "EICHERMOT"
-  },
-  {
-    "Symbol": "ETERNAL",
-    "Name": "ETERNAL"
   },
   {
     "Symbol": "GRASIM",
@@ -104,10 +108,6 @@
     "Name": "ITC"
   },
   {
-    "Symbol": "JIOFIN",
-    "Name": "JIOFIN"
-  },
-  {
     "Symbol": "JSWSTEEL",
     "Name": "JSWSTEEL"
   },
@@ -118,6 +118,10 @@
   {
     "Symbol": "LT",
     "Name": "LT"
+  },
+  {
+    "Symbol": "LTIM",
+    "Name": "LTIM"
   },
   {
     "Symbol": "M&M",
@@ -156,10 +160,6 @@
     "Name": "SBIN"
   },
   {
-    "Symbol": "SHRIRAMFIN",
-    "Name": "SHRIRAMFIN"
-  },
-  {
     "Symbol": "SUNPHARMA",
     "Name": "SUNPHARMA"
   },
@@ -188,12 +188,12 @@
     "Name": "TITAN"
   },
   {
-    "Symbol": "TRENT",
-    "Name": "TRENT"
-  },
-  {
     "Symbol": "ULTRACEMCO",
     "Name": "ULTRACEMCO"
+  },
+  {
+    "Symbol": "UPL",
+    "Name": "UPL"
   },
   {
     "Symbol": "WIPRO",
