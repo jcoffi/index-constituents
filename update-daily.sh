@@ -18,6 +18,4 @@ find docs/ -maxdepth 1 -type f -name '*.json' -exec cp -t "docs/$year/$month/$da
 find docs/ -maxdepth 1 -type f -name '*.csv'  -exec cp -t "docs/$year/$month/$day" {} +
 
 # update timestamp in index.html
-head -n -5 docs/index.html > docs/index.tmp.html
-mv docs/index.tmp.html docs/index.html
-./gen-footer.py >> docs/index.html
+./update-timestamp.sh
