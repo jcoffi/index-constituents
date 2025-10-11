@@ -5,6 +5,7 @@ import io
 import pandas as pd
 import random  # Used for retry delay randomization in multiple places
 import requests
+import sys
 import time
 
 from selectorlib import Extractor
@@ -262,6 +263,9 @@ def get_constituents_ftse100():
 
 # main
 if __name__ == '__main__':
+    # track status
+    status = 0
+
     # distribute requests to bloomberg to avoid overwhelming the server
     print('Fetching the constituents of DAX...')
     for i in range(n_retries):
@@ -271,34 +275,65 @@ if __name__ == '__main__':
             df.to_json('docs/constituents-dax.json', orient='records')
         except Exception as e:
             print(f'Attempt {i+1} failed: {e}')
-            time.sleep(random.paretovariate(2) * 5)
+            if i == n_retries - 1:
+                status = 1
+                print('Failed to fetch the constituents of DAX.')
+            else:
+                time.sleep(random.paretovariate(2) * 5)
             continue
         else:
             break
 
     print('Fetching the constituents of CSI 300...')
-    try:
-        df = get_constituents_csi300()
-        df.to_csv('docs/constituents-csi300.csv', index=False)
-        df.to_json('docs/constituents-csi300.json', orient='records')
-    except:
-        print('Failed to fetch the constituents of CSI 300.')
+    for i in range(n_retries):
+        try:
+            df = get_constituents_csi300()
+            df.to_csv('docs/constituents-csi300.csv', index=False)
+            df.to_json('docs/constituents-csi300.json', orient='records')
+        except Exception as e:
+            print(f'Attempt {i+1} failed: {e}')
+            if i == n_retries - 1:
+                status = 1
+                print('Failed to fetch the constituents of CSI 300.')
+            else:
+                time.sleep(random.paretovariate(2) * 5)
+            continue
+        else:
+            break
 
     print('Fetching the constituents of CSI 500...')
-    try:
-        df = get_constituents_csi500()
-        df.to_csv('docs/constituents-csi500.csv', index=False)
-        df.to_json('docs/constituents-csi500.json', orient='records')
-    except:
-        print('Failed to fetch the constituents of CSI 500.')
+    for i in range(n_retries):
+        try:
+            df = get_constituents_csi500()
+            df.to_csv('docs/constituents-csi500.csv', index=False)
+            df.to_json('docs/constituents-csi500.json', orient='records')
+        except Exception as e:
+            print(f'Attempt {i+1} failed: {e}')
+            if i == n_retries - 1:
+                status = 1
+                print('Failed to fetch the constituents of CSI 500.')
+            else:
+                time.sleep(random.paretovariate(2) * 5)
+            continue
+        else:
+            break
 
     print('Fetching the constituents of CSI 1000...')
-    try:
-        df = get_constituents_csi1000()
-        df.to_csv('docs/constituents-csi1000.csv', index=False)
-        df.to_json('docs/constituents-csi1000.json', orient='records')
-    except:
-        print('Failed to fetch the constituents of CSI 1000.')
+    for i in range(n_retries):
+        try:
+            df = get_constituents_csi1000()
+            df.to_csv('docs/constituents-csi1000.csv', index=False)
+            df.to_json('docs/constituents-csi1000.json', orient='records')
+        except Exception as e:
+            print(f'Attempt {i+1} failed: {e}')
+            if i == n_retries - 1:
+                status = 1
+                print('Failed to fetch the constituents of CSI 1000.')
+            else:
+                time.sleep(random.paretovariate(2) * 5)
+            continue
+        else:
+            break
 
     time.sleep(random.paretovariate(2) * 25)  # Sleep for a while to avoid overwhelming the server
     print('Fetching the constituents of Hang Seng Index...')
@@ -309,50 +344,99 @@ if __name__ == '__main__':
             df.to_json('docs/constituents-hsi.json', orient='records')
         except Exception as e:
             print(f'Attempt {i+1} failed: {e}')
-            time.sleep(random.paretovariate(2) * 5)
+            if i == n_retries - 1:
+                status = 1
+                print('Failed to fetch the constituents of Hang Seng Index.')
+            else:
+                time.sleep(random.paretovariate(2) * 5)
             continue
         else:
             break
 
     print('Fetching the constituents of SSE...')
-    try:
-        df = get_constituents_sse()
-        df.to_csv('docs/constituents-sse.csv', index=False)
-        df.to_json('docs/constituents-sse.json', orient='records')
-    except:
-        print('Failed to fetch the constituents of SSE.')
+    for i in range(n_retries):
+        try:
+            df = get_constituents_sse()
+            df.to_csv('docs/constituents-sse.csv', index=False)
+            df.to_json('docs/constituents-sse.json', orient='records')
+        except Exception as e:
+            print(f'Attempt {i+1} failed: {e}')
+            if i == n_retries - 1:
+                status = 1
+                print('Failed to fetch the constituents of SSE.')
+            else:
+                time.sleep(random.paretovariate(2) * 5)
+            continue
+        else:
+            break
 
     print('Fetching the constituents of SZSE...')
-    try:
-        df = get_constituents_szse()
-        df.to_csv('docs/constituents-szse.csv', index=False)
-        df.to_json('docs/constituents-szse.json', orient='records')
-    except:
-        print('Failed to fetch the constituents of SZSE.')
+    for i in range(n_retries):
+        try:
+            df = get_constituents_szse()
+            df.to_csv('docs/constituents-szse.csv', index=False)
+            df.to_json('docs/constituents-szse.json', orient='records')
+        except Exception as e:
+            print(f'Attempt {i+1} failed: {e}')
+            if i == n_retries - 1:
+                status = 1
+                print('Failed to fetch the constituents of SZSE.')
+            else:
+                time.sleep(random.paretovariate(2) * 5)
+            continue
+        else:
+            break
 
     print('Fetching the constituents of NASDAQ 100...')
-    try:
-        df = get_constituents_nasdaq100()
-        df.to_csv('docs/constituents-nasdaq100.csv', index=False)
-        df.to_json('docs/constituents-nasdaq100.json', orient='records')
-    except:
-        print('Failed to fetch the constituents of NASDAQ 100.')
+    for i in range(n_retries):
+        try:
+            df = get_constituents_nasdaq100()
+            df.to_csv('docs/constituents-nasdaq100.csv', index=False)
+            df.to_json('docs/constituents-nasdaq100.json', orient='records')
+        except Exception as e:
+            print(f'Attempt {i+1} failed: {e}')
+            if i == n_retries - 1:
+                status = 1
+                print('Failed to fetch the constituents of NASDAQ 100.')
+            else:
+                time.sleep(random.paretovariate(2) * 5)
+            continue
+        else:
+            break
 
     print('Fetching the constituents of S&P 500...')
-    try:
-        df = get_constituents_sp500()
-        df.to_csv('docs/constituents-sp500.csv', index=False)
-        df.to_json('docs/constituents-sp500.json', orient='records')
-    except:
-        print('Failed to fetch the constituents of S&P 500.')
+    for i in range(n_retries):
+        try:
+            df = get_constituents_sp500()
+            df.to_csv('docs/constituents-sp500.csv', index=False)
+            df.to_json('docs/constituents-sp500.json', orient='records')
+        except Exception as e:
+            print(f'Attempt {i+1} failed: {e}')
+            if i == n_retries - 1:
+                status = 1
+                print('Failed to fetch the constituents of S&P 500.')
+            else:
+                time.sleep(random.paretovariate(2) * 5)
+            continue
+        else:
+            break
 
     print('Fetching the constituents of Dow Jones...')
-    try:
-        df = get_constituents_dowjones()
-        df.to_csv('docs/constituents-dowjones.csv', index=False)
-        df.to_json('docs/constituents-dowjones.json', orient='records')
-    except:
-        print('Failed to fetch the constituents of Dow Jones.')
+    for i in range(n_retries):
+        try:
+            df = get_constituents_dowjones()
+            df.to_csv('docs/constituents-dowjones.csv', index=False)
+            df.to_json('docs/constituents-dowjones.json', orient='records')
+        except Exception as e:
+            print(f'Attempt {i+1} failed: {e}')
+            if i == n_retries - 1:
+                status = 1
+                print('Failed to fetch the constituents of Dow Jones.')
+            else:
+                time.sleep(random.paretovariate(2) * 5)
+            continue
+        else:
+            break
 
     time.sleep(random.paretovariate(2) * 25)  # Sleep for a while to avoid overwhelming the server
     print('Fetching the constituents of FTSE 100...')
@@ -363,18 +447,33 @@ if __name__ == '__main__':
             df.to_json('docs/constituents-ftse100.json', orient='records')
         except Exception as e:
             print(f'Attempt {i+1} failed: {e}')
-            time.sleep(random.paretovariate(2) * 5)
+            if i == n_retries - 1:
+                status = 1
+                print('Failed to fetch the constituents of FTSE 100.')
+            else:
+                time.sleep(random.paretovariate(2) * 5)
             continue
         else:
             break
 
     # NIFTY 50
-        print('Fetching the constituents of NIFTY 50...')
+    print('Fetching the constituents of NIFTY 50...')
+    for i in range(n_retries):
         try:
             df = get_constituents_nifty50()
             df.to_csv('docs/constituents-nifty50.csv', index=False)
             df.to_json('docs/constituents-nifty50.json', orient='records')
         except Exception as e:
-            print(f'Failed to fetch the constituents of NIFTY 50: {e}')
+            print(f'Attempt {i+1} failed: {e}')
+            if i == n_retries - 1:
+                status = 1
+                print('Failed to fetch the constituents of NIFTY 50.')
+            else:
+                time.sleep(random.paretovariate(2) * 5)
+            continue
+        else:
+            break
 
-        print('Done.')
+    print('Done.')
+
+    sys.exit(status)
