@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 # coding: utf-8
 
+import io
 import pandas as pd
 import random  # Used for retry delay randomization in multiple places
 import requests
@@ -121,7 +122,10 @@ def get_constituents_nifty50():
     last_exc = None
     for url in urls:
         try:
-            df = pd.read_csv(url, dtype=str)
+            headers = { 'User-Agent' : ua.random }
+            r = requests.get(url, headers=headers)
+            r.raise_for_status()  # Raise an exception for bad status codes
+            df = pd.read_csv(io.StringIO(r.text), dtype=str)
 
             # Expected CSV columns (observed): Company Name,Industry,Symbol,Series,ISIN Code
             # Keep Symbol and Company Name
