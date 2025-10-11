@@ -6,7 +6,7 @@ Process weights.csv to generate historical NIFTY 50 constituent files.
 import os
 import csv
 import json
-from datetime import datetime
+from datetime import datetime, timedelta
 from pathlib import Path
 
 def parse_weights_csv(weights_file):
@@ -79,28 +79,57 @@ def main():
     # Sort dates
     sorted_dates = sorted(date_constituents.keys())
 
-    # Process each date
-    for date in sorted_dates:
-        symbols = date_constituents[date]
-        dir_path = create_directory_structure(docs_dir, date)
+    # Process each date range with forward fill
+    for i in range(len(sorted_dates) - 1):
+        current_date_str = sorted_dates[i]
+        next_date_str = sorted_dates[i + 1]
+        symbols = date_constituents[current_date_str]
 
+        current_date = datetime.strptime(current_date_str, '%Y-%m-%d')
+        next_date = datetime.strptime(next_date_str, '%Y-%m-%d')
+
+        # Create files for current_date
+        dir_path = create_directory_structure(docs_dir, current_date_str)
         csv_file = dir_path / 'constituents-nifty50.csv'
         json_file = dir_path / 'constituents-nifty50.json'
-
         write_csv_file(csv_file, symbols)
         write_json_file(json_file, symbols)
-        print(f"Created files for {date}: {csv_file}, {json_file}")
+        print(f"Created files for {current_date_str}: {csv_file}, {json_file}")
+
+        # Forward fill for days between current_date + 1 and next_date - 1
+        day = current_date + timedelta(days=1)
+        fill_count = 0
+        while day < next_date:
+            date_str = day.strftime('%Y-%m-%d')
+            dir_path = create_directory_structure(docs_dir, date_str)
+            csv_file = dir_path / 'constituents-nifty50.csv'
+            json_file = dir_path / 'constituents-nifty50.json'
+            write_csv_file(csv_file, symbols)
+            write_json_file(json_file, symbols)
+            fill_count += 1
+            day += timedelta(days=1)
+        if fill_count > 0:
+            print(f"Forward filled {fill_count} days from {current_date_str} to {next_date_str}")
+
+    # Process the last date
+    last_date_str = sorted_dates[-1]
+    symbols = date_constituents[last_date_str]
+    dir_path = create_directory_structure(docs_dir, last_date_str)
+    csv_file = dir_path / 'constituents-nifty50.csv'
+    json_file = dir_path / 'constituents-nifty50.json'
+    write_csv_file(csv_file, symbols)
+    write_json_file(json_file, symbols)
+    print(f"Created files for {last_date_str}: {csv_file}, {json_file}")
 
     # Update top-level files with latest date
-    latest_date = sorted_dates[-1]
-    latest_symbols = date_constituents[latest_date]
+    latest_symbols = symbols  # From last date
 
     top_csv = Path(docs_dir) / 'constituents-nifty50.csv'
     top_json = Path(docs_dir) / 'constituents-nifty50.json'
 
     write_csv_file(top_csv, latest_symbols)
     write_json_file(top_json, latest_symbols)
-    print(f"Updated top-level files with data from {latest_date}")
+    print(f"Updated top-level files with data from {last_date_str}")
 
 if __name__ == '__main__':
     main()
