@@ -145,7 +145,7 @@ def get_constituents_nifty50():
                 else:
                     raise ValueError(f'Unexpected CSV columns: {cols}')
 
-            # Normalize symbols to use NSE suffix
+            # Normalize symbols to use NSE suffix for Yahoo Finance compatibility
             df['Symbol'] = df['Symbol'].astype(str).str.upper().str.replace(r'\\.NS$', '', regex=True) + '.NS'
 
             return df[['Symbol', 'Name']]
