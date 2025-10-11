@@ -33,6 +33,7 @@ All symbols are consistent with those in [Yahoo Finance](https://finance.yahoo.c
 | dax       | DAX               | 1987/12/30 | [json](https://jcoffi.github.io/index-constituents/constituents-dax.json) / [csv](https://jcoffi.github.io/index-constituents/constituents-dax.csv)             |
 | hsi       | HSI (恒生指数)        | 2023/07    | [json](https://jcoffi.github.io/index-constituents/constituents-hsi.json) / [csv](https://jcoffi.github.io/index-constituents/constituents-hsi.csv)             |
 | ftse100   | FTSE 100          | 2023/07    | [json](https://jcoffi.github.io/index-constituents/constituents-ftse100.json) / [csv](https://jcoffi.github.io/index-constituents/constituents-ftse100.csv)     |
+| nifty50   | NIFTY 50          | 2008/01    | [json](https://jcoffi.github.io/index-constituents/constituents-nifty50.json) / [csv](https://jcoffi.github.io/index-constituents/constituents-nifty50.csv)     |
 
 ## Usage
 ### Direct download
