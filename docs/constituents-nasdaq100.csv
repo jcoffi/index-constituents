@@ -29,8 +29,8 @@ AMAT,Applied Materials
 QCOM,Qualcomm
 LRCX,Lam Research
 ARM,Arm Holdings
-TXN,Texas Instruments
 AMGN,Amgen
+TXN,Texas Instruments
 ISRG,Intuitive Surgical
 GILD,Gilead Sciences
 ADBE,Adobe Inc.
@@ -46,33 +46,33 @@ CMCSA,Comcast
 MELI,MercadoLibre
 VRTX,Vertex Pharmaceuticals
 SBUX,Starbucks
-ORLY,O'Reilly Automotive
-MSTR,MicroStrategy Inc.
 CDNS,Cadence Design Systems
-MDLZ,Mondelez International
+MSTR,MicroStrategy Inc.
+ORLY,O'Reilly Automotive
 SNPS,Synopsys
+MDLZ,Mondelez International
 CTAS,Cintas
 MRVL,Marvell Technology
 ABNB,Airbnb
 MAR,Marriott International
 TRI,Thomson Reuters Corporation
 MNST,Monster Beverage
-CSX,CSX Corporation
 PYPL,PayPal
+CSX,CSX Corporation
 ADSK,Autodesk
 FTNT,Fortinet
 AEP,American Electric Power
 WDAY,"Workday, Inc."
 REGN,Regeneron Pharmaceuticals
+DDOG,Datadog
 AXON,Axon Enterprise Inc.
 ROP,Roper Technologies
-DDOG,Datadog
 FAST,Fastenal
 NXPI,NXP Semiconductors
 EA,Electronic Arts
-PCAR,Paccar
 IDXX,Idexx Laboratories
 ZS,Zscaler
+PCAR,Paccar
 ROST,Ross Stores
 XEL,Xcel Energy
 EXC,Exelon
@@ -87,14 +87,14 @@ TEAM,Atlassian
 CHTR,Charter Communications
 KDP,Keurig Dr Pepper
 VRSK,Verisk
-GEHC,GE HealthCare
 MCHP,Microchip Technology
-CSGP,CoStar Group
+GEHC,GE HealthCare
 CTSH,Cognizant
+CSGP,CoStar Group
 KHC,Kraft Heinz
 ODFL,Old Dominion Freight Line
-DXCM,DexCom
 TTD,Trade Desk (The)
+DXCM,DexCom
 BIIB,Biogen
 LULU,Lululemon Athletica
 CDW,CDW Corporation

@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 # coding: utf-8
 
+import io
 import pandas as pd
 import random  # Used for retry delay randomization in multiple places
 import requests
@@ -109,6 +110,51 @@ def get_constituents_nasdaq100():
     return get_constituents_from_slickcharts(url)
 
 # S&P500
+
+# NIFTY 50
+def get_constituents_nifty50():
+    # Try official NIFTY indices site first, then fallback to NSE archive
+    urls = [
+        'https://niftyindices.com/IndexConstituent/ind_nifty50list.csv',
+        'https://archives.nseindia.com/content/indices/ind_nifty50list.csv'
+    ]
+
+    last_exc = None
+    for url in urls:
+        try:
+            headers = { 'User-Agent' : ua.random }
+            r = requests.get(url, headers=headers)
+            r.raise_for_status()  # Raise an exception for bad status codes
+            df = pd.read_csv(io.StringIO(r.text), dtype=str)
+
+            # Expected CSV columns (observed): Company Name,Industry,Symbol,Series,ISIN Code
+            # Keep Symbol and Company Name
+            if 'Symbol' in df.columns and 'Company Name' in df.columns:
+                df = df[['Symbol', 'Company Name']].copy()
+                df.columns = ['Symbol', 'Name']
+            else:
+                # Fallback: try to guess columns
+                cols = [c for c in df.columns]
+                # Try to find a column that looks like symbol/name
+                sym_col = next((c for c in cols if c.lower() == 'symbol'), None)
+                name_col = next((c for c in cols if 'company' in c.lower() or 'name' in c.lower()), None)
+                if sym_col and name_col:
+                    df = df[[sym_col, name_col]].copy()
+                    df.columns = ['Symbol', 'Name']
+                else:
+                    raise ValueError(f'Unexpected CSV columns: {cols}')
+
+            # Normalize symbols to use NSE suffix
+            df['Symbol'] = df['Symbol'].astype(str).str.upper().str.replace(r'\\.NS$', '', regex=True) + '.NS'
+
+            return df[['Symbol', 'Name']]
+        except Exception as e:
+            last_exc = e
+            continue
+
+    # If both attempts failed, raise the last exception
+    raise last_exc
+
 def get_constituents_sp500():
     url = 'https://www.slickcharts.com/sp500'
     return get_constituents_from_slickcharts(url)
@@ -322,4 +368,13 @@ if __name__ == '__main__':
         else:
             break
 
-    print('Done.')
+    # NIFTY 50
+        print('Fetching the constituents of NIFTY 50...')
+        try:
+            df = get_constituents_nifty50()
+            df.to_csv('docs/constituents-nifty50.csv', index=False)
+            df.to_json('docs/constituents-nifty50.json', orient='records')
+        except Exception as e:
+            print(f'Failed to fetch the constituents of NIFTY 50: {e}')
+
+        print('Done.')
