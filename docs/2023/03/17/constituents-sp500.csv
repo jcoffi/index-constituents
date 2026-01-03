@@ -1,504 +1,504 @@
 Symbol,Name
-A,A
-AAL,AAL
-AAP,AAP
-AAPL,AAPL
-ABBV,ABBV
-ABT,ABT
-ACGL,ACGL
-ACN,ACN
-ADBE,ADBE
-ADI,ADI
-ADM,ADM
-ADP,ADP
-ADSK,ADSK
-AEE,AEE
-AEP,AEP
-AES,AES
-AFL,AFL
-AIG,AIG
-AIZ,AIZ
-AJG,AJG
-AKAM,AKAM
-ALB,ALB
-ALGN,ALGN
-ALK,ALK
-ALL,ALL
-ALLE,ALLE
-AMAT,AMAT
-AMCR,AMCR
-AMD,AMD
-AME,AME
-AMGN,AMGN
-AMP,AMP
-AMT,AMT
-AMZN,AMZN
-ANET,ANET
-ANSS-202507,ANSS-202507
-AON,AON
-AOS,AOS
-APA,APA
-APD,APD
-APH,APH
-APTV,APTV
-ARE,ARE
-ATO,ATO
-ATVI-202310,ATVI-202310
-AVB,AVB
-AVGO,AVGO
-AVY,AVY
-AWK,AWK
-AXP,AXP
-AZO,AZO
-BA,BA
-BAC,BAC
-BALL,BALL
-BAX,BAX
-BBWI,BBWI
-BBY,BBY
-BDX,BDX
-BEN,BEN
-BF.B,BF.B
-BG,BG
-BIIB,BIIB
-BIO,BIO
-BK,BK
-BKNG,BKNG
-BKR,BKR
-BLK,BLK
-BMY,BMY
-BR,BR
-BRK.B,BRK.B
-BRO,BRO
-BSX,BSX
-BWA,BWA
-BXP,BXP
-C,C
-CAG,CAG
-CAH,CAH
-CARR,CARR
-CAT,CAT
-CB,CB
-CBOE,CBOE
-CBRE,CBRE
-CCI,CCI
-CCL,CCL
-CDNS,CDNS
-CDW,CDW
-CE,CE
-CEG,CEG
-CF,CF
-CFG,CFG
-CHD,CHD
-CHRW,CHRW
-CHTR,CHTR
-CI,CI
-CINF,CINF
-CL,CL
-CLX,CLX
-CMA,CMA
-CMCSA,CMCSA
-CME,CME
-CMG,CMG
-CMI,CMI
-CMS,CMS
-CNC,CNC
-CNP,CNP
-COF,COF
-COO,COO
-COP,COP
-COR,COR
-COST,COST
-CPAY,CPAY
-CPB,CPB
-CPRT,CPRT
-CPT,CPT
-CRL,CRL
-CRM,CRM
-CSCO,CSCO
-CSGP,CSGP
-CSX,CSX
-CTAS,CTAS
-CTLT-202412,CTLT-202412
-CTRA,CTRA
-CTSH,CTSH
-CTVA,CTVA
-CVS,CVS
-CVX,CVX
-CZR,CZR
-D,D
-DAL,DAL
-DAY,DAY
-DD,DD
-DE,DE
-DFS-202505,DFS-202505
-DG,DG
-DGX,DGX
-DHI,DHI
-DHR,DHR
-DIS,DIS
-DISH-202312,DISH-202312
-DLR,DLR
-DLTR,DLTR
-DOC,DOC
-DOV,DOV
-DOW,DOW
-DPZ,DPZ
-DRI,DRI
-DTE,DTE
-DUK,DUK
-DVA,DVA
-DVN,DVN
-DXC,DXC
-DXCM,DXCM
-EA,EA
-EBAY,EBAY
-ECL,ECL
-ED,ED
-EFX,EFX
-EG,EG
-EIX,EIX
-EL,EL
-ELV,ELV
-EMN,EMN
-EMR,EMR
-ENPH,ENPH
-EOG,EOG
-EPAM,EPAM
-EQIX,EQIX
-EQR,EQR
-EQT,EQT
-ES,ES
-ESS,ESS
-ETN,ETN
-ETR,ETR
-ETSY,ETSY
-EVRG,EVRG
-EW,EW
-EXC,EXC
-EXPD,EXPD
-EXPE,EXPE
-EXR,EXR
-F,F
-FANG,FANG
-FAST,FAST
-FCX,FCX
-FDS,FDS
-FDX,FDX
-FE,FE
-FFIV,FFIV
-FI,FI
-FIS,FIS
-FITB,FITB
-FMC,FMC
-FOX,FOX
-FOXA,FOXA
-FRCB,FRCB
-FRT,FRT
-FSLR,FSLR
-FTNT,FTNT
-FTV,FTV
-GD,GD
-GE,GE
-GEHC,GEHC
-GEN,GEN
-GILD,GILD
-GIS,GIS
-GL,GL
-GLW,GLW
-GM,GM
-GNRC,GNRC
-GOOG,GOOG
-GOOGL,GOOGL
-GPC,GPC
-GPN,GPN
-GRMN,GRMN
-GS,GS
-GWW,GWW
-HAL,HAL
-HAS,HAS
-HBAN,HBAN
-HCA,HCA
-HD,HD
-HES-202507,HES-202507
-HIG,HIG
-HII,HII
-HLT,HLT
-HOLX,HOLX
-HON,HON
-HPE,HPE
-HPQ,HPQ
-HRL,HRL
-HSIC,HSIC
-HST,HST
-HSY,HSY
-HUM,HUM
-HWM,HWM
-IBM,IBM
-ICE,ICE
-IDXX,IDXX
-IEX,IEX
-IFF,IFF
-ILMN,ILMN
-INCY,INCY
-INTC,INTC
-INTU,INTU
-INVH,INVH
-IP,IP
-IPG,IPG
-IQV,IQV
-IR,IR
-IRM,IRM
-ISRG,ISRG
-IT,IT
-ITW,ITW
-IVZ,IVZ
-J,J
-JBHT,JBHT
-JCI,JCI
-JKHY,JKHY
-JNJ,JNJ
-JNPR-202507,JNPR-202507
-JPM,JPM
-K,K
-KDP,KDP
-KEY,KEY
-KEYS,KEYS
-KHC,KHC
-KIM,KIM
-KLAC,KLAC
-KMB,KMB
-KMI,KMI
-KMX,KMX
-KO,KO
-KR,KR
-L,L
-LDOS,LDOS
-LEN,LEN
-LH,LH
-LHX,LHX
-LIN,LIN
-LKQ,LKQ
-LLY,LLY
-LMT,LMT
-LNC,LNC
-LNT,LNT
-LOW,LOW
-LRCX,LRCX
-LUMN,LUMN
-LUV,LUV
-LVS,LVS
-LW,LW
-LYB,LYB
-LYV,LYV
-MA,MA
-MAA,MAA
-MAR,MAR
-MAS,MAS
-MCD,MCD
-MCHP,MCHP
-MCK,MCK
-MCO,MCO
-MDLZ,MDLZ
-MDT,MDT
-MET,MET
-META,META
-MGM,MGM
-MHK,MHK
-MKC,MKC
-MKTX,MKTX
-MLM,MLM
-MMC,MMC
-MMM,MMM
-MNST,MNST
-MO,MO
-MOH,MOH
-MOS,MOS
-MPC,MPC
-MPWR,MPWR
-MRK,MRK
-MRNA,MRNA
-MRO-202411,MRO-202411
-MS,MS
-MSCI,MSCI
-MSFT,MSFT
-MSI,MSI
-MTB,MTB
-MTCH,MTCH
-MTD,MTD
-MU,MU
-NCLH,NCLH
-NDAQ,NDAQ
-NDSN,NDSN
-NEE,NEE
-NEM,NEM
-NFLX,NFLX
-NI,NI
-NKE,NKE
-NOC,NOC
-NOW,NOW
-NRG,NRG
-NSC,NSC
-NTAP,NTAP
-NTRS,NTRS
-NUE,NUE
-NVDA,NVDA
-NVR,NVR
-NWL,NWL
-NWS,NWS
-NWSA,NWSA
-NXPI,NXPI
-O,O
-ODFL,ODFL
-OGN,OGN
-OKE,OKE
-OMC,OMC
-ON,ON
-ORCL,ORCL
-ORLY,ORLY
-OTIS,OTIS
-OXY,OXY
-PAYC,PAYC
-PAYX,PAYX
-PCAR,PCAR
-PCG,PCG
-PEG,PEG
-PEP,PEP
-PFE,PFE
-PFG,PFG
-PG,PG
-PGR,PGR
-PH,PH
-PHM,PHM
-PKG,PKG
-PLD,PLD
-PM,PM
-PNC,PNC
-PNR,PNR
-PNW,PNW
-PODD,PODD
-POOL,POOL
-PPG,PPG
-PPL,PPL
-PRU,PRU
-PSA,PSA
-PSKY,PSKY
-PSX,PSX
-PTC,PTC
-PWR,PWR
-PXD-202405,PXD-202405
-PYPL,PYPL
-QCOM,QCOM
-QRVO,QRVO
-RCL,RCL
-REG,REG
-REGN,REGN
-RF,RF
-RHI,RHI
-RJF,RJF
-RL,RL
-RMD,RMD
-ROK,ROK
-ROL,ROL
-ROP,ROP
-ROST,ROST
-RSG,RSG
-RTX,RTX
-RVTY,RVTY
-SBAC,SBAC
-SBUX,SBUX
-SCHW,SCHW
-SEDG,SEDG
-SEE,SEE
-SHW,SHW
-SJM,SJM
-SLB,SLB
-SNA,SNA
-SNPS,SNPS
-SO,SO
-SPG,SPG
-SPGI,SPGI
-SRE,SRE
-STE,STE
-STLD,STLD
-STT,STT
-STX,STX
-STZ,STZ
-SWK,SWK
-SWKS,SWKS
-SYF,SYF
-SYK,SYK
-SYY,SYY
-T,T
-TAP,TAP
-TDG,TDG
-TDY,TDY
-TECH,TECH
-TEL,TEL
-TER,TER
-TFC,TFC
-TFX,TFX
-TGT,TGT
-TJX,TJX
-TMO,TMO
-TMUS,TMUS
-TPR,TPR
-TRGP,TRGP
-TRMB,TRMB
-TROW,TROW
-TRV,TRV
-TSCO,TSCO
-TSLA,TSLA
-TSN,TSN
-TT,TT
-TTWO,TTWO
-TXN,TXN
-TXT,TXT
-TYL,TYL
-UAL,UAL
-UDR,UDR
-UHS,UHS
-ULTA,ULTA
-UNH,UNH
-UNP,UNP
-UPS,UPS
-URI,URI
-USB,USB
-V,V
-VFC,VFC
-VICI,VICI
-VLO,VLO
-VMC,VMC
-VRSK,VRSK
-VRSN,VRSN
-VRTX,VRTX
-VTR,VTR
-VTRS,VTRS
-VZ,VZ
-WAB,WAB
-WAT,WAT
-WBA-202508,WBA-202508
-WBD,WBD
-WDC,WDC
-WEC,WEC
-WELL,WELL
-WFC,WFC
-WHR,WHR
-WM,WM
-WMB,WMB
-WMT,WMT
-WRB,WRB
-WRK-202407,WRK-202407
-WST,WST
-WTW,WTW
-WY,WY
-WYNN,WYNN
-XEL,XEL
-XOM,XOM
-XRAY,XRAY
-XYL,XYL
-YUM,YUM
-ZBH,ZBH
-ZBRA,ZBRA
-ZION,ZION
-ZTS,ZTS
+A,Agilent Technologies Inc Common
+AAL,American Airlines Group Inc Common
+AAP,Advance Auto Parts Inc Common
+AAPL,Apple Inc Common
+ABBV,AbbVie Inc Common
+ABT,Abbott Laboratories Common
+ACGL,Arch Capital Group Ltd Common
+ACN,Accenture Plc A Common
+ADBE,Adobe Inc Common
+ADI,Analog Devices Inc Common
+ADM,Archer-Daniels-Midland Co Common
+ADP,Automatic Data Processing Inc Common
+ADSK,Autodesk Inc Common
+AEE,Ameren Corp Common
+AEP,American Electric Power Company Inc Common
+AES,AES Corp Common
+AFL,Aflac Inc Common
+AIG,American International Group Inc Common
+AIZ,Assurant Inc Common
+AJG,Arthur J. Gallagher & Co Common
+AKAM,Akamai Technologies Inc Common
+ALB,Albemarle Corp Common
+ALGN,Align Technology Inc Common
+ALK,Alaska Air Group Inc Common
+ALL,Allstate Corp Common
+ALLE,Allegion PLC Common
+AMAT,Applied Materials Inc Common
+AMCR,Amcor PLC Common
+AMD,Advanced Micro Devices Inc Common
+AME,AMETEK Inc Common
+AMGN,Amgen Inc Common
+AMP,Ameriprise Financial Inc Common
+AMT,American Tower Corp Common
+AMZN,Amazon.com Inc Common
+ANET,Arista Networks Inc Common
+ANSS-202507,ANSYS Inc Common
+AON,Aon Plc A Common
+AOS,A. O. Smith Corp Common
+APA,APA Corp Common
+APD,Air Products and Chemicals Inc Common
+APH,Amphenol Corp A Common
+APTV,Aptiv PLC Common
+ARE,Alexandria Real Estate Equities Inc Common
+ATO,Atmos Energy Corp Common
+ATVI-202310,Activision Blizzard Inc Common
+AVB,AvalonBay Communities Inc Common
+AVGO,Broadcom Inc Common
+AVY,Avery Dennison Corp Common
+AWK,American Water Works Co Inc Common
+AXP,American Express Co Common
+AZO,AutoZone Inc Common
+BA,Boeing Co Common
+BAC,Bank of America Corp Common
+BALL,Ball Corp Common
+BAX,Baxter International Inc Common
+BBWI,Bath & Body Works Inc Common
+BBY,Best Buy Co Inc Common
+BDX,Becton Dickinson and Co Common
+BEN,Franklin Resources Inc Common
+BF.B,Brown-Forman Corp B Common
+BG,Bunge Global SA Common
+BIIB,Biogen Inc Common
+BIO,Bio-Rad Laboratories Inc A Common
+BK,Bank of New York Mellon Corp Common
+BKNG,Booking Holdings Inc Common
+BKR,Baker Hughes Company Class A Common
+BLK,BlackRock Inc Common
+BMY,Bristol-Myers Squibb Co Common
+BR,Broadridge Financial Solutions Inc Common
+BRK.B,Berkshire Hathaway Inc B Common
+BRO,Brown & Brown Inc Common
+BSX,Boston Scientific Corp Common
+BWA,Borgwarner Inc Common
+BXP,BXP Inc Common
+C,Citigroup Inc Common
+CAG,Conagra Brands Inc Common
+CAH,Cardinal Health Inc Common
+CARR,Carrier Global Corp Common
+CAT,Caterpillar Inc Common
+CB,Chubb Ltd Common
+CBOE,Cboe Global Markets Inc Common
+CBRE,CBRE Group Inc A Common
+CCI,Crown Castle Inc Common
+CCL,Carnival Corp Common
+CDNS,Cadence Design Systems Inc Common
+CDW,CDW Corp Common
+CE,Celanese Corp Common
+CEG,Constellation Energy Corp Common
+CF,CF Industries Holdings Inc Common
+CFG,Citizens Financial Group Inc Common
+CHD,Church & Dwight Co Inc Common
+CHRW,CH Robinson Worldwide Inc Common
+CHTR,Charter Communications Inc A Common
+CI,Cigna Group Common
+CINF,Cincinnati Financial Corp Common
+CL,Colgate-Palmolive Co Common
+CLX,Clorox Co Common
+CMA,Comerica Inc Common
+CMCSA,Comcast Corp A Common
+CME,CME Group Inc A Common
+CMG,Chipotle Mexican Grill Inc Common
+CMI,Cummins Inc Common
+CMS,CMS Energy Corp Common
+CNC,Centene Corp Common
+CNP,CenterPoint Energy Inc Common
+COF,Capital One Financial Corp Common
+COO,Cooper Companies Inc Common
+COP,ConocoPhillips Common
+COR,Cencora Inc Common
+COST,Costco Wholesale Corp Common
+CPAY,Corpay Inc Common
+CPB,Campbell's Co Common
+CPRT,Copart Inc Common
+CPT,Camden Property Trust Common
+CRL,Charles River Laboratories Internation Common
+CRM,Salesforce Inc Common
+CSCO,Cisco Systems Inc Common
+CSGP,CoStar Group Inc Common
+CSX,CSX Corp Common
+CTAS,Cintas Corp Common
+CTLT-202412,Catalent Inc Common
+CTRA,Coterra Energy Inc Common
+CTSH,Cognizant Technology Solutions Corp A Common
+CTVA,Corteva Inc Common
+CVS,CVS Health Corp Common
+CVX,Chevron Corp Common
+CZR,Caesars Entertainment Inc Common
+D,Dominion Energy Inc Common
+DAL,Delta Air Lines Inc Common
+DAY,Dayforce Inc Common
+DD,Dupont De Nemours Inc Common
+DE,Deere & Co Common
+DFS-202505,Discover Financial Services Common
+DG,Dollar General Corp Common
+DGX,Quest Diagnostics Inc Common
+DHI,DR Horton Inc Common
+DHR,Danaher Corp Common
+DIS,Walt Disney Co Common
+DISH-202312,DISH Network Corp A Common
+DLR,Digital Realty Trust Common
+DLTR,Dollar Tree Inc Common
+DOC,Healthpeak Properties Inc Common
+DOV,Dover Corp Common
+DOW,Dow Inc Common
+DPZ,Domino's Pizza Inc Common
+DRI,Darden Restaurants Inc Common
+DTE,DTE Energy Co Common
+DUK,Duke Energy Corp Common
+DVA,DaVita Inc Common
+DVN,Devon Energy Corp Common
+DXC,DXC Technology Co Common
+DXCM,Dexcom Inc Common
+EA,Electronic Arts Inc Common
+EBAY,eBay Inc Common
+ECL,Ecolab Inc Common
+ED,Consolidated Edison Inc Common
+EFX,Equifax Inc Common
+EG,Everest Group Ltd Common
+EIX,Edison International Common
+EL,Estee Lauder Companies Inc A Common
+ELV,Elevance Health Inc Common
+EMN,Eastman Chemical Co Common
+EMR,Emerson Electric Co Common
+ENPH,Enphase Energy Inc Common
+EOG,EOG Resources Inc Common
+EPAM,Epam Systems Inc Common
+EQIX,Equinix Inc Common
+EQR,Equity Residential Common
+EQT,EQT Corp Common
+ES,Eversource Energy Common
+ESS,Essex Property Trust Common
+ETN,Eaton Corporation PLC Common
+ETR,Entergy Corp Common
+ETSY,ETSY Inc Common
+EVRG,Evergy Inc Common
+EW,Edwards Lifesciences Corp Common
+EXC,Exelon Corp Common
+EXPD,Expeditors International of Washington Common
+EXPE,Expedia Group Inc Common
+EXR,Extra Space Storage Inc Common
+F,Ford Motor Co Common
+FANG,Diamondback Energy Inc Common
+FAST,Fastenal Co Common
+FCX,Freeport-McMoRan Inc Common
+FDS,Factset Research Systems Inc Common
+FDX,FedEx Corp Common
+FE,FirstEnergy Corp Common
+FFIV,F5 Inc Common
+FI,Fiserv Inc Common
+FIS,Fidelity National Information Services Common
+FITB,Fifth Third Bancorp Common
+FMC,FMC Corp Common
+FOX,Fox Corp B Common
+FOXA,Fox Corp A Common
+FRCB,First Republic Bank Common
+FRT,Federal Realty Investment Trust Common
+FSLR,First Solar Inc Common
+FTNT,Fortinet Inc Common
+FTV,Fortive Corp Common
+GD,General Dynamics Corp Common
+GE,GE Aerospace Common
+GEHC,GE Healthcare Technologies Inc Common
+GEN,Gen Digital Inc Common
+GILD,Gilead Sciences Inc Common
+GIS,General Mills Inc Common
+GL,Globe Life Inc Common
+GLW,Corning Inc Common
+GM,General Motors Co Common
+GNRC,Generac Holdings Inc Common
+GOOG,Alphabet Inc C Common
+GOOGL,Alphabet Inc A Common
+GPC,Genuine Parts Co Common
+GPN,Global Payments Inc Common
+GRMN,Garmin Ltd Common
+GS,Goldman Sachs Group Inc Common
+GWW,WW Grainger Inc Common
+HAL,Halliburton Co Common
+HAS,Hasbro Inc Common
+HBAN,Huntington Bancshares Inc Common
+HCA,HCA Healthcare Inc Common
+HD,Home Depot Inc Common
+HES-202507,Hess Corp Common
+HIG,Hartford Insurance Group Inc Common
+HII,Huntington Ingalls Industries Inc Common
+HLT,Hilton Worldwide Holdings Inc Common
+HOLX,Hologic Inc Common
+HON,Honeywell International Inc Common
+HPE,Hewlett Packard Enterprise Co Common
+HPQ,HP Inc Common
+HRL,Hormel Foods Corp Common
+HSIC,Henry Schein Inc Common
+HST,Host Hotels & Resorts Inc Common
+HSY,Hershey Co Common
+HUM,Humana Inc Common
+HWM,Howmet Aerospace Inc Common
+IBM,International Business Machines Corp Common
+ICE,Intercontinental Exchange Inc Common
+IDXX,IDEXX Laboratories Inc Common
+IEX,IDEX Corp Common
+IFF,International Flavors & Fragrances Inc Common
+ILMN,Illumina Inc Common
+INCY,Incyte Corp Common
+INTC,Intel Corp Common
+INTU,Intuit Inc Common
+INVH,Invitation Homes Inc Common
+IP,International Paper Co Common
+IPG,Interpublic Group of Companies Inc Common
+IQV,IQVIA Holdings Inc Common
+IR,Ingersoll Rand Inc Common
+IRM,Iron Mountain Inc Common
+ISRG,Intuitive Surgical Inc Common
+IT,Gartner Inc Common
+ITW,Illinois Tool Works Inc Common
+IVZ,Invesco Ltd Common
+J,Jacobs Solutions Inc Common
+JBHT,J B Hunt Transport Services Inc Common
+JCI,Johnson Controls International PLC Common
+JKHY,Jack Henry & Associates Inc Common
+JNJ,Johnson & Johnson Common
+JNPR-202507,Juniper Networks Inc Common
+JPM,JPMorgan Chase & Co Common
+K,Kellanova Common
+KDP,Keurig Dr Pepper Inc Common
+KEY,KeyCorp Common
+KEYS,Keysight Technologies Inc Common
+KHC,Kraft Heinz Co Common
+KIM,Kimco Realty Common
+KLAC,KLA Corp Common
+KMB,Kimberly-Clark Corp Common
+KMI,Kinder Morgan Inc Common
+KMX,Carmax Inc Common
+KO,Coca-Cola Co Common
+KR,Kroger Co Common
+L,Loews Corp Common
+LDOS,Leidos Holdings Inc Common
+LEN,Lennar Corp A Common
+LH,Labcorp Holdings Inc Common
+LHX,L3Harris Technologies Inc Common
+LIN,Linde PLC Common
+LKQ,LKQ Corp Common
+LLY,Eli Lilly and Co Common
+LMT,Lockheed Martin Corp Common
+LNC,Lincoln National Corp Common
+LNT,Alliant Energy Corp Common
+LOW,Lowe's Companies Inc Common
+LRCX,Lam Research Corp Common
+LUMN,Lumen Technologies Inc Common
+LUV,Southwest Airlines Co Common
+LVS,Las Vegas Sands Corp Common
+LW,Lamb Weston Holdings Inc Common
+LYB,LyondellBasell Industries NV A Common
+LYV,Live Nation Entertainment Inc Common
+MA,Mastercard Inc A Common
+MAA,Mid America Apartment Communities Common
+MAR,Marriott International Inc A Common
+MAS,Masco Corp Common
+MCD,McDonald's Corp Common
+MCHP,Microchip Technology Inc Common
+MCK,McKesson Corp Common
+MCO,Moody's Corp Common
+MDLZ,Mondelez International Inc A Common
+MDT,Medtronic PLC Common
+MET,MetLife Inc Common
+META,Meta Platforms Inc A Common
+MGM,MGM Resorts International Common
+MHK,Mohawk Industries Inc Common
+MKC,McCormick & Company Inc Non-Vtg Common
+MKTX,Marketaxess Holdings Inc Common
+MLM,Martin Marietta Materials Inc Common
+MMC,Marsh & McLennan Companies Inc Common
+MMM,3M Co Common
+MNST,Monster Beverage Corp Common
+MO,Altria Group Inc Common
+MOH,Molina Healthcare Inc Common
+MOS,Mosaic Co Common
+MPC,Marathon Petroleum Corp Common
+MPWR,Monolithic Power Systems Inc Common
+MRK,Merck & Co Inc Common
+MRNA,Moderna Inc Common
+MRO-202411,Marathon Oil Corp Common
+MS,Morgan Stanley Common
+MSCI,MSCI Inc Common
+MSFT,Microsoft Corp Common
+MSI,Motorola Solutions Inc Common
+MTB,M&T Bank Corp Common
+MTCH,Match Group Inc Common
+MTD,Mettler-Toledo International Inc Common
+MU,Micron Technology Inc Common
+NCLH,Norwegian Cruise Line Holdings Ltd Common
+NDAQ,Nasdaq Inc Common
+NDSN,Nordson Corp Common
+NEE,NextEra Energy Inc Common
+NEM,Newmont Corporation Common
+NFLX,Netflix Inc Common
+NI,NiSource Inc Common
+NKE,NIKE Inc B Common
+NOC,Northrop Grumman Corp Common
+NOW,ServiceNow Inc Common
+NRG,NRG Energy Inc Common
+NSC,Norfolk Southern Corp Common
+NTAP,NetApp Inc Common
+NTRS,Northern Trust Corp Common
+NUE,Nucor Corp Common
+NVDA,NVIDIA Corp Common
+NVR,NVR Inc Common
+NWL,Newell Brands Inc Common
+NWS,News Corp B Common
+NWSA,News Corp A Common
+NXPI,NXP Semiconductors NV Common
+O,Realty Income Corp Common
+ODFL,Old Dominion Freight Line Inc Common
+OGN,Organon & Co Common
+OKE,ONEOK Inc Common
+OMC,Omnicom Group Inc Common
+ON,ON Semiconductor Corp Common
+ORCL,Oracle Corp Common
+ORLY,O'Reilly Automotive Inc Common
+OTIS,Otis Worldwide Corp Common
+OXY,Occidental Petroleum Corp Common
+PAYC,Paycom Software Inc Common
+PAYX,Paychex Inc Common
+PCAR,Paccar Inc Common
+PCG,PG&E Corp Common
+PEG,Public Service Enterprise Group Inc Common
+PEP,PepsiCo Inc Common
+PFE,Pfizer Inc Common
+PFG,Principal Financial Group Inc Common
+PG,Procter & Gamble Co Common
+PGR,Progressive Corp Common
+PH,Parker-Hannifin Corp Common
+PHM,Pultegroup Inc Common
+PKG,Packaging Corp of America Common
+PLD,Prologis Inc Common
+PM,Philip Morris International Inc Common
+PNC,PNC Financial Services Group Inc Common
+PNR,Pentair PLC Common
+PNW,Pinnacle West Capital Corp Common
+PODD,Insulet Corp Common
+POOL,Pool Corp Common
+PPG,PPG Industries Inc Common
+PPL,PPL Corp Common
+PRU,Prudential Financial Inc Common
+PSA,Public Storage Common
+PSKY,Paramount Skydance Corp B Common
+PSX,Phillips 66 Common
+PTC,PTC Inc Common
+PWR,Quanta Services Inc Common
+PXD-202405,Pioneer Natural Resources Co Common
+PYPL,PayPal Holdings Inc Common
+QCOM,Qualcomm Inc Common
+QRVO,Qorvo Inc Common
+RCL,Royal Caribbean Cruises Ltd Common
+REG,Regency Centers Corp Common
+REGN,Regeneron Pharmaceuticals Inc Common
+RF,Regions Financial Corp Common
+RHI,Robert Half Inc Common
+RJF,Raymond James Financial Inc Common
+RL,Ralph Lauren Corp A Common
+RMD,Resmed Inc Common
+ROK,Rockwell Automation Inc Common
+ROL,Rollins Inc Common
+ROP,Roper Technologies Inc Common
+ROST,Ross Stores Inc Common
+RSG,Republic Services Inc Common
+RTX,RTX Corp Common
+RVTY,Revvity Inc Common
+SBAC,SBA Communications Corp A Common
+SBUX,Starbucks Corp Common
+SCHW,Charles Schwab Corp Common
+SEDG,Solaredge Technologies Inc Common
+SEE,Sealed Air Corp Common
+SHW,Sherwin-Williams Co Common
+SJM,J M Smucker Co Common
+SLB,Schlumberger NV Common
+SNA,Snap-On Inc Common
+SNPS,Synopsys Inc Common
+SO,Southern Co Common
+SPG,Simon Property Group Common
+SPGI,S&P Global Inc Common
+SRE,Sempra Common
+STE,STERIS plc Common
+STLD,Steel Dynamics Inc Common
+STT,State Street Corp Common
+STX,Seagate Technology Holdings PLC Common
+STZ,Constellation Brands Inc A Common
+SWK,Stanley Black & Decker Inc Common
+SWKS,Skyworks Solutions Inc Common
+SYF,Synchrony Financial Common
+SYK,Stryker Corp Common
+SYY,Sysco Corp Common
+T,AT&T Inc Common
+TAP,Molson Coors Beverage Co B Common
+TDG,TransDigm Group Inc Common
+TDY,Teledyne Technologies Inc Common
+TECH,Bio-Techne Corp Common
+TEL,TE Connectivity PLC Common
+TER,Teradyne Inc Common
+TFC,Truist Financial Corp Common
+TFX,Teleflex Inc Common
+TGT,Target Corp Common
+TJX,TJX Companies Inc Common
+TMO,Thermo Fisher Scientific Inc Common
+TMUS,T-Mobile US Inc Common
+TPR,Tapestry Inc Common
+TRGP,Targa Resources Corp Common
+TRMB,Trimble Inc Common
+TROW,T Rowe Price Group Inc Common
+TRV,Travelers Companies Inc Common
+TSCO,Tractor Supply Co Common
+TSLA,Tesla Inc Common
+TSN,Tyson Foods Inc A Common
+TT,Trane Technologies PLC Common
+TTWO,Take-Two Interactive Software Inc Common
+TXN,Texas Instruments Inc Common
+TXT,Textron Inc Common
+TYL,Tyler Technologies Inc Common
+UAL,United Airlines Holdings Inc Common
+UDR,UDR Inc Common
+UHS,Universal Health Services Inc B Common
+ULTA,Ulta Beauty Inc Common
+UNH,UnitedHealth Group Inc Common
+UNP,Union Pacific Corp Common
+UPS,United Parcel Service Inc B Common
+URI,United Rentals Inc Common
+USB,US Bancorp Common
+V,Visa Inc A Common
+VFC,VF Corp Common
+VICI,VICI Properties Inc Common
+VLO,Valero Energy Corp Common
+VMC,Vulcan Materials Co Common
+VRSK,Verisk Analytics Inc Common
+VRSN,VeriSign Inc Common
+VRTX,Vertex Pharmaceuticals Inc Common
+VTR,Ventas Inc Common
+VTRS,Viatris Inc Common
+VZ,Verizon Communications Inc Common
+WAB,Westinghouse Air Brake Technologies Co Common
+WAT,Waters Corp Common
+WBA-202508,Walgreens Boots Alliance Inc Common
+WBD,Warner Bros Discovery Inc A Common
+WDC,Western Digital Corp Common
+WEC,WEC Energy Group Inc Common
+WELL,Welltower Inc Common
+WFC,Wells Fargo & Co Common
+WHR,Whirlpool Corp Common
+WM,Waste Management Inc Common
+WMB,Williams Companies Inc Common
+WMT,Walmart Inc Common
+WRB,W R Berkley Corp Common
+WRK-202407,WestRock Co Common
+WST,West Pharmaceutical Services Inc Common
+WTW,Willis Towers Watson PLC Common
+WY,Weyerhaeuser Co Common
+WYNN,Wynn Resorts Ltd Common
+XEL,Xcel Energy Inc Common
+XOM,Exxon Mobil Corp Common
+XRAY,DENTSPLY SIRONA Inc Common
+XYL,Xylem Inc Common
+YUM,Yum! Brands Inc Common
+ZBH,Zimmer Biomet Holdings Inc Common
+ZBRA,Zebra Technologies Corp A Common
+ZION,Zions Bancorporation NA Common
+ZTS,Zoetis Inc A Common
