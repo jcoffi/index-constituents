@@ -67,7 +67,7 @@ To get the historical index constituents, use one of the following URLs:
 
 - Monthly archive:
 ```sh
-https://jcoffi.github.io/index-constituents/$YYYY/$MM/$DD/constituents-$CODE.$FORMAT
+https://jcoffi.github.io/index-constituents/$YYYY/$MM/constituents-$CODE.$FORMAT
 ```
 - Daily archive:
 ```sh
