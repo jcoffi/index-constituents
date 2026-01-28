@@ -1,104 +1,103 @@
 Symbol,Name
-AAPL,Apple Inc.
-ABNB,Airbnb
-ADBE,Adobe Inc.
-ADI,Analog Devices
+AAPL,Apple Inc Common
+ABNB,Airbnb Inc A Common
+ADBE,Adobe Inc Common
+ADI,Analog Devices Inc Common
 ADP,ADP
-ADSK,Autodesk
-AEP,American Electric Power
+ADSK,Autodesk Inc Common
+AEP,American Electric Power Company Inc Common
 ALGN,Align Technology Inc
-AMAT,Applied Materials
+AMAT,Applied Materials Inc Common
 AMD,Advanced Micro Devices Inc.
-AMGN,Amgen
-AMZN,Amazon
-APP,Applovin Corp
-ARM,Arm Holdings
+AMGN,Amgen Inc.
+AMZN,"Amazon.com, Inc.amazon.com"
+ANSS,
 ASML,ASML Holding
-ATVI,Activision Blizzard Inc
+ATVI,
 AVGO,Broadcom Inc.
-AXON,Axon Enterprise Inc.
 BIDU,Baidu Inc
-BIIB,Biogen
-BKNG,Booking Holdings
-CDNS,Cadence Design Systems
-CEG,Constellation Energy
-CHTR,Charter Communications
-CMCSA,Comcast
-COST,Costco
-CPRT,Copart
+BIIB,Biogen Inc Common
+BKNG,Booking Holdings Inc Common
+CDNS,Cadence Design Systems Inc Common
+CEG,Constellation Energy Corp Common
+CHTR,Charter Communications Inc A Common
+CMCSA,Comcast Corp A Common
+COST,Costco Wholesale Corp Common
+CPRT,Copart Inc Common
 CRWD,CrowdStrike
-CSCO,Cisco
-CSX,CSX Corporation
-CTAS,Cintas
-CTSH,Cognizant
+CSCO,"Cisco Systems, Inc."
+CSX,CSX Corp Common
+CTAS,Cintas Corp Common
+CTSH,Cognizant Technology Solutions Corp A Common
 DDOG,Datadog
+DLTR,Dollar Tree Inc Common
 DOCU,DocuSign Inc
 DXCM,DexCom
-EA,Electronic Arts
+EA,Electronic Arts Inc Common
 EBAY,eBay Inc
-EXC,Exelon
-FAST,Fastenal
-FISV,Fiserv Inc
-FTNT,Fortinet
-GILD,Gilead Sciences
-GOOG,Alphabet Inc. (Class C)
-GOOGL,Alphabet Inc. (Class A)
-HON,Honeywell
-IDXX,Idexx Laboratories
-INTC,Intel
-INTU,Intuit
-ISRG,Intuitive Surgical
+EXC,Exelon Corp Common
+FAST,Fastenal Co Common
+FI,Fiserv Inc Common
+FTNT,Fortinet Inc Common
+GILD,Gilead Sciences Inc Common
+GOOG,Alphabet Inc C Common
+GOOGL,Alphabet Inc A Common
+HON,Honeywell International Inc.
+IDXX,IDEXX Laboratories Inc Common
+ILMN,Illumina Inc Common
+INTC,Intel Corp Common
+INTU,Intuit Inc Common
+ISRG,Intuitive Surgical Inc Common
 JD,JD.com Inc
-KDP,Keurig Dr Pepper
-KHC,Kraft Heinz
-KLAC,KLA Corporation
+KDP,Keurig Dr Pepper Inc Common
+KHC,Kraft Heinz Co Common
+KLAC,KLA Corp Common
 LCID,Lucid Group Inc
-LRCX,Lam Research
-LULU,Lululemon Athletica
-MAR,Marriott International
-MCHP,Microchip Technology
-MDLZ,Mondelez International
+LRCX,Lam Research Corp Common
+LULU,Lululemon Athletica Inc Common
+MAR,Marriott International Inc A Common
+MCHP,Microchip Technology Inc Common
+MDLZ,Mondelez International Inc A Common
 MELI,MercadoLibre
-META,Meta Platforms
-MNST,Monster Beverage
+META,Meta Platforms Inc A Common
+MNST,Monster Beverage Corp Common
+MRNA,Moderna Inc Common
 MRVL,Marvell Technology
-MSFT,Microsoft
-MSTR,MicroStrategy Inc.
+MSFT,Microsoft Corporation
 MTCH,Match Group Inc
-MU,Micron Technology
-NFLX,Netflix
+MU,Micron Technology Inc Common
+NFLX,Netflix Inc Common
 NTES,NetEase Inc
-NVDA,Nvidia
-NXPI,NXP Semiconductors
+NVDA,NVIDIA Corp Common
+NXPI,NXP Semiconductors NV Common
 ODFL,Old Dominion Freight Line
 OKTA,Okta Inc
 ORLY,O'Reilly Automotive
-PANW,Palo Alto Networks
-PAYX,Paychex
-PCAR,Paccar
+PANW,Palo Alto Networks Inc Common
+PAYX,Paychex Inc Common
+PCAR,Paccar Inc Common
 PDD,PDD Holdings
-PEP,PepsiCo
-PLTR,Palantir Technologies
-PYPL,PayPal
-QCOM,Qualcomm
-REGN,Regeneron Pharmaceuticals
-ROST,Ross Stores
-SBUX,Starbucks
-SGEN,Seagen Inc
-SHOP,Shopify
-SNPS,Synopsys
-SPLK,Splunk Inc
+PEP,PepsiCo Inc Common
+PYPL,PayPal Holdings Inc Common
+QCOM,Qualcomm Inc Common
+REGN,Regeneron Pharmaceuticals Inc Common
+ROST,Ross Stores Inc Common
+SBUX,Starbucks Corp Common
+SGEN,
+SIRI,Sirius XM Holdings Inc
+SNPS,Synopsys Inc Common
+SPLK,
 SWKS,Skyworks Solutions Inc
 TEAM,Atlassian
-TMUS,T-Mobile US
-TRI,Thomson Reuters
-TSLA,"Tesla, Inc."
-TXN,Texas Instruments
+TMUS,T-Mobile US Inc Common
+TSLA,Tesla Inc Common
+TXN,Texas Instruments Inc Common
 VRSK,Verisk
 VRSN,VeriSign Inc
-VRTX,Vertex Pharmaceuticals
+VRTX,Vertex Pharmaceuticals Inc Common
+WBA,
 WDAY,"Workday, Inc."
-XEL,Xcel Energy
-XLNX,Xilinx Inc
+XEL,Xcel Energy Inc Common
+XLNX,
 ZM,Zoom Video Communications Inc
 ZS,Zscaler

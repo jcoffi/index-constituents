@@ -8,13 +8,13 @@ ADSK,Autodesk
 AEP,American Electric Power
 AMAT,Applied Materials
 AMD,Advanced Micro Devices Inc.
-AMGN,Amgen
-AMZN,Amazon
+AMGN,Amgen Inc.
+AMZN,"Amazon.com, Inc.amazon.com"
+ANSS,
 APP,Applovin Corp
 ARM,Arm Holdings
 ASML,ASML Holding
 AVGO,Broadcom Inc.
-AXON,Axon Enterprise Inc.
 AZN,AstraZeneca
 BIIB,Biogen
 BKNG,Booking Holdings
@@ -28,7 +28,7 @@ CMCSA,Comcast
 COST,Costco
 CPRT,Copart
 CRWD,CrowdStrike
-CSCO,Cisco
+CSCO,"Cisco Systems, Inc."
 CSGP,CoStar Group
 CSX,CSX Corporation
 CTAS,Cintas
@@ -46,8 +46,9 @@ GFS,GlobalFoundries
 GILD,Gilead Sciences
 GOOG,Alphabet Inc. (Class C)
 GOOGL,Alphabet Inc. (Class A)
-HON,Honeywell
+HON,Honeywell International Inc.
 IDXX,Idexx Laboratories
+ILMN,Illumina Inc Common
 INTC,Intel
 INTU,Intuit
 ISRG,Intuitive Surgical
@@ -59,13 +60,14 @@ LRCX,Lam Research
 LULU,Lululemon Athletica
 MAR,Marriott International
 MCHP,Microchip Technology
+MDB,
 MDLZ,Mondelez International
 MELI,MercadoLibre
 META,Meta Platforms
 MNST,Monster Beverage
+MRNA,Moderna
 MRVL,Marvell Technology
-MSFT,Microsoft
-MSTR,MicroStrategy Inc.
+MSFT,Microsoft Corporation
 MU,Micron Technology
 NFLX,Netflix
 NVDA,Nvidia
@@ -78,18 +80,16 @@ PAYX,Paychex
 PCAR,Paccar
 PDD,PDD Holdings
 PEP,PepsiCo
-PLTR,Palantir Technologies
 PYPL,PayPal
 QCOM,Qualcomm
 REGN,Regeneron Pharmaceuticals
 ROP,Roper Technologies
 ROST,Ross Stores
 SBUX,Starbucks
-SHOP,Shopify
+SMCI,Supermicro
 SNPS,Synopsys
 TEAM,Atlassian
 TMUS,T-Mobile US
-TRI,Thomson Reuters
 TSLA,"Tesla, Inc."
 TTD,Trade Desk (The)
 TTWO,Take-Two Interactive

@@ -1,7 +1,6 @@
 Symbol,Name
 AAPL,Apple Inc.
 AMGN,Amgen Inc.
-AMZN,"Amazon.com, Inc.amazon.com"
 AXP,American Express Company
 BA,The Boeing Company
 CAT,Caterpillar Inc.
@@ -9,10 +8,12 @@ CRM,"Salesforce, Inc."
 CSCO,"Cisco Systems, Inc."
 CVX,Chevron Corporation
 DIS,The Walt Disney Company
+DOW,Dow Inc.
 GS,"The Goldman Sachs Group, Inc."
 HD,"The Home Depot, Inc."
 HON,Honeywell International Inc.
 IBM,International Business Machines Corporation
+INTC,Intel
 JNJ,Johnson & Johnson
 JPM,JPMorgan Chase & Co.
 KO,The Coca-Cola Company
@@ -21,9 +22,7 @@ MMM,3M Company
 MRK,"Merck & Co., Inc."
 MSFT,Microsoft Corporation
 NKE,"Nike, Inc."
-NVDA,Nvidia
 PG,The Procter & Gamble Company
-SHW,Sherwin-Williams
 TRV,"The Travelers Companies, Inc."
 UNH,UnitedHealth Group Incorporated
 V,Visa Inc.

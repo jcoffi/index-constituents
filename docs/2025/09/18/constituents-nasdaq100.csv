@@ -1,102 +1,102 @@
 Symbol,Name
-NVDA,Nvidia
-MSFT,Microsoft
 AAPL,Apple Inc.
-AMZN,Amazon
-META,Meta Platforms
-AVGO,Broadcom Inc.
-GOOGL,Alphabet Inc. (Class A)
-GOOG,Alphabet Inc. (Class C)
-TSLA,"Tesla, Inc."
-NFLX,Netflix
-COST,Costco
-PLTR,Palantir Technologies
-ASML,ASML Holding
-CSCO,Cisco
-TMUS,T-Mobile US
-AMD,Advanced Micro Devices Inc.
-AZN,AstraZeneca
-LIN,Linde plc
-APP,Applovin Corp
-SHOP,Shopify
-PEP,PepsiCo
-MU,Micron Technology
-PDD,PDD Holdings
-INTU,Intuit
-QCOM,Qualcomm
-BKNG,Booking Holdings
-TXN,Texas Instruments
-LRCX,Lam Research
+ABNB,Airbnb
 ADBE,Adobe Inc.
-ISRG,Intuitive Surgical
-ARM,Arm Holdings
-AMAT,Applied Materials
-AMGN,Amgen
-INTC,Intel
-GILD,Gilead Sciences
-KLAC,KLA Corporation
-PANW,Palo Alto Networks
-HON,Honeywell
-MELI,MercadoLibre
-CRWD,CrowdStrike
 ADI,Analog Devices
 ADP,ADP
-CMCSA,Comcast
-DASH,DoorDash
-CEG,Constellation Energy
-CDNS,Cadence Design Systems
-MSTR,MicroStrategy Inc.
-VRTX,Vertex Pharmaceuticals
-SBUX,Starbucks
-SNPS,Synopsys
-ORLY,O'Reilly Automotive
-MDLZ,Mondelez International
-CTAS,Cintas
-ABNB,Airbnb
-TRI,Thomson Reuters
-MAR,Marriott International
 ADSK,Autodesk
-PYPL,PayPal
-MRVL,Marvell Technology
-MNST,Monster Beverage
-REGN,Regeneron Pharmaceuticals
-CSX,CSX Corporation
-WDAY,"Workday, Inc."
-FTNT,Fortinet
-AXON,Axon Enterprise Inc.
 AEP,American Electric Power
-NXPI,NXP Semiconductors
-ROP,Roper Technologies
-FAST,Fastenal
-PCAR,Paccar
-IDXX,Idexx Laboratories
-DDOG,Datadog
-ROST,Ross Stores
-PAYX,Paychex
-BKR,Baker Hughes
-TTWO,Take-Two Interactive
-WBD,Warner Bros. Discovery
-ZS,Zscaler
-TEAM,Atlassian
-CPRT,Copart
-EXC,Exelon
-EA,Electronic Arts
-XEL,Xcel Energy
-CCEP,Coca-Cola Europacific Partners
-FANG,Diamondback Energy
-CSGP,CoStar Group
-KDP,Keurig Dr Pepper
-CHTR,Charter Communications
-MCHP,Microchip Technology
-VRSK,Verisk
-CTSH,Cognizant
-GEHC,GE HealthCare
-KHC,Kraft Heinz
-DXCM,DexCom
-ODFL,Old Dominion Freight Line
-TTD,Trade Desk (The)
-CDW,CDW Corporation
-ON,Onsemi
+AMAT,Applied Materials
+AMD,Advanced Micro Devices Inc.
+AMGN,Amgen Inc.
+AMZN,"Amazon.com, Inc.amazon.com"
+APP,Applovin Corp
+ARM,Arm Holdings
+ASML,ASML Holding
+AVGO,Broadcom Inc.
+AXON,Axon Enterprise Inc.
+AZN,AstraZeneca
 BIIB,Biogen
-LULU,Lululemon Athletica
+BKNG,Booking Holdings
+BKR,Baker Hughes
+CCEP,Coca-Cola Europacific Partners
+CDNS,Cadence Design Systems
+CDW,CDW Corporation
+CEG,Constellation Energy
+CHTR,Charter Communications
+CMCSA,Comcast
+COST,Costco
+CPRT,Copart
+CRWD,CrowdStrike
+CSCO,"Cisco Systems, Inc."
+CSGP,CoStar Group
+CSX,CSX Corporation
+CTAS,Cintas
+CTSH,Cognizant
+DASH,DoorDash
+DDOG,Datadog
+DXCM,DexCom
+EA,Electronic Arts
+EXC,Exelon
+FANG,Diamondback Energy
+FAST,Fastenal
+FTNT,Fortinet
+GEHC,GE HealthCare
 GFS,GlobalFoundries
+GILD,Gilead Sciences
+GOOG,Alphabet Inc. (Class C)
+GOOGL,Alphabet Inc. (Class A)
+HON,Honeywell International Inc.
+IDXX,Idexx Laboratories
+INTC,Intel
+INTU,Intuit
+ISRG,Intuitive Surgical
+KDP,Keurig Dr Pepper
+KHC,Kraft Heinz
+KLAC,KLA Corporation
+LIN,Linde plc
+LRCX,Lam Research
+LULU,Lululemon Athletica
+MAR,Marriott International
+MCHP,Microchip Technology
+MDLZ,Mondelez International
+MELI,MercadoLibre
+META,Meta Platforms
+MNST,Monster Beverage
+MRVL,Marvell Technology
+MSFT,Microsoft Corporation
+MSTR,MicroStrategy Inc.
+MU,Micron Technology
+NFLX,Netflix
+NVDA,Nvidia
+NXPI,NXP Semiconductors
+ODFL,Old Dominion Freight Line
+ON,Onsemi
+ORLY,O'Reilly Automotive
+PANW,Palo Alto Networks
+PAYX,Paychex
+PCAR,Paccar
+PDD,PDD Holdings
+PEP,PepsiCo
+PLTR,Palantir Technologies
+PYPL,PayPal
+QCOM,Qualcomm
+REGN,Regeneron Pharmaceuticals
+ROP,Roper Technologies
+ROST,Ross Stores
+SBUX,Starbucks
+SHOP,Shopify
+SNPS,Synopsys
+TEAM,Atlassian
+TMUS,T-Mobile US
+TRI,Thomson Reuters
+TSLA,"Tesla, Inc."
+TTD,Trade Desk (The)
+TTWO,Take-Two Interactive
+TXN,Texas Instruments
+VRSK,Verisk
+VRTX,Vertex Pharmaceuticals
+WBD,Warner Bros. Discovery
+WDAY,"Workday, Inc."
+XEL,Xcel Energy
+ZS,Zscaler

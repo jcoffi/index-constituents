@@ -1,516 +1,496 @@
 Symbol,Name
-AA,Alcoa Inc
-AAPL,Apple Inc.
-ABI,Applied Biosystems Inc.
-ABS,Albertson's Inc.
-ABT,Abbott Laboratories
-ABX,Barrick Gold Corp.
-ACKH,Armstrong Holding Inc
-ACV,Alberto-Culver Co.
-ADBE,Adobe Inc.
-ADCT,ADC Telecommunications Inc
-ADM,Archer Daniels Midland
-ADP,Automatic Data Processing
-ADSK,Autodesk
-AEE,Ameren
-AEP,American Electric Power
-AES,AES Corporation
-AET,Aetna Inc.
-AFL,Aflac
-AFS.A,Associates First Capital Corp
-AGC,American General Insurance Co
-AGN,Allergan plc
-AGN (Old),Allergan Inc. (Old)
-AIG,American International Group
-AIT (Ame),Ameritech Corp.
-AL (Alc),Alcan Inc.
-ALL,Allstate
-AM,American Greetings Corp
-AMAT,Applied Materials
-AMD,Advanced Micro Devices
-AMGN,Amgen
-AMR (AMR),AMR Corp.
-ANDW,Andrew Corp.
-AON,Aon
-APA,APA Corporation
-APC,Anadarko Petroleum Corp
-APD,Air Products
-APO,Apollo Global Management
-AR (Asa),Asarco Inc.
-ARC (Atl),Atlantic Richfield Co
+AAMRQ,
+AAPL,Apple Inc Common
+ABI,
+ABS,
+ABT,Abbott Laboratories Common
+ACKH,
+ACV,
+ADBE,Adobe Inc Common
+ADCT,
+ADM,Archer-Daniels-Midland Co Common
+ADP,ADP
+ADSK,Autodesk Inc Common
+AEE,Ameren Corp Common
+AEP,American Electric Power Company Inc Common
+AES,AES Corp Common
+AET,
+AFL,Aflac Inc Common
+AFS,
+AGC,
+AGN,
+AIG,American International Group Inc (AIG)
+AIT,
+AL,
+ALL,Allstate Corp Common
+AM,
+AMAT,Applied Materials Inc Common
+AMD,Advanced Micro Devices Inc.
+AMGN,Amgen Inc.
+ANDW,
+AON,Aon Plc A Common
+APA,APA Corp Common
+APC,
+APD,Air Products and Chemicals Inc Common
+AR,
+ARC,
 ASH,Ashland Global Holdings Inc
-ASO,AmSouth Bancorp
-AT (All),Alltel Corp
+ASO,
+AT,
 ATI,Allegheny Technologies Inc.
-AVP,Avon Products Inc
-AVY,Avery Dennison
-AW,Allied Waste Industries Inc.
-AXP,American Express
-AZA.A,ALZA Corp.
-AZO,AutoZone
-BA,Boeing
-BAC,Bank of America
-BALL,Ball Corporation
-BAX,Baxter International
-BBY,Best Buy
+AVP,
+AVY,Avery Dennison Corp Common
+AW,
+AXP,American Express Company
+AZA,
+AZO,AutoZone Inc Common
+B,
+BA,The Boeing Company
+BAC,Bank of America Corp
+BALL,Ball Corp Common
+BAX,Baxter International Inc Common
+BBWI,Bath & Body Works Inc Common
+BBY,Best Buy Co Inc Common
 BC,Brunswick Corp.
-BCR,C. R. Bard Inc
-BDK,Black & Decker Manufacturing
-BDX,Becton Dickinson
-BEAM (Sun),Beam Suntory Inc
-BEN,Franklin Resources
+BCR,
+BDK,
+BDX,Becton Dickinson and Co Common
+BEAM,
+BEN,Franklin Resources Inc Common
 BF.B,Brown–Forman
-BFO,BestFoods
-BGG,Briggs & Stratton Corp
-BIG,Big Lots Inc.
-BK,BNY Mellon
-BKB,Bankboston Corp.
-BKR,Baker Hughes
-BLS,BellSouth Corp.
-BMC,BMC Software Inc
-BMET,Biomet Inc.
-BMS,Bemis Company Inc
-BMY,Bristol Myers Squibb
-BNI,Burlington Northern Santa Fe Corp
-BOL,Bausch & Lomb Inc.
-BR (OLD),Burlington Resources
-BS,Bethlehem Steel Corp
-BSC,Bear Stearns Co
-BSX,Boston Scientific
-BUD (Anh),Anheuser-Busch Inc.
-C,Citigroup
-CA,CA Inc
-CAG,Conagra Brands
-CAH,Cardinal Health
+BFO,
+BGGSQ,
+BHMSQ,
+BIGGQ,
+BK,Bank of New York Mellon Corp Common
+BKB,
+BKR,Baker Hughes Company Class A Common
+BLS,
+BMC,
+BMET,
+BMS,
+BMY,Bristol-Myers Squibb Co Common
+BNI,
+BOL,
+BR,
+BSC,
+BSX,Boston Scientific Corp Common
+BUD,
+C,Citigroup Inc
+CA,
+CAG,Conagra Brands Inc Common
+CAH,Cardinal Health Inc Common
 CAR,Avis Budget Group
-CAT,Caterpillar Inc.
-CB (Old),Chubb Corp. (Old)
-CBE,Cooper Industries plc
-CBS (Old),CBS Corp. (Old)
-CC (Circ),Circuit City Stores Inc.
-CCE,Coca-Cola European Partners plc
+CAT,Caterpillar Inc Common
+CB,
+CBE,
+CBS,
+CCEP,Coca-Cola Europacific Partners
 CCK,Crown Holdings Inc
-CCL,Carnival
-CEG (Old),Constellation Energy Group Inc (Old)
-CEN,Ceridian Corp.
-CFC,Countrywide Financial Corp.
-CG,Columbia Energy Group
-CGP,Coastal Corp.
-CHA,Champion International Corp
-CI,Cigna
-CIN,Cinergy Corp.
-CINF,Cincinnati Financial
-CL,Colgate-Palmolive
-CLX,Clorox
-CMCSK (Old),Comcast Corp (Old)
-CMI,Cummins
-CMS,CMS Energy
-CNG,Consolidated Natural Gas Co
-CNO,CNO Financial Group
-CNP,CenterPoint Energy
-COC.B,Conoco Inc.
-COF,Capital One
-COIN,Coinbase Global
-COMS,3Com Corp.
-COOP,Mr. Cooper Group Inc
-COP,ConocoPhillips
-COST,Costco
-CPB,Campbell Soup Company
-CPQ,Compaq Computer Corp
-CPWR,Compuware Corp
-CR,Crane Co.
-CRWD,CrowdStrike
-CSC,Computer Sciences Corp.
-CSCO,Cisco
-CSE,Case Corp.
-CSR,Central & South West Corp
-CSX,CSX Corporation
-CTB,Cooper Tire & Rubber Co.
-CTX,Centex Corp.
-CVS,CVS Health
-CVX,Chevron Corporation
-CYM,Cyprus Amax Minerals Co
-CZR (Har),Harrah's Entertainment
-D,Dominion Energy
-DAL,Delta Air Lines
-DAN,Dana Inc
-DASH,DoorDash
-DD,DuPont
-DD (Old),DuPont Co (Old)
-DDOG,Datadog
+CCL,Carnival Corp Common
+CCTYQ,
+CCU,
+CEG,
+CEN,
+CFC,
+CG,
+CGP,
+CHA,
+CI,Cigna Group Common
+CIN,
+CINF,Cincinnati Financial Corp Common
+CL,Colgate-Palmolive Co Common
+CLX,Clorox Co Common
+CMA,Comerica Inc Common
+CMCSA,Comcast Corp A Common
+CMI,Cummins Inc Common
+CMS,CMS Energy Corp Common
+CNCEQ,
+CNG,
+CNP,CenterPoint Energy Inc Common
+COC,
+COF,Capital One Financial Corp Common
+COMS,
+COP,ConocoPhillips Common
+COST,Costco Wholesale Corp Common
+CPB,Campbell's Co Common
+CPPRQ,
+CPQ,
+CPWR,
+CSCO,"Cisco Systems, Inc."
+CSE,
+CSR,
+CSX,CSX Corp Common
+CTB,
+CTX,
+CVS,CVS Health Corp Common
+CVX,Chevron Corp Common
+CXT,
+CYM,
+D,Dominion Energy Inc Common
+DALRQ,
+DCNAQ,
+DD,
 DDS,Dillard's Inc.
-DE,Deere & Company
-DELL,Dell Technologies
-DG,Dollar General
-DGN,Data General Corp.
-DHR,Danaher Corporation
-DIS,Walt Disney Company (The)
-DJ,Dow Jones & Co. Inc.
+DE,Deere & Co Common
+DELL,
+DG,
+DGN,
+DHR,Danaher Corp Common
+DIS,The Walt Disney Company
+DJ,
 DLX,Deluxe Corp.
-DNB,Dun & Bradstreet Corp
-DOV,Dover Corporation
-DPH,Delphi Corp. (Old)
-DRI,Darden Restaurants
-DTE,DTE Energy
-DUK,Duke Energy
-EC,Engelhard Corp.
-ECL,Ecolab
-ED,Consolidated Edison
-EDS,Electronic Data Systems Corp
-EFU,Eastern Enterprises
-EFX,Equifax
+DOV,Dover Corp Common
+DOW,
+DPHIQ,
+DRI,Darden Restaurants Inc Common
+DTE,DTE Energy Co Common
+DUK,Duke Energy Corp Common
+DXC,DXC Technology Co
+EC,
+ECL,Ecolab Inc Common
+ED,Consolidated Edison Inc Common
+EDS,
+EFU,
+EFX,Equifax Inc Common
 EHC,HealthSouth Corp.
-EIX,Edison International
-EMC,EMC Corp.
-EMN,Eastman Chemical Company
-EMR,Emerson Electric
-ENRNQ,Enron Corp.
-ERIE,Erie Indemnity
-ETN,Eaton Corporation
-ETR,Entergy
-ETS,Enterasys Networks Inc.
-EXC,Exelon
-EXE,Expand Energy
-F,Ford Motor Company
-FBF,FleetBoston Financial Group Inc
-FCX,Freeport-McMoRan
-FDC,First Data Corp.
-FDX,FedEx
-FE,FirstEnergy
-FITB,Fifth Third Bancorp
-FJ,Fort James Corp.
-FLE,Fleetwood Enterprises Inc
+EIX,Edison International Common
+EKDKQ,
+EMC,
+EMN,Eastman Chemical Co Common
+EMR,Emerson Electric Co Common
+ENRNQ,
+ETN,Eaton Corporation PLC Common
+ETR,Entergy Corp Common
+ETS,
+EXC,Exelon Corp Common
+F,Ford Motor Co Common
+FBF,
+FCX,Freeport-McMoRan Inc Common
+FDC,
+FDX,FedEx Corp Common
+FE,FirstEnergy Corp Common
+FITB,Fifth Third Bancorp Common
+FJ,
+FLTWQ,
 FMC,FMC Corp
 FMCC,Freddie Mac (FHLMC)
 FNMA,Fannie Mae (FNMA)
-FPC,Florida Progress Corp
-FRO (Fro),Frontier Corp.
-FTL.A,Fruit of The Loom Inc
-FWLT,Foster Wheeler AG
-G (Gil),Gillette Co.
+FPC,
+FRO,
+FTL,
+FWLT,
+G,
 GAP,The Great Atlantic & Pacific Tea Co
-GAS (Nico),Nicor Inc.
-GD,General Dynamics
-GDDY,GoDaddy
-GDT,Guidant Corp
-GDW,Golden West Financial
-GE,GE Aerospace
-GEV,GE Vernova
-GIS,General Mills
-GL,Globe Life
-GLK (Chem),Great Lakes Chemical Corp
-GLW,Corning Inc.
-GM,General Motors
-GP,Georgia-Pacific Group
-GPC,Genuine Parts Company
-GPS,The Gap Inc
-GPU,GPU Inc.
-GR,Goodrich Corp.
-GRA,W. R. Grace & Co
-GT,The Goodyear Tire & Rubber Co
-GTE (GTE),GTE Corp.
-GTW,Gateway Inc.
-GWW,W. W. Grainger
-H (Har),Harcourt General Inc.
-HAL,Halliburton
-HAS,Hasbro
-HBAN,Huntington Bancshares
-HCA,HCA Healthcare
-HCR,Manor Care Inc.
-HD,Home Depot (The)
-HI (Hou),Household International Inc
-HIG,Hartford (The)
-HLT,Hilton Worldwide
-HM,Homestake Mining Co
-HNZ,H. J. Heinz Company
-HON,Honeywell
-HON (Old),Honeywell Inc. (Old)
+GAPTQ,
+GAS,
+GD,General Dynamics Corp Common
+GDT,
+GDW,
+GE,General Electric Co
+GIC,
+GIS,General Mills Inc Common
+GL,Globe Life Inc Common
+GLK,
+GLW,Corning Inc Common
+GP,
+GPC,Genuine Parts Co Common
+GPU,
+GR,
+GRA,
+GT,Goodyear Tire & Rubber Co
+GTE,
+GTW,
+GWW,WW Grainger Inc Common
+H,
+HAL,Halliburton Co Common
+HAS,Hasbro Inc
+HBAN,Huntington Bancshares Inc Common
+HCA,
+HCR,
+HD,"The Home Depot, Inc."
+HES,
+HET,
+HI,
+HIG,Hartford Insurance Group Inc Common
+HLT,
+HM,
+HNZ,
+HON,
+HON,Honeywell International Inc.
 HP,Helmerich & Payne Inc
-HPC,Hercules Inc.
-HPQ,HP Inc.
+HPC,
+HPQ,Hewlett-Packard Co
 HRB,H&R Block Inc
-HSH,Hillshire Brands Co
-HSY,Hershey Company (The)
-HUM,Humana
-IBKR,Interactive Brokers Group
-IBM,IBM
-IFF,International Flavors & Fragrances
-IHRT,iHeartMedia Inc
-IKN,IKON Office Solutions Inc
-IMS,IMS Health Holdings Inc
-INTC,Intel
-IP,International Paper
-IPG,Interpublic Group of Companies (The)
+HSH,
+HSY,Hershey Co Common
+HUM,Humana Inc Common
+HWM,Howmet Aerospace Inc Common
+IBM,International Business Machines Corporation
+IFF,International Flavors & Fragrances Inc Common
+IKN,
+INCLF,
+INTC,Intel Corp Common
+IP,International Paper Co
+IPG,Interpublic Group of Companies Inc Common
 ITT,ITT Inc
-ITW,Illinois Tool Works
-JAVA,Sun Microsystems
-JCI,Johnson Controls
-JCI (Old),Johnson Controls (Old)
-JCP,J.C. Penney Co Inc
-JNJ,Johnson & Johnson
-JOS,Jostens Inc.
-JP,Jefferson-Pilot Corp.
-JPM,JPMorgan Chase
-JPM (Old),J. P. Morgan & Co. Inc (Old)
-JWN,Nordstrom Inc
-K,Kellanova
-KATE,Kate Spade & Co
+ITW,Illinois Tool Works Inc Common
+JAVA,
+JCI,
+JCI,Johnson Controls International PLC Common
+JNJ,Johnson & Johnson Common
+JOS,
+JP,
+JPM,
+JPM,JPMorgan Chase & Co.
+JWN,
+K,Kellanova Common
+KATE,
 KBH,KB Home
-KEY,KeyCorp
-KKR,KKR
-KLAC,KLA Corporation
-KM,Kmart Corp
-KMB,Kimberly-Clark
-KMG (Ker),Kerr-McGee Corp.
-KO,Coca-Cola Company (The)
-KODK,Eastman Kodak Co.
-KR,Kroger
-KRB,MBNA Corp.
-KRI,Knight-Ridder Inc.
+KEY,KeyCorp Common
+KLAC,KLA Corp Common
+KM,
+KMB,Kimberly-Clark Corp Common
+KMG,
+KO,The Coca-Cola Company
+KR,Kroger Co Common
+KRB,
+KRI,
 KSS,Kohl's Corp
-KSU,Kansas City Southern
-KWP,King World Productions Inc.
-L,Loews Corporation
-LDG,Longs Drug Stores Inc
-LEHMQ,Lehman Brothers Holding
-LHX,L3Harris
-LI,Laidlaw Int'l Inc
-LII,Lennox International
-LIN,Linde plc
-LLY,Lilly (Eli)
-LMT,Lockheed Martin
+KSU,
+KWP,
+L,Loews Corp Common
+LDG,
+LDW,
+LEHMQ,
+LHX,L3Harris Technologies Inc Common
+LLY,Eli Lilly and Co Common
+LMT,Lockheed Martin Corp Common
 LNC,Lincoln National Corp
-LOW,Lowe's
+LOW,Lowe's Companies Inc Common
 LPX,Louisiana-Pacific Corp.
-LSI (LSI),LSI Corp
-LU,Lucent Technology
+LSI,
+LU,
 LUMN,Lumen Technologies Inc
-LUV,Southwest Airlines
-LXK,Lexmark International Inc
+LUV,Southwest Airlines Co Common
 M,Macy’s Inc
-MAR,Marriott International
-MAS,Masco
-MAT,Mattel Inc.
-MAY,May Dept Stores
+MAR,Marriott International Inc A Common
+MAS,Masco Corp Common
+MAT,Mattel Inc
+MAY,
 MBI,MBIA Inc
-MCD,McDonald's
-MCK,McKesson Corporation
-MDP,Meredith Corp.
-MDR,McDermott Int'l Inc
-MDT,Medtronic
-MEA,Mead Corp.
-MEE,Massey Energy Co.
-MEL,Mellon Financial Corp
-MER,Merrill Lynch & Co
-MIL,Millipore Corp
-MIR (M. R.),Mirage Resorts Inc
-MKG,Mallinckrodt Inc. (Old)
-MMC,Marsh McLennan
-MMM,3M
-MO,Altria
-MOB,Mobil Corp.
-MRK,Merck & Co.
-MS,Morgan Stanley
-MSFT,Microsoft
-MSI,Motorola Solutions
+MCD,McDonald's Corporation
+MCK,McKesson Corp Common
+MCO,Moody's Corp Common
+MDP,
+MDRIQ,
+MDT,Medtronic PLC Common
+MEA,
+MEE,
+MEL,
+MER,
+MIL,
+MIR,
+MKG,
+MMC,Marsh & McLennan Companies Inc Common
+MMM,3M Company
+MO,Altria Group Inc
+MOB,
+MRK,"Merck & Co., Inc."
+MRO,
+MS,Morgan Stanley Common
+MSFT,Microsoft Corporation
+MSI,Motorola Solutions Inc Common
 MTG,MGIC Investment Corp
-MTL,Mercantile Bancorporation Inc
-MU,Micron Technology
-MYG,Maytag Corp.
-MZ,Milacron Inc.
-N (Inc),Inco Ltd.
-NAV,Navistar Int'l Corp
+MTL,
+MTLQQ,
+MU,Micron Technology Inc Common
+MWV,
+MYG,
+MZIAQ,
+NAV,
 NC,NACCO Industries Inc
-NCC,National City Corp.
-NCE,New Century Energies Inc
-NEE,NextEra Energy
-NEM,Newmont
-NGH,Nabisco Group Holding Corp
-NKE,"Nike, Inc."
-NLV,NextLevel Systems Inc
-NMK,Niagara Mohawk Holdings Inc.
-NOC,Northrop Grumman
-NOVL,Novell Inc
-NSC,Norfolk Southern Railway
-NSI,National Service Industries Inc
-NSM (Nat),National Semiconductor
-NT,Nortel Networks
-NTAP,NetApp
-NTRS,Northern Trust
-NUE,Nucor
+NCC,
+NCE,
+NEE,NextEra Energy Inc Common
+NEM,Newmont Corporation Common
+NGH,
+NKE,NIKE Inc B Common
+NMK,
+NOC,Northrop Grumman Corp Common
+NOVL,
+NRTLQ,
+NSC,Norfolk Southern Corp Common
+NSI,
+NSM,
+NTAP,NetApp Inc
+NTRS,Northern Trust Corp Common
+NUE,Nucor Corp Common
 NWL,Newell Brands Inc
-NXTL,Nextel Communications Inc
+NXTL,
 NYT,New York Times Co
-OAT,Quaker Oats Co
-OC,Owens Corning
+OAT,
 ODP,Office Depot Inc.
 OI,Owens-Illinois Inc.
-OKE,ONEOK
-OMC,Omnicom Group
-OMX (Old),OfficeMax Inc (Old)
-ONE,Bank One Corp.
-ORCL,Oracle Corporation
-OXY,Occidental Petroleum
-PAR,PAR Technology Corp
-PAYX,Paychex
+OKE,ONEOK Inc Common
+OMC,Omnicom Group Inc Common
+OMX,
+ONE,
+ORCL,Oracle Corp
+OWENQ,
+OXY,Occidental Petroleum Corp Common
+PAYX,Paychex Inc Common
 PBI,Pitney Bowes Inc
-PBY,"Pep Boys: Manny, Moe & Jack"
-PCAR,Paccar
-PCG,PG&E Corporation
+PBY,
+PCAR,Paccar Inc Common
+PCG,PG&E Corp Common
 PCH,PotlatchDeltic Corp
-PCS (Sprint),Sprint PCS Group
-PD,Phelps Dodge Corp
-PDG,Placer Dome Inc.
-PEG,Public Service Enterprise Group
-PEP,PepsiCo
-PFE,Pfizer
-PG,Procter & Gamble
-PGL,Peoples Energy Corp
-PGN,Progress Energy Inc.
-PGR,Progressive Corporation
-PH,Parker Hannifin
-PHA,Pharmacia Corp.
-PHB,Pioneer HI Bred International Inc
-PHM,PulteGroup
-PLL,Pall Corp.
-PLTR,Palantir Technologies
-PNC,PNC Financial Services
-PNU,Pharmacia & Upjohn Inc.
-PPG,PPG Industries
-PPL,PPL Corporation
-PPW,Pacificorp
-PRD,Polaroid Corp
-PSFT,People Soft Inc
-PSKY,Paramount Skydance Corp
-PVN (Fin),Providian Financial Corp
-PWJ,Paine Webber Group Inc
-QCOM,Qualcomm
+PCS,
+PD,
+PDG,
+PEG,Public Service Enterprise Group Inc Common
+PEP,PepsiCo Inc Common
+PFE,Pfizer Inc
+PG,The Procter & Gamble Company
+PGL,
+PGN,
+PGR,Progressive Corp Common
+PH,Parker-Hannifin Corp Common
+PHA,
+PHB,
+PHM,Pultegroup Inc Common
+PLL,
+PNC,PNC Financial Services Group Inc Common
+PNU,
+PPG,PPG Industries Inc Common
+PPL,PPL Corp Common
+PPW,
+PRD,
+PSFT,
+PSKY,Paramount Skydance Corp B Common
+PTC,PTC Inc
+PVN,
+PWJ,
+PX,
+QCOM,Qualcomm Inc Common
 R,Ryder System Inc
-RAD,Rite Aid Corp.
-RAL,Ralston Purina Co.
-RBK,Reebok Int'l Ltd
-RD,Royal Dutch Petroleum
-RDC,Rowan Companies plc
-RF,Regions Financial Corporation
-RLM,Reynolds Metals Co
-RML,Russell Corp.
-RNB,Republic New York Corp
-ROH,Rohm & Hass Co
-ROK,Rockwell Automation
-RRD,RR Donnelley & Sons Co
-RSH,RadioShack Corp.
-RTN,Raytheon Co. (Old)
-RTX,RTX Corporation
-RVTY,Revvity
-S,Sprint Corp
-S (Sears),Sears Roebuck & Co
-SAF,Safeco Corp.
-SCHW,Charles Schwab Corporation
+RADCQ,
+RAL,
+RBK,
+RDC,
+RF,Regions Financial Corp Common
+RLM,
+RML,
+RNB,
+ROH,
+ROK,Rockwell Automation Inc Common
+RRD,
+RSHCQ,
+RTN,
+RTX,Raytheon Technologies Corp
+RVTY,Revvity Inc Common
+RX,
+S,
+SAF,
+SCHW,Charles Schwab Corp Common
 SCI,Service Corp. Int'l
 SEE,Sealed Air Corp
-SEG,Seagate Technology (Old)
-SFA,Scientific-Atlanta Inc
-SGI (Old),Silicon Graphics Inc (Old)
-SGP,Schering-Plough Corp.
-SHW,Sherwin-Williams
-SIAL,Sigma-Aldrich Corp.
-SLB,Schlumberger
+SEG,
+SFA,
+SGID,
+SGP,
+SHEL,
+SHW,Sherwin-Williams Co Common
+SIAL,
+SLB,Schlumberger NV Common
 SLM,SLM Corp.
-SLR,Solectron Corp.
-SMI,Springs Industries Inc.
-SMS,Shared Medical Systems Corp
-SNA,Snap-on
-SNT,Sonat Inc.
+SLR,
+SMI,
+SMS,
+SNA,Snap-On Inc Common
+SNT,
 SNV,Synovus Financial Corp.
-SO,Southern Company
-SOLV,Solventum
-SOTR,SouthTrust Corp
-SPGI,S&P Global
-SPLS,Staples Inc.
-SRE,Sempra
-STI,SunTrust Banks Inc
-STJ,St. Jude Medical Inc
-STT,State Street Corporation
-SUB,Summit Bancorp
-SUN (Sun),Sunoco Inc (Old)
-SVU,Supervalu Inc.
-SW,Smurfit WestRock
-SWK,Stanley Black & Decker
-SWY,Safeway Inc.
-SYY,Sysco
-T,AT&T
-T (Old),AT&T Corp. (Old)
-TAP,Molson Coors Beverage Company
-TEK,Tektronix Inc.
-TEN,Tenneco Inc.
-TFC,Truist Financial
+SO,Southern Co Common
+SOTR,
+SPGI,S&P Global Inc Common
+SPLS,
+SRE,Sempra Common
+STI,
+STJ,
+STT,State Street Corp Common
+SUB,
+SUN,
+SVU,
+SWK,Stanley Black & Decker Inc Common
+SWY,
+SYY,Sysco Corp Common
+T,
+T,AT&T Inc
+TAP,Molson Coors Beverage Co B Common
+TEK,
+TEN,
+TFC,Truist Financial Corp Common
 TGNA,TEGNA Inc
-TGT,Target Corporation
+TGT,Target Corp Common
 THC,Tenet Healthcare Corp.
-TIN,Temple-Inland Inc.
-TJX,TJX Companies
-TKO,TKO Group Holdings
+TIN,
+TJX,TJX Companies Inc Common
 TKR,Timken Co.
-TLAB,Tellabs Inc.
-TMC.A,Times Mirror Co Share
-TMO,Thermo Fisher Scientific
-TNB,Thomas & Betts Corp
-TOY,"Toys ""R"" Us, Inc."
-TPL,Texas Pacific Land Corporation
-TRCO,Tribune Media Co
-TRV,Travelers Companies (The)
-TRW (TRW),TRW Inc.
-TT,Trane Technologies
-TTD,"The Trade Desk, Inc."
-TUP,Tupperware Brands Corp
-TWX,Time Warner Inc.
-TWX (Old),Time Warner Inc. (Old)
-TX,Texaco Inc.
-TXN,Texas Instruments
-TXT,Textron
-TXU,TXU Corp.
-U,US Airways Group (Old)
-UCL,Unocal Co
-UCM,Unicom Corp Holding Co
+TLAB,
+TMC,
+TMO,Thermo Fisher Scientific Inc Common
+TNB,
+TOY,
+TRB,
+TRV,"The Travelers Companies, Inc."
+TRW,
+TT,Trane Technologies PLC Common
+TUPBQ,
+TWX,
+TX,
+TXN,Texas Instruments Inc Common
+TXT,Textron Inc Common
+TXU,
+UAWGQ,
+UCL,
+UCM,
 UIS,Unisys Corp.
-UK,Union Carbide Corp Holding Co
-UMG,MediaOne Group Inc.
-UN,Unilever N.V.
-UNH,UnitedHealth Group
+UK,
+UMG,
+UN,
+UNH,UnitedHealth Group Incorporated
 UNM,Unum Group
-UNP,Union Pacific Corporation
-UPC,Union Planters Corp.
-UPR,Union Pacific Resources Group Inc
-USB,U.S. Bancorp
-USB (FBS),U.S. Bancorp (First Bank)
-UST,UST Inc.
-USW,US West Inc.
-VMC,Vulcan Materials Company
-VO,Seagram Co. Ltd.
-VST,Vistra Corp.
-VZ,Verizon
-WB,Wachovia Corp.
-WB (Old),Wachovia Corp (Old)
-WCOM,WorldCom Inc
-WDAY,"Workday, Inc."
-WEN,Wendy's International
-WFC,Wells Fargo
+UNP,Union Pacific Corp Common
+UPC,
+UPR,
+USB,
+USB,US Bancorp Common
+UST,
+USW,
+VFC,VF Corp Common
+VMC,Vulcan Materials Co Common
+VO,
+VZ,Verizon Communications Inc.
+WAMUQ,
+WB,
+WBA,
+WCOEQ,
+WEN,
+WFC,Wells Fargo & Co Common
 WHR,Whirlpool Corp
-WIN (W-D),Winn-Dixie Stores Inc (Old)
-WLA,Warner Lambert Pharmaceutical Co
-WLL (Wil),Willamette Industries Inc
-WLP,Wellpoint Health Networks Inc
-WM,Waste Management
-WMB,Williams Companies
-WMT,Walmart
+WLA,
+WLL,
+WLP,
+WM,Waste Management Inc Common
+WMB,Williams Companies Inc Common
+WMT,Walmart Inc.
+WNDXQ,
 WOR,Worthington Industries Inc
-WSM,Williams-Sonoma
-WWY,Wrigley Co.
-WY,Weyerhaeuser
-WYE,Wyeth Corp.
-X,United States Steel Corp
-XEL,Xcel Energy
-XOM,ExxonMobil
+WWY,
+WY,Weyerhaeuser Co Common
+WYE,
+X,
+XEL,Xcel Energy Inc Common
+XOM,Exxon Mobil Corp
 XRX,Xerox Holdings Corp
-XYZ,"Block, Inc."
-YUM,Yum! Brands
+YUM,Yum! Brands Inc Common

@@ -1,107 +1,101 @@
 Symbol,Name
-AAPL,Apple Inc.
-ADBE,Adobe Inc.
-ADCT,ADC Telecommunications Inc
-ADSK,Autodesk
+AAPL,Apple Inc Common
+ADBE,Adobe Inc Common
+ADCT,
+ADSK,Autodesk Inc Common
 ADTN,Adtran Inc
-ALTR (Alt),Altera Corp.
-AM,American Greetings Corp
-AMAT,Applied Materials
-AMGN,Amgen
-ANDW,Andrew Corp
-APCC,American Power Conversion Corp
-APP,Applovin Corp
-ARM,Arm Holdings
-ASCL,Ascential Software
-ASND,Ascend Comm's Inc
-ATML,Atmel Corp
-AXON,Axon Enterprise Inc.
-BBBY,Bed Bath & Beyond Inc
-BGEN,Biogen NV
-BMC,BMC Software Inc
-BMET,Biomet Inc
-BOST,Boston Chicken Inc
+ALTR,
+AM,
+AMAT,Applied Materials Inc Common
+AMGN,Amgen Inc.
+ANDW,
+APCC,
+ASCL,
+ASND,
+ATML,
+BBBYQ,
+BCHXQ,
+BGEN,
+BMC,
+BMET,
 CBRL,Cracker Barrel Old Country Store Inc
-CE (Con),"Concord EFS, Inc."
-CEXP,Corporate Express Inc
-CHIR,Chiron Corp
-CMCSK (Old),Comcast Corp (Old)
-CNTO,Centocor Inc
-COMS,3Com Corp
-COST,Costco
-CPWR,Compuware Corp
+CE,
+CEXP,
+CHIR,
+CMCSK,
+CNTO,
+COMS,
+COST,Costco Wholesale Corp Common
+CPWR,
 CRUS,Cirrus Logic Inc
-CSCO,Cisco
-CTAS,Cintas
-DELL (Old),"Dell, Inc. (Old)"
-DIGI,DSC Communications Corp
-DZB,Delhaize America Inc
-EA,Electronic Arts
-EDCI,EDCI Holdings Inc
-EFII,Electronics for Imaging Inc
-FAST,Fastenal
-FHCC,First Health Group Corp
-FISV,Fiserv Inc
-FORE,Fore Systems Inc
-GENZ,Genzyme Corp
-GNCI,General Nutrition Cos Inc
-HBOC,HBO & Co
-IDXX,Idexx Laboratories
-INTC,Intel
-INTU,Intuit
+CSCO,"Cisco Systems, Inc."
+CTAS,Cintas Corp Common
+DELL,
+DIGI,
+DZB,
+EA,Electronic Arts Inc Common
+EDCI,
+EFII,
+FAST,Fastenal Co Common
+FHCC,
+FI,Fiserv Inc Common
+FORE,
+GENZ,
+GNCI,
+HBOC,
+IDXX,IDEXX Laboratories Inc Common
+INTC,Intel Corp Common
+INTU,Intuit Inc Common
 IT,Gartner Inc
-JAVA,Sun Microsystems
-JWN,Nordstrom Inc
-KLAC,KLA Corporation
-KMAG,Komag Inc (Old)
-LLTC,Linear Technology Corp
-MCHP,Microchip Technology
-MCIC,MCI Communications Corp
-MFE,McAfee Inc
+JAVA,
+JWN,
+KLAC,KLA Corp Common
+KMAGQ,
+LLTC,
+MCHP,Microchip Technology Inc Common
+MCIC,
+MFE,
 MKC,McCormick & Company Inc
 MLKN,MillerKnoll Inc
-MOLX,Molex Inc
-MSFT,Microsoft
-MSTR,MicroStrategy Inc.
-MU,Micron Technology
-MXIM,Maxim Integrated Products Inc
-NOVL,Novell Inc
-NSCP,Netscape Communications Corp
-NWA,Nortwest Airlines
-NXTL,Nextel Communications Inc
-OFIS,US Office Products Co
-OHP,Oxford Health Plans Inc
+MOLX,
+MSFT,Microsoft Corporation
+MXIM,
+NOVL,
+NSCP,
+NWACQ,
+NXTL,
+OFIS,
+OHP,
 ORCL,Oracle Corp
-OSI (Res),OSI Restaurant Partners
-PAGE,Paging Network Inc
-PAIR,Pairgain Technologies Inc
-PAYX,Paychex
-PCAR,Paccar
-PETM,PetSmart Inc
-PHSYB,Pacificare Health Systems Inc Share
-PHYC,Phycor Inc
-PLTR,Palantir Technologies
-PSFT,People Soft Inc
+OSI,
+PAGE,
+PAIR,
+PAYX,Paychex Inc Common
+PCAR,Paccar Inc Common
+PETM,
+PHSYB,
+PHYCQ,
+PSFT,
 PTC,PTC Inc
-QCOM,Qualcomm
+QCOM,Qualcomm Inc Common
 QMCO,Quantum Corp
-QTRN,Quintiles Transnational Corp
-ROST,Ross Stores
+QTRN,
+ROST,Ross Stores Inc Common
 RPM,RPM Int'l Inc
-SBUX,Starbucks
-SHOP,Shopify
-SIAL,Sigma-Aldrich Corp
-SNPS,Synopsys
-SPLS,Staples Inc
-SPOT,Panamsat Inc
-SSCCQ,Smurfit Stone Corp
-STEI,Stewart Enterprises Inc
-SXCL,Steel Excel Inc
-SY,Sybase Inc
-TCOMA,Tele Communications Inc
-TLAB,Tellabs Inc
-VKNG,Viking Office Products Inc
-WCLX,Wisconsin Central Transportation Corp
-WCOM,WorldCom Inc
+SBUX,Starbucks Corp Common
+SIAL,
+SNPS,Synopsys Inc Common
+SPLS,
+SPOT,
+SSCC,
+STEI,
+SXCL,
+SY,
+TCOMA,
+TLAB,
+VKNG,
+WCLX,
+WCOEQ,
 WOR,Worthington Industries Inc
-XLNX,Xilinx Inc
+WWWW,
+XLNX,

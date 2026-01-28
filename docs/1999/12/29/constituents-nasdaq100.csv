@@ -1,108 +1,100 @@
 Symbol,Name
-AAPL,Apple Inc.
-ADBE,Adobe Inc.
-ADCT,ADC Telecommunications Inc
-ADLAC,Adelphia Comm's Corp
-ALTR (Alt),Altera Corp.
-AMAT,Applied Materials
-AMCC,Applied Micro Circuits Corp
-AMGN,Amgen
-AMZN,Amazon
-APCC,American Power Conversion Corp
-APOL,Apollo Education Group
-APP,Applovin Corp
-ARM,Arm Holdings
-ATHMA,At Home Corp.
-ATML,Atmel Corp
-AXON,Axon Enterprise Inc.
-BBBY,Bed Bath & Beyond Inc
-BGEN,Biogen NV
-BMC,BMC Software Inc
-BMET,Biomet Inc
-BVSN,BroadVision Inc
-CE (Con),"Concord EFS, Inc."
-CHIR,Chiron Corp
+AABA,
+AAPL,Apple Inc Common
+ADBE,Adobe Inc Common
+ADCT,
+ADELQ,
+ALTR,
+AMAT,Applied Materials Inc Common
+AMCC,
+AMGN,Amgen Inc.
+AMZN,"Amazon.com, Inc.amazon.com"
+APCC,
+APOL,
+ATHMQ,
+ATML,
+BBBYQ,
+BGEN,
+BMC,
+BMET,
+BVSN,
+CE,
+CHIR,
 CIEN,Ciena Corp
-CMCSK (Old),Comcast Corp (Old)
-CMVT,Comverse Technology Inc
-CNET,CNet Networks Inc
-CNXT,Conexant Systems
-COMS,3Com Corp
-COST,Costco
-CPWR,Compuware Corp
-CSCO,Cisco
-CTAS,Cintas
-CTXS,Citrix Systems Inc
-DELL (Old),"Dell, Inc. (Old)"
-DISH,DISH Network Corp
+CMCSK,
+CMVT,
+CNET,
+CNXT,
+COMS,
+COST,Costco Wholesale Corp Common
+CPWR,
+CSCO,"Cisco Systems, Inc."
+CTAS,Cintas Corp Common
+CTXS,
+DELL,
+DISH,
 DLTR,Dollar Tree Inc
-EA,Electronic Arts
+EA,Electronic Arts Inc Common
 EBAY,eBay Inc
 ERIC,Ericsson Telephone Company
-EYE (VISX),"VISX, Inc."
-FISV,Fiserv Inc
-GENZ,Genzyme Corp
-GLBC (Glob),Global Crossing Ltd.
-IAC (Old),IAC/InterActiveCorp
-IMNX,Immunex Corp
-INTC,Intel
-INTU,Intuit
-ITWO,I2 Technology
-JAVA,Sun Microsystems
-JDSU,JDS Uniphase Corp.
-KLAC,KLA Corporation
-LCOS,Lycos Inc
-LGTO,Legato Systems
-LLTC,Linear Technology Corp
-LVLT,Level 3 Comm's Inc
-MCHP,Microchip Technology
-MCLD,McLeodUSA Inc
-MEDI,Medimmune Inc
-MFE,McAfee Inc
-MFNX,Metromedia Fiber Network Inc
+EYE,
+FI,Fiserv Inc Common
+GBLXQ,
+GENZ,
+IAC,IAC/InterActiveCorp
+IMNX,
+INTC,Intel Corp Common
+INTU,Intuit Inc Common
+ITWO,
+JAVA,
+KLAC,KLA Corp Common
+LCOS,
+LGTO,
+LLTC,
+LVLT,
+MCHP,Microchip Technology Inc Common
+MCLDQ,
+MEDI,
+MFE,
+MFNXQ,
 MLKN,MillerKnoll Inc
-MOLX,Molex Inc
-MSFT,Microsoft
-MSTR,MicroStrategy Inc.
-MXIM,Maxim Integrated Products Inc
-NLI,NTL Inc
-NOVL,Novell Inc
-NSOL,Network Solutions Inc
+MOLX,
+MSFT,Microsoft Corporation
+MXIM,
+NOVL,
+NSOL,
 NTAP,NetApp Inc
-NWA,Nortwest Airlines
-NXTL,Nextel Communications Inc
+NTLDQ,
+NWACQ,
+NXTL,
 ORCL,Oracle Corp
-PAYX,Paychex
-PCAR,Paccar
-PHSYB,Pacificare Health Systems Inc Share
-PLTR,Palantir Technologies
-PMCS,PMC-Sierra Inc
-PSFT,People Soft Inc
+PAYX,Paychex Inc Common
+PCAR,Paccar Inc Common
+PHS,
+PMCS,
+PSFT,
 PTC,PTC Inc
-Q (Qwe),Qwest Communications Int'l
-QCOM,Qualcomm
-QLGC,QLogic Corp
-QTRN,Quintiles Transnational Corp
-RFMD,"RF Micro Devices, Inc."
-RNWK,RealNetworks Inc
+QCOM,Qualcomm Inc Common
+QLGC,
+QTRN,
+RFMD,
+RNWK,
 SANM,Sanmina Corp
-SBUX,Starbucks
-SDLI,SDL Inc
-SEBL,Siebel Systems Inc
-SHOP,Shopify
-SIAL,Sigma-Aldrich Corp
-SNPS,Synopsys
-SPLS,Staples Inc
-SPOT,Panamsat Inc
-SSCCQ,Smurfit Stone Corp
-STCN,Steel Connect Inc
-SXCL,Steel Excel Inc
-TLAB,Tellabs Inc
-TRI,Thomson Reuters
-VRTS (Veri),VERITAS Software Corp.
-VSTR,Voicestream Wireless Corp
-VTSS,Vitesse Semiconductor Corp
-WCOM,WorldCom Inc
-XLNX,Xilinx Inc
-XOXO (Comm),"XO Communications, Inc."
-YHOO,Yahoo! Inc
+SBUX,Starbucks Corp Common
+SDLI,
+SEBL,
+SIAL,
+SNPS,Synopsys Inc Common
+SPLS,
+SPOT,
+SSCC,
+STCN,
+SXCL,
+TLAB,
+VIAV,VIAVI Solutions Inc
+VRTS,
+VSTR,
+VTSS,
+WCOEQ,
+XLNX,
+XOXOQ,

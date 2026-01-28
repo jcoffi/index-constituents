@@ -1,107 +1,101 @@
 Symbol,Name
-AAPL,Apple Inc.
-ADBE,Adobe Inc.
-ADCT,ADC Telecommunications Inc
-ADSK,Autodesk
+AAPL,Apple Inc Common
+ADBE,Adobe Inc Common
+ADCT,
+ADSK,Autodesk Inc Common
 AES,AES Corp
-AKLM,Acclaim Entertainment Inc
-ALTR (Alt),Altera Corp.
-AM,American Greetings Corp
-AMAT,Applied Materials
-AMGN,Amgen
-ANDW,Andrew Corp
-APCC,American Power Conversion Corp
-APP,Applovin Corp
-ARM,Arm Holdings
-ASAI,"Atlantic Southeast Airlines, Inc."
-ASCL,Ascential Software
-ATML,Atmel Corp
-AXON,Axon Enterprise Inc.
-BAY,Bay Networks Inc
-BGEN,Biogen NV
-BMC,BMC Software Inc
-BMET,Biomet Inc
-BOBE,Bob Evans Farms Inc
-BOST,Boston Chicken Inc
+AKLMQ,
+ALTR,
+AM,
+AMAT,Applied Materials Inc Common
+AMGN,Amgen Inc.
+ANDW,
+APCC,
+ASAI,
+ASCL,
+ATML,
+BAY,
+BCHXQ,
+BGEN,
+BMC,
+BMET,
+BOBE,
 CBRL,Cracker Barrel Old Country Store Inc
-CHIR,Chiron Corp
-CMCSK (Old),Comcast Corp (Old)
-CNTO,Centocor Inc
-COMS,3Com Corp
-COST,Costco
-CPWR,Compuware Corp
+CHIR,
+CMCSK,
+CNTO,
+COMS,
+COST,Costco Wholesale Corp Common
+CPWR,
 CRUS,Cirrus Logic Inc
-CSCO,Cisco
-CTAS,Cintas
-DELL (Old),"Dell, Inc. (Old)"
-DIGI,DSC Communications Corp
-DZB,Delhaize America Inc
-EA,Electronic Arts
-EDCI,EDCI Holdings Inc
-FHCC,First Health Group Corp
-GENZ,Genzyme Corp
-GIDL,Giddings & Lewis Inc
-GNCI,General Nutrition Cos Inc
-GTW,Gateway Inc
-HBOC,HBO & Co
-IDXX,Idexx Laboratories
-INTC,Intel
-INTU,Intuit
+CSCO,"Cisco Systems, Inc."
+CTAS,Cintas Corp Common
+DELL,
+DIGI,
+DZB,
+EA,Electronic Arts Inc Common
+EDCI,
+FHCC,
+GENZ,
+GIDL,
+GNCI,
+GTW,
+HBOC,
+IDXX,IDEXX Laboratories Inc Common
+INTC,Intel Corp Common
+INTU,Intuit Inc Common
 IT,Gartner Inc
-JAVA,Sun Microsystems
+JAVA,
 JBHT,J. B. Hunt Transport Services Inc
-JWN,Nordstrom Inc
+JWN,
 KELYA,Kelly Services Inc
-KLAC,KLA Corporation
-LLTC,Linear Technology Corp
-LRCX,Lam Research
-MCIC,MCI Communications Corp
-MFST,MFS Communications Inc
+KLAC,KLA Corp Common
+LLTC,
+LRCX,Lam Research Corp Common
+MCIC,
+MFST,
 MKC,McCormick & Company Inc
 MLKN,MillerKnoll Inc
-MOLX,Molex Inc
-MSFT,Microsoft
-MSTR,MicroStrategy Inc.
-MU,Micron Technology
-MXIM,Maxim Integrated Products Inc
-NOVL,Novell Inc
-NWA,Nortwest Airlines
-NXTL,Nextel Communications Inc
+MOLX,
+MSFT,Microsoft Corporation
+MXIM,
+NOVL,
+NWACQ,
+NXTL,
 ORCL,Oracle Corp
-OSI (Res),OSI Restaurant Partners
-PAGE,Paging Network Inc
-PAYX,Paychex
-PCAR,Paccar
-PETM,PetSmart Inc
-PHSYB,Pacificare Health Systems Inc Share
-PLTR,Palantir Technologies
+OSI,
+PAGE,
+PAYX,Paychex Inc Common
+PCAR,Paccar Inc Common
+PETM,
+PHSYB,
 PRGO,Perrigo Company Plc
-PSFT,People Soft Inc
+PSFT,
 PTC,PTC Inc
-QCOM,Qualcomm
+QCOM,Qualcomm Inc Common
 QMCO,Quantum Corp
-RDRT,Read Rite Corp
+RDRTQ,
 RPM,RPM Int'l Inc
-SHLM,A Schulman Inc
-SHOP,Shopify
-SIAL,Sigma-Aldrich Corp
-SKYT,Skytel Comm's Inc
-SPLS,Staples Inc
-STJ,St. Jude Medical Inc
-STRM (Stra),"StrataCom, Inc."
-SVC (Ste),"Stewart & Stevenson Services, Inc."
-SXCL,Steel Excel Inc
-SY,Sybase Inc
+SHLM,
+SIAL,
+SKYT,
+SPLS,
+STJ,
+STRM,
+SVC,
+SXCL,
+SY,
 SYK,Stryker Corp
-TCOMA,Tele Communications Inc
-TLAB,Tellabs Inc
+TCOMA,
+TLAB,
 TSN,Tyson Foods Inc Class A
-TWX (Old),Time Warner Inc (Old)
-USHC,United States Healthcare Inc
-USRX,US Robotics Corp
-VCELA,Vanguard Cellular Systems Inc
-VKNG,Viking Office Products Inc
-WCOM,WorldCom Inc
-WLL (Wil),"Willamette Industries, Inc."
+TWX,
+USHC,
+USRX,
+VCELA,
+VKNG,
+WCOEQ,
+WLL,
 WOR,Worthington Industries Inc
-XLNX,Xilinx Inc
+WWWW,
+XLNX,

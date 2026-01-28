@@ -1,108 +1,101 @@
 Symbol,Name
-AAPL,Apple Inc.
-ADBE,Adobe Inc.
-ADCT,ADC Telecommunications Inc
-ALTR (Alt),Altera Corp.
-AMAT,Applied Materials
-AMGN,Amgen
-AMZN,Amazon
-APCC,American Power Conversion Corp
-APOL,Apollo Education Group
-APP,Applovin Corp
-ARM,Arm Holdings
-AXON,Axon Enterprise Inc.
-BBBY,Bed Bath & Beyond Inc
-BEAS,BEA Systems Inc
-BGEN,Biogen NV
-BIIB,Biogen
-BMET,Biomet Inc
-BRCD,Brocade Comm's Systems Inc
-BRCM,Broadcom Corp
-CDWC,CDW Corp. (Old)
-CEPH,Cephalon Inc
-CHIR,Chiron Corp
+AABA,
+AAPL,Apple Inc Common
+ADBE,Adobe Inc Common
+ADCT,
+ALTR,
+AMAT,Applied Materials Inc Common
+AMGN,Amgen Inc.
+AMZN,"Amazon.com, Inc.amazon.com"
+APCC,
+APOL,
+BBBYQ,
+BEAS,
+BGEN,
+BIIB,Biogen Inc Common
+BMET,
+BRCD,
+BRCM,
+CDWC,
+CEPH,
+CHIR,
 CHKP,Check Point Software Technologies Ltd
 CHRW,C.H. Robinson Worldwide Inc
 CIEN,Ciena Corp
-CMCSA,Comcast
-CMVT,Comverse Technology Inc
-COST,Costco
-CPWR,Compuware Corp
-CSCO,Cisco
-CTAS,Cintas
-CTXS,Citrix Systems Inc
-DELL (Old),"Dell, Inc. (Old)"
-DISH,DISH Network Corp
+CMCSA,Comcast Corp A Common
+CMVT,
+COST,Costco Wholesale Corp Common
+CPWR,
+CSCO,"Cisco Systems, Inc."
+CTAS,Cintas Corp Common
+CTXS,
+DELL,
+DISH,
 DLTR,Dollar Tree Inc
-EA,Electronic Arts
+EA,Electronic Arts Inc Common
 EBAY,eBay Inc
 ERIC,Ericsson Telephone Company
-ESRX,Express Scripts Holding Co
+ESRX,
 EXPD,Expeditors Int'l of Washington Inc
-FAST,Fastenal
-FHCC,First Health Group Corp
-FISV,Fiserv Inc
+FAST,Fastenal Co Common
+FHCC,
+FI,Fiserv Inc Common
 FLEX,Flex Ltd
-GENZ,Genzyme Corp
-GILD,Gilead Sciences
+GEN,Gen Digital Inc Common
+GENZ,
+GILD,Gilead Sciences Inc Common
 GNTX,Gentex Corp
-HGSI,Human Genome Sciences
+HGSI,
 HSIC,Henry Schein Inc
-IAC (Old),IAC/InterActiveCorp
-ICOS,Icos Corp
-INTC,Intel
-INTU,Intuit
-JAVA,Sun Microsystems
-JDSU,JDS Uniphase Corp.
-JNPR,Juniper Networks Inc
-KLAC,KLA Corporation
+IAC,IAC/InterActiveCorp
+ICOS,
+INTC,Intel Corp Common
+INTU,Intuit Inc Common
+JAVA,
+JNPR,
+KLAC,KLA Corp Common
 LAMR,Lamar Advertising Co
-LIFE (Tech),Life Technologies
-LLTC,Linear Technology Corp
-LNCR,Lincare Holdings Inc
-MCHP,Microchip Technology
-MEDI,Medimmune Inc
-MERQ,Mercury Interactive Corp
-MLNM,Millennium Pharmaceuticals Inc
-MOLX,Molex Inc
-MSFT,Microsoft
-MSTR,MicroStrategy Inc.
-MWW,Monster Worldwide Inc
-MXIM,Maxim Integrated Products Inc
-NLOK,NortonLifeLock Inc
+LIFE,
+LLTC,
+LNCR,
+MCHP,Microchip Technology Inc Common
+MEDI,
+MERQ,
+MLNM,
+MOLX,
+MSFT,Microsoft Corporation
+MWW,
+MXIM,
 NTAP,NetApp Inc
-NVDA,Nvidia
-NVLS (Nove),Novellus Systems Inc.
-NXTL,Nextel Communications Inc
+NVDA,NVIDIA Corp Common
+NVLS,
+NXTL,
 ORCL,Oracle Corp
-PAYX,Paychex
-PCAR,Paccar
-PDCO,Patterson Companies
-PETM,PetSmart Inc
-PIXR,Pixar Inc
-PLTR,Palantir Technologies
-PSFT,People Soft Inc
+PAYX,Paychex Inc Common
+PCAR,Paccar Inc Common
+PDCO,
+PETM,
+PIXR,
+PSFT,
 PTEN,Patterson-UTI Energy Inc
-QCOM,Qualcomm
-QLGC,QLogic Corp
-RFMD,"RF Micro Devices, Inc."
-ROST,Ross Stores
+QCOM,Qualcomm Inc Common
+QLGC,
+RFMD,
+ROST,Ross Stores Inc Common
 RYAAY,Ryanair Holdings Plc
 SANM,Sanmina Corp
-SBUX,Starbucks
-SEBL,Siebel Systems Inc
-SHOP,Shopify
-SIAL,Sigma-Aldrich Corp
-SNPS,Synopsys
-SPLS,Staples Inc
-SPOT,Panamsat Inc
-SSCCQ,Smurfit Stone Corp
+SBUX,Starbucks Corp Common
+SEBL,
+SIAL,
+SNPS,Synopsys Inc Common
+SPLS,
+SPOT,
+SSCC,
 TEVA,Teva Pharmaceutical Industries Ltd
-TLAB,Tellabs Inc
-TRI,Thomson Reuters
+TLAB,
+VIAV,VIAVI Solutions Inc
 VRSN,VeriSign Inc
-VRTS (Veri),VERITAS Software Corp.
-WFM,Whole Foods Market Inc
-XLNX,Xilinx Inc
+VRTS,
+WFM,
+XLNX,
 XRAY,Dentsply Sirona Inc
-YHOO,Yahoo! Inc
