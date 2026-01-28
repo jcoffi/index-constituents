@@ -34,7 +34,7 @@ AMP,Ameriprise Financial Inc Common
 AMT,American Tower Corp Common
 AMZN,Amazon.com Inc Common
 ANET,Arista Networks Inc Common
-ANSS-202507,ANSYS Inc Common
+ANSS,
 AON,Aon Plc A Common
 AOS,A. O. Smith Corp Common
 APA,APA Corp Common
@@ -43,7 +43,6 @@ APH,Amphenol Corp A Common
 APTV,Aptiv PLC Common
 ARE,Alexandria Real Estate Equities Inc Common
 ATO,Atmos Energy Corp Common
-ATVI-202310,Activision Blizzard Inc Common
 AVB,AvalonBay Communities Inc Common
 AVGO,Broadcom Inc Common
 AVY,Avery Dennison Corp Common
@@ -121,7 +120,7 @@ CSCO,Cisco Systems Inc Common
 CSGP,CoStar Group Inc Common
 CSX,CSX Corp Common
 CTAS,Cintas Corp Common
-CTLT-202412,Catalent Inc Common
+CTLT,
 CTRA,Coterra Energy Inc Common
 CTSH,Cognizant Technology Solutions Corp A Common
 CTVA,Corteva Inc Common
@@ -133,7 +132,7 @@ DAL,Delta Air Lines Inc Common
 DAY,Dayforce Inc Common
 DD,Dupont De Nemours Inc Common
 DE,Deere & Co Common
-DFS-202505,Discover Financial Services Common
+DFS,
 DG,Dollar General Corp Common
 DGX,Quest Diagnostics Inc Common
 DHI,DR Horton Inc Common
@@ -199,7 +198,7 @@ FSLR,First Solar Inc Common
 FTNT,Fortinet Inc Common
 FTV,Fortive Corp Common
 GD,General Dynamics Corp Common
-GE,GE Aerospace Common
+GE,General Electric Co Common
 GEHC,GE Healthcare Technologies Inc Common
 GEN,Gen Digital Inc Common
 GILD,Gilead Sciences Inc Common
@@ -220,7 +219,7 @@ HAS,Hasbro Inc Common
 HBAN,Huntington Bancshares Inc Common
 HCA,HCA Healthcare Inc Common
 HD,Home Depot Inc Common
-HES-202507,Hess Corp Common
+HES,
 HIG,Hartford Insurance Group Inc Common
 HII,Huntington Ingalls Industries Inc Common
 HLT,Hilton Worldwide Holdings Inc Common
@@ -258,7 +257,7 @@ JBHT,J B Hunt Transport Services Inc Common
 JCI,Johnson Controls International PLC Common
 JKHY,Jack Henry & Associates Inc Common
 JNJ,Johnson & Johnson Common
-JNPR-202507,Juniper Networks Inc Common
+JNPR,
 JPM,JPMorgan Chase & Co Common
 K,Kellanova Common
 KDP,Keurig Dr Pepper Inc Common
@@ -317,7 +316,7 @@ MPC,Marathon Petroleum Corp Common
 MPWR,Monolithic Power Systems Inc Common
 MRK,Merck & Co Inc Common
 MRNA,Moderna Inc Common
-MRO-202411,Marathon Oil Corp Common
+MRO,
 MS,Morgan Stanley Common
 MSCI,MSCI Inc Common
 MSFT,Microsoft Corp Common
@@ -385,7 +384,7 @@ PSKY,Paramount Skydance Corp B Common
 PSX,Phillips 66 Common
 PTC,PTC Inc Common
 PWR,Quanta Services Inc Common
-PXD-202405,Pioneer Natural Resources Co Common
+PXD,
 PYPL,PayPal Holdings Inc Common
 QCOM,Qualcomm Inc Common
 QRVO,Qorvo Inc Common
@@ -477,7 +476,7 @@ VTRS,Viatris Inc Common
 VZ,Verizon Communications Inc Common
 WAB,Westinghouse Air Brake Technologies Co Common
 WAT,Waters Corp Common
-WBA-202508,Walgreens Boots Alliance Inc Common
+WBA,
 WBD,Warner Bros Discovery Inc A Common
 WDC,Western Digital Corp Common
 WEC,WEC Energy Group Inc Common
@@ -488,7 +487,7 @@ WM,Waste Management Inc Common
 WMB,Williams Companies Inc Common
 WMT,Walmart Inc Common
 WRB,W R Berkley Corp Common
-WRK-202407,WestRock Co Common
+WRK,
 WST,West Pharmaceutical Services Inc Common
 WTW,Willis Towers Watson PLC Common
 WY,Weyerhaeuser Co Common
