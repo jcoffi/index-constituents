@@ -3,18 +3,18 @@ AAPL,Apple Inc Common
 ABNB,Airbnb Inc A Common
 ADBE,Adobe Inc Common
 ADI,Analog Devices Inc Common
-ADP,Automatic Data Processing Inc Common
+ADP,ADP
 ADSK,Autodesk Inc Common
 AEP,American Electric Power Company Inc Common
-ALGN,Align Technology Inc Common
+ALGN,Align Technology Inc
 AMAT,Applied Materials Inc Common
-AMD,Advanced Micro Devices Inc Common
-AMGN,Amgen Inc Common
-AMZN,Amazon.com Inc Common
+AMD,Advanced Micro Devices Inc.
+AMGN,Amgen Inc.
+AMZN,"Amazon.com, Inc.amazon.com"
 ANSS,
 ASML,ASML Holding
 ATVI,
-AVGO,Broadcom Inc Common
+AVGO,Broadcom Inc.
 AZN,AstraZeneca
 BIIB,Biogen Inc Common
 BKNG,Booking Holdings Inc Common
@@ -26,17 +26,17 @@ CMCSA,Comcast Corp A Common
 COST,Costco Wholesale Corp Common
 CPRT,Copart Inc Common
 CRWD,CrowdStrike
-CSCO,Cisco Systems Inc Common
+CSCO,"Cisco Systems, Inc."
 CSGP,CoStar Group Inc Common
 CSX,CSX Corp Common
 CTAS,Cintas Corp Common
 CTSH,Cognizant Technology Solutions Corp A Common
 DDOG,Datadog
 DLTR,Dollar Tree Inc Common
-DXCM,Dexcom Inc Common
+DXCM,DexCom
 EA,Electronic Arts Inc Common
-EBAY,eBay Inc Common
-ENPH,Enphase Energy Inc Common
+EBAY,eBay Inc
+ENPH,Enphase Energy Inc
 EXC,Exelon Corp Common
 FANG,Diamondback Energy Inc Common
 FAST,Fastenal Co Common
@@ -46,7 +46,7 @@ GFS,GlobalFoundries
 GILD,Gilead Sciences Inc Common
 GOOG,Alphabet Inc C Common
 GOOGL,Alphabet Inc A Common
-HON,Honeywell International Inc Common
+HON,Honeywell International Inc.
 IDXX,IDEXX Laboratories Inc Common
 ILMN,Illumina Inc Common
 INTC,Intel Corp Common
@@ -67,13 +67,13 @@ META,Meta Platforms Inc A Common
 MNST,Monster Beverage Corp Common
 MRNA,Moderna Inc Common
 MRVL,Marvell Technology
-MSFT,Microsoft Corp Common
+MSFT,Microsoft Corporation
 MU,Micron Technology Inc Common
 NFLX,Netflix Inc Common
 NVDA,NVIDIA Corp Common
 NXPI,NXP Semiconductors NV Common
-ODFL,Old Dominion Freight Line Inc Common
-ORLY,O'Reilly Automotive Inc Common
+ODFL,Old Dominion Freight Line
+ORLY,O'Reilly Automotive
 PANW,Palo Alto Networks Inc Common
 PAYX,Paychex Inc Common
 PCAR,Paccar Inc Common
@@ -92,7 +92,7 @@ TEAM,Atlassian
 TMUS,T-Mobile US Inc Common
 TSLA,Tesla Inc Common
 TXN,Texas Instruments Inc Common
-VRSK,Verisk Analytics Inc Common
+VRSK,Verisk
 VRTX,Vertex Pharmaceuticals Inc Common
 WBA,
 WBD,Warner Bros Discovery Inc A Common

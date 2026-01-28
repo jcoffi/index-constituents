@@ -1,102 +1,102 @@
 Symbol,Name
-NVDA,Nvidia
-MSFT,Microsoft
 AAPL,Apple Inc.
-AMZN,Amazon
-META,Meta Platforms
-AVGO,Broadcom Inc.
-GOOGL,Alphabet Inc. (Class A)
-TSLA,"Tesla, Inc."
-GOOG,Alphabet Inc. (Class C)
-NFLX,Netflix
-PLTR,Palantir Technologies
-COST,Costco
-ASML,ASML Holding
-TMUS,T-Mobile US
-CSCO,Cisco
-AMD,Advanced Micro Devices Inc.
-AZN,AstraZeneca
-APP,Applovin Corp
-LIN,Linde plc
-INTU,Intuit
-PEP,PepsiCo
-PDD,PDD Holdings
-QCOM,Qualcomm
-SHOP,Shopify
-BKNG,Booking Holdings
-MU,Micron Technology
-TXN,Texas Instruments
-INTC,Intel
-AMAT,Applied Materials
-LRCX,Lam Research
-ISRG,Intuitive Surgical
-ADBE,Adobe Inc.
-ARM,Arm Holdings
-AMGN,Amgen
-KLAC,KLA Corporation
-GILD,Gilead Sciences
-PANW,Palo Alto Networks
-HON,Honeywell
-MELI,MercadoLibre
-ADI,Analog Devices
-CRWD,CrowdStrike
-ADP,ADP
-CMCSA,Comcast
-DASH,DoorDash
-CEG,Constellation Energy
-VRTX,Vertex Pharmaceuticals
-CDNS,Cadence Design Systems
-SBUX,Starbucks
-SNPS,Synopsys
-ORLY,O'Reilly Automotive
-MSTR,MicroStrategy Inc.
-MDLZ,Mondelez International
-CTAS,Cintas
 ABNB,Airbnb
-MAR,Marriott International
-MRVL,Marvell Technology
-TRI,Thomson Reuters
+ADBE,Adobe Inc.
+ADI,Analog Devices
+ADP,ADP
 ADSK,Autodesk
-WDAY,"Workday, Inc."
-FTNT,Fortinet
-PYPL,PayPal
-MNST,Monster Beverage
-CSX,CSX Corporation
-REGN,Regeneron Pharmaceuticals
 AEP,American Electric Power
-NXPI,NXP Semiconductors
+AMAT,Applied Materials
+AMD,Advanced Micro Devices Inc.
+AMGN,Amgen Inc.
+AMZN,"Amazon.com, Inc.amazon.com"
+APP,Applovin Corp
+ARM,Arm Holdings
+ASML,ASML Holding
+AVGO,Broadcom Inc.
 AXON,Axon Enterprise Inc.
-FAST,Fastenal
-ROP,Roper Technologies
-PCAR,Paccar
-IDXX,Idexx Laboratories
-BKR,Baker Hughes
-ROST,Ross Stores
-DDOG,Datadog
-WBD,Warner Bros. Discovery
-EA,Electronic Arts
-XEL,Xcel Energy
-TTWO,Take-Two Interactive
-ZS,Zscaler
-PAYX,Paychex
-EXC,Exelon
-TEAM,Atlassian
-CPRT,Copart
-FANG,Diamondback Energy
-CCEP,Coca-Cola Europacific Partners
-CHTR,Charter Communications
-CSGP,CoStar Group
-KDP,Keurig Dr Pepper
-MCHP,Microchip Technology
-VRSK,Verisk
-GEHC,GE HealthCare
-CTSH,Cognizant
-KHC,Kraft Heinz
-ODFL,Old Dominion Freight Line
-DXCM,DexCom
-TTD,Trade Desk (The)
-CDW,CDW Corporation
-LULU,Lululemon Athletica
-ON,Onsemi
+AZN,AstraZeneca
 BIIB,Biogen
+BKNG,Booking Holdings
+BKR,Baker Hughes
+CCEP,Coca-Cola Europacific Partners
+CDNS,Cadence Design Systems
+CDW,CDW Corporation
+CEG,Constellation Energy
+CHTR,Charter Communications
+CMCSA,Comcast
+COST,Costco
+CPRT,Copart
+CRWD,CrowdStrike
+CSCO,"Cisco Systems, Inc."
+CSGP,CoStar Group
+CSX,CSX Corporation
+CTAS,Cintas
+CTSH,Cognizant
+DASH,DoorDash
+DDOG,Datadog
+DXCM,DexCom
+EA,Electronic Arts
+EXC,Exelon
+FANG,Diamondback Energy
+FAST,Fastenal
+FTNT,Fortinet
+GEHC,GE HealthCare
 GFS,GlobalFoundries
+GILD,Gilead Sciences
+GOOG,Alphabet Inc. (Class C)
+GOOGL,Alphabet Inc. (Class A)
+HON,Honeywell International Inc.
+IDXX,Idexx Laboratories
+INTC,Intel
+INTU,Intuit
+ISRG,Intuitive Surgical
+KDP,Keurig Dr Pepper
+KHC,Kraft Heinz
+KLAC,KLA Corporation
+LIN,Linde plc
+LRCX,Lam Research
+LULU,Lululemon Athletica
+MAR,Marriott International
+MCHP,Microchip Technology
+MDLZ,Mondelez International
+MELI,MercadoLibre
+META,Meta Platforms
+MNST,Monster Beverage
+MRVL,Marvell Technology
+MSFT,Microsoft Corporation
+MSTR,MicroStrategy Inc.
+MU,Micron Technology
+NFLX,Netflix
+NVDA,Nvidia
+NXPI,NXP Semiconductors
+ODFL,Old Dominion Freight Line
+ON,Onsemi
+ORLY,O'Reilly Automotive
+PANW,Palo Alto Networks
+PAYX,Paychex
+PCAR,Paccar
+PDD,PDD Holdings
+PEP,PepsiCo
+PLTR,Palantir Technologies
+PYPL,PayPal
+QCOM,Qualcomm
+REGN,Regeneron Pharmaceuticals
+ROP,Roper Technologies
+ROST,Ross Stores
+SBUX,Starbucks
+SHOP,Shopify
+SNPS,Synopsys
+TEAM,Atlassian
+TMUS,T-Mobile US
+TRI,Thomson Reuters
+TSLA,"Tesla, Inc."
+TTD,Trade Desk (The)
+TTWO,Take-Two Interactive
+TXN,Texas Instruments
+VRSK,Verisk
+VRTX,Vertex Pharmaceuticals
+WBD,Warner Bros. Discovery
+WDAY,"Workday, Inc."
+XEL,Xcel Energy
+ZS,Zscaler

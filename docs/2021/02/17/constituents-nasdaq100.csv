@@ -1,104 +1,103 @@
 Symbol,Name
-AAPL,Apple Inc.
-ADBE,Adobe Inc.
-ADI,Analog Devices
+AAPL,Apple Inc Common
+ADBE,Adobe Inc Common
+ADI,Analog Devices Inc Common
 ADP,ADP
-ADSK,Autodesk
-AEP,American Electric Power
+ADSK,Autodesk Inc Common
+AEP,American Electric Power Company Inc Common
 ALGN,Align Technology Inc
-ALXN,Alexion Pharmaceuticals Inc
-AMAT,Applied Materials
+ALXN,
+AMAT,Applied Materials Inc Common
 AMD,Advanced Micro Devices Inc.
-AMGN,Amgen
-AMZN,Amazon
-APP,Applovin Corp
-ARM,Arm Holdings
+AMGN,Amgen Inc.
+AMZN,"Amazon.com, Inc.amazon.com"
+ANSS,
 ASML,ASML Holding
-ATVI,Activision Blizzard Inc
+ATVI,
 AVGO,Broadcom Inc.
-AXON,Axon Enterprise Inc.
 BIDU,Baidu Inc
-BIIB,Biogen
-BKNG,Booking Holdings
-CDNS,Cadence Design Systems
+BIIB,Biogen Inc Common
+BKNG,Booking Holdings Inc Common
+CDNS,Cadence Design Systems Inc Common
 CDW,CDW Corporation
-CERN,Cerner Corp
+CERN,
 CHKP,Check Point Software Technologies Ltd
-CHTR,Charter Communications
-CMCSA,Comcast
-COST,Costco
-CPRT,Copart
-CSCO,Cisco
-CSX,CSX Corporation
-CTAS,Cintas
-CTSH,Cognizant
+CHTR,Charter Communications Inc A Common
+CMCSA,Comcast Corp A Common
+COST,Costco Wholesale Corp Common
+CPRT,Copart Inc Common
+CSCO,"Cisco Systems, Inc."
+CSX,CSX Corp Common
+CTAS,Cintas Corp Common
+CTSH,Cognizant Technology Solutions Corp A Common
+DLTR,Dollar Tree Inc Common
 DOCU,DocuSign Inc
 DXCM,DexCom
-EA,Electronic Arts
+EA,Electronic Arts Inc Common
 EBAY,eBay Inc
-EXC,Exelon
-FAST,Fastenal
-FISV,Fiserv Inc
+EXC,Exelon Corp Common
+FAST,Fastenal Co Common
+FI,Fiserv Inc Common
 FOX,Fox Corp
 FOXA,Fox Corp Class B
-GILD,Gilead Sciences
-GOOG,Alphabet Inc. (Class C)
-GOOGL,Alphabet Inc. (Class A)
-IDXX,Idexx Laboratories
+GILD,Gilead Sciences Inc Common
+GOOG,Alphabet Inc C Common
+GOOGL,Alphabet Inc A Common
+IDXX,IDEXX Laboratories Inc Common
+ILMN,Illumina Inc Common
 INCY,Incyte Corp
-INTC,Intel
-INTU,Intuit
-ISRG,Intuitive Surgical
+INTC,Intel Corp Common
+INTU,Intuit Inc Common
+ISRG,Intuitive Surgical Inc Common
 JD,JD.com Inc
-KDP,Keurig Dr Pepper
-KHC,Kraft Heinz
-KLAC,KLA Corporation
-LRCX,Lam Research
-LULU,Lululemon Athletica
-MAR,Marriott International
-MCHP,Microchip Technology
-MDLZ,Mondelez International
+KDP,Keurig Dr Pepper Inc Common
+KHC,Kraft Heinz Co Common
+KLAC,KLA Corp Common
+LRCX,Lam Research Corp Common
+LULU,Lululemon Athletica Inc Common
+MAR,Marriott International Inc A Common
+MCHP,Microchip Technology Inc Common
+MDLZ,Mondelez International Inc A Common
 MELI,MercadoLibre
-META,Meta Platforms
-MNST,Monster Beverage
+META,Meta Platforms Inc A Common
+MNST,Monster Beverage Corp Common
+MRNA,Moderna Inc Common
 MRVL,Marvell Technology
-MSFT,Microsoft
-MSTR,MicroStrategy Inc.
+MSFT,Microsoft Corporation
 MTCH,Match Group Inc
-MU,Micron Technology
-MXIM,Maxim Integrated Products Inc
-NFLX,Netflix
+MU,Micron Technology Inc Common
+MXIM,
+NFLX,Netflix Inc Common
 NTES,NetEase Inc
-NVDA,Nvidia
-NXPI,NXP Semiconductors
+NVDA,NVIDIA Corp Common
+NXPI,NXP Semiconductors NV Common
 OKTA,Okta Inc
 ORLY,O'Reilly Automotive
-PAYX,Paychex
-PCAR,Paccar
+PAYX,Paychex Inc Common
+PCAR,Paccar Inc Common
 PDD,PDD Holdings
-PEP,PepsiCo
-PLTR,Palantir Technologies
+PEP,PepsiCo Inc Common
 PTON,Peloton Interactive Inc
-PYPL,PayPal
-QCOM,Qualcomm
-REGN,Regeneron Pharmaceuticals
-ROST,Ross Stores
-SBUX,Starbucks
-SGEN,Seagen Inc
-SHOP,Shopify
-SNPS,Synopsys
-SPLK,Splunk Inc
+PYPL,PayPal Holdings Inc Common
+QCOM,Qualcomm Inc Common
+REGN,Regeneron Pharmaceuticals Inc Common
+ROST,Ross Stores Inc Common
+SBUX,Starbucks Corp Common
+SGEN,
+SIRI,Sirius XM Holdings Inc
+SNPS,Synopsys Inc Common
+SPLK,
 SWKS,Skyworks Solutions Inc
 TCOM,Trip.com Group Ltd
 TEAM,Atlassian
-TMUS,T-Mobile US
-TRI,Thomson Reuters
-TSLA,"Tesla, Inc."
-TXN,Texas Instruments
+TMUS,T-Mobile US Inc Common
+TSLA,Tesla Inc Common
+TXN,Texas Instruments Inc Common
 VRSK,Verisk
 VRSN,VeriSign Inc
-VRTX,Vertex Pharmaceuticals
+VRTX,Vertex Pharmaceuticals Inc Common
+WBA,
 WDAY,"Workday, Inc."
-XEL,Xcel Energy
-XLNX,Xilinx Inc
+XEL,Xcel Energy Inc Common
+XLNX,
 ZM,Zoom Video Communications Inc

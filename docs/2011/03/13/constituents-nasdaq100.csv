@@ -1,107 +1,101 @@
 Symbol,Name
-AAPL,Apple Inc.
-ADBE,Adobe Inc.
+AABA,
+AAPL,Apple Inc Common
+ADBE,Adobe Inc Common
 ADP,ADP
-ADSK,Autodesk
+ADSK,Autodesk Inc Common
 AKAM,Akamai Technologies Inc
-ALTR (Alt),Altera Corp.
-AMAT,Applied Materials
-AMGN,Amgen
-AMZN,Amazon
-APOL,Apollo Education Group
-APP,Applovin Corp
-ARM,Arm Holdings
-ATVI,Activision Blizzard Inc
-AXON,Axon Enterprise Inc.
+ALTR,
+AMAT,Applied Materials Inc Common
+AMGN,Amgen Inc.
+AMZN,"Amazon.com, Inc.amazon.com"
+APOL,
+ATVI,
 BB,BlackBerry Ltd
-BBBY,Bed Bath & Beyond Inc
+BBBYQ,
 BIDU,Baidu Inc
-BIIB,Biogen
-BKNG,Booking Holdings
-BMC,BMC Software Inc
-BRCM,Broadcom Corp
-CA,CA Inc
-CELG,Celgene Corp
-CEPH,Cephalon Inc
-CERN,Cerner Corp
+BIIB,Biogen Inc Common
+BKNG,Booking Holdings Inc Common
+BMC,
+BRCM,
+CA,
+CELG,
+CEPH,
+CERN,
 CHKP,Check Point Software Technologies Ltd
 CHRW,C.H. Robinson Worldwide Inc
-CMCSA,Comcast
-COST,Costco
-CSCO,Cisco
-CTAS,Cintas
-CTSH,Cognizant
-CTXS,Citrix Systems Inc
-DELL (Old),"Dell, Inc. (Old)"
-DTV,DIRECTV
-EA,Electronic Arts
+CMCSA,Comcast Corp A Common
+COST,Costco Wholesale Corp Common
+CSCO,"Cisco Systems, Inc."
+CTSH,Cognizant Technology Solutions Corp A Common
+CTXS,
+DELL,
+DLTR,Dollar Tree Inc Common
+DTV,
+EA,Electronic Arts Inc Common
 EBAY,eBay Inc
-ESRX,Express Scripts Holding Co
+ESRX,
 EXPD,Expeditors Int'l of Washington Inc
 EXPE,Expedia Inc
-FAST,Fastenal
-FISV,Fiserv Inc
+FAST,Fastenal Co Common
+FFIV,F5 Networks Inc
+FI,Fiserv Inc Common
 FLEX,Flex Ltd
-FLIR,FLIR Systems Inc
-FOXA (Old),21st Century Fox Inc Class A
+FLIR,
 FSLR,First Solar Inc
-GENZ,Genzyme Corp
-GILD,Gilead Sciences
-GOOGL,Alphabet Inc. (Class A)
+GEN,Gen Digital Inc Common
+GENZ,
+GILD,Gilead Sciences Inc Common
+GOOGL,Alphabet Inc A Common
 GRMN,Garmin Ltd
 HSIC,Henry Schein Inc
 ILMN,Illumina Inc
 INFY,Infosys Ltd
-INTC,Intel
-INTU,Intuit
-ISRG,Intuitive Surgical
-JOY,Joy Global Inc
-KLAC,KLA Corporation
-LIFE (Tech),Life Technologies
-LLTC,Linear Technology Corp
-LRCX,Lam Research
+INTC,Intel Corp Common
+INTU,Intuit Inc Common
+ISRG,Intuitive Surgical Inc Common
+JOY,
+KLAC,KLA Corp Common
+LIFE,
+LLTC,
+LRCX,Lam Research Corp Common
 MAT,Mattel Inc
-MCHP,Microchip Technology
-MICC,Millicom Int'l Cellular
+MCHP,Microchip Technology Inc Common
 MRVL,Marvell Technology
-MSFT,Microsoft
-MSTR,MicroStrategy Inc.
-MU,Micron Technology
-MXIM,Maxim Integrated Products Inc
-NFLX,Netflix
-NIHD,NII Holdings Inc
-NLOK,NortonLifeLock Inc
+MSFT,Microsoft Corporation
+MU,Micron Technology Inc Common
+MXIM,
+NFLX,Netflix Inc Common
+NIHDQ,
 NTAP,NetApp Inc
-NVDA,Nvidia
+NVDA,NVIDIA Corp Common
 ORCL,Oracle Corp
 ORLY,O'Reilly Automotive
-PAYX,Paychex
-PCAR,Paccar
-PLTR,Palantir Technologies
-QCOM,Qualcomm
+PAYX,Paychex Inc Common
+PCAR,Paccar Inc Common
+QCOM,Qualcomm Inc Common
 QGEN,Qiagen NV
-QRTEA,Liberty Interactive Corp Series A
-ROST,Ross Stores
-SBUX,Starbucks
-SHLD,Sears Holdings Corp
-SHOP,Shopify
-SIAL,Sigma-Aldrich Corp
-SNDK,SanDisk Corp
-SPLS,Staples Inc
-SRCL,Stericycle Inc
+QVCGA,
+ROST,Ross Stores Inc Common
+SBUX,Starbucks Corp Common
+SHLDQ,
+SIAL,
+SNDK,
+SPLS,
+SRCL,
 STX,Seagate Technology plc
 TCOM,Trip.com Group Ltd
 TEVA,Teva Pharmaceutical Industries Ltd
-TRI,Thomson Reuters
+TFCFA,
+TIGO,
 URBN,Urban Outfitters Inc
-VMED,Virgin Media Inc
+VMED,
 VOD,Vodafone Group plc
 VRSN,VeriSign Inc
-VRTX,Vertex Pharmaceuticals
+VRTX,Vertex Pharmaceuticals Inc Common
 VTRS,Viatris Inc
-WCRX,Warner Chilcott PLC
-WFM,Whole Foods Market Inc
+WCRX,
+WFM,
 WYNN,Wynn Resorts Ltd
-XLNX,Xilinx Inc
+XLNX,
 XRAY,Dentsply Sirona Inc
-YHOO,Yahoo! Inc

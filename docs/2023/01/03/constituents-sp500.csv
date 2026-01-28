@@ -1,7 +1,7 @@
 Symbol,Name
 A,Agilent Technologies Inc Common
 AAL,American Airlines Group Inc Common
-AAP,Advance Auto Parts Inc Common
+AAP,Advance Auto Parts Inc
 AAPL,Apple Inc Common
 ABBV,AbbVie Inc Common
 ABT,Abbott Laboratories Common
@@ -10,7 +10,7 @@ ACN,Accenture Plc A Common
 ADBE,Adobe Inc Common
 ADI,Analog Devices Inc Common
 ADM,Archer-Daniels-Midland Co Common
-ADP,Automatic Data Processing Inc Common
+ADP,ADP
 ADSK,Autodesk Inc Common
 AEE,Ameren Corp Common
 AEP,American Electric Power Company Inc Common
@@ -21,18 +21,18 @@ AIZ,Assurant Inc Common
 AJG,Arthur J. Gallagher & Co Common
 AKAM,Akamai Technologies Inc Common
 ALB,Albemarle Corp Common
-ALGN,Align Technology Inc Common
-ALK,Alaska Air Group Inc Common
+ALGN,Align Technology Inc
+ALK,Alaska Air Group Inc
 ALL,Allstate Corp Common
 ALLE,Allegion PLC Common
 AMAT,Applied Materials Inc Common
 AMCR,Amcor PLC Common
-AMD,Advanced Micro Devices Inc Common
+AMD,Advanced Micro Devices Inc.
 AME,AMETEK Inc Common
-AMGN,Amgen Inc Common
+AMGN,Amgen Inc.
 AMP,Ameriprise Financial Inc Common
 AMT,American Tower Corp Common
-AMZN,Amazon.com Inc Common
+AMZN,"Amazon.com, Inc.amazon.com"
 ANET,Arista Networks Inc Common
 ANSS,
 AON,Aon Plc A Common
@@ -45,12 +45,12 @@ ARE,Alexandria Real Estate Equities Inc Common
 ATO,Atmos Energy Corp Common
 ATVI,
 AVB,AvalonBay Communities Inc Common
-AVGO,Broadcom Inc Common
+AVGO,Broadcom Inc.
 AVY,Avery Dennison Corp Common
 AWK,American Water Works Co Inc Common
-AXP,American Express Co Common
+AXP,American Express Company
 AZO,AutoZone Inc Common
-BA,Boeing Co Common
+BA,The Boeing Company
 BAC,Bank of America Corp Common
 BALL,Ball Corp Common
 BAX,Baxter International Inc Common
@@ -58,7 +58,7 @@ BBWI,Bath & Body Works Inc Common
 BBY,Best Buy Co Inc Common
 BDX,Becton Dickinson and Co Common
 BEN,Franklin Resources Inc Common
-BF.B,Brown-Forman Corp B Common
+BF.B,Brown–Forman
 BIIB,Biogen Inc Common
 BIO,Bio-Rad Laboratories Inc A Common
 BK,Bank of New York Mellon Corp Common
@@ -113,8 +113,8 @@ CPB,Campbell's Co Common
 CPRT,Copart Inc Common
 CPT,Camden Property Trust Common
 CRL,Charles River Laboratories Internation Common
-CRM,Salesforce Inc Common
-CSCO,Cisco Systems Inc Common
+CRM,"Salesforce, Inc."
+CSCO,"Cisco Systems, Inc."
 CSGP,CoStar Group Inc Common
 CSX,CSX Corp Common
 CTAS,Cintas Corp Common
@@ -135,7 +135,7 @@ DG,Dollar General Corp Common
 DGX,Quest Diagnostics Inc Common
 DHI,DR Horton Inc Common
 DHR,Danaher Corp Common
-DIS,Walt Disney Co Common
+DIS,The Walt Disney Company
 DISH,
 DLR,Digital Realty Trust Common
 DLTR,Dollar Tree Inc Common
@@ -148,20 +148,20 @@ DTE,DTE Energy Co Common
 DUK,Duke Energy Corp Common
 DVA,DaVita Inc Common
 DVN,Devon Energy Corp Common
-DXC,DXC Technology Co Common
-DXCM,Dexcom Inc Common
+DXC,DXC Technology Co
+DXCM,DexCom
 EA,Electronic Arts Inc Common
-EBAY,eBay Inc Common
+EBAY,eBay Inc
 ECL,Ecolab Inc Common
 ED,Consolidated Edison Inc Common
 EFX,Equifax Inc Common
 EG,Everest Group Ltd Common
 EIX,Edison International Common
-EL,Estee Lauder Companies Inc A Common
+EL,Estée Lauder Companies (The)
 ELV,Elevance Health Inc Common
 EMN,Eastman Chemical Co Common
 EMR,Emerson Electric Co Common
-ENPH,Enphase Energy Inc Common
+ENPH,Enphase Energy Inc
 EOG,EOG Resources Inc Common
 EPAM,Epam Systems Inc Common
 EQIX,Equinix Inc Common
@@ -198,7 +198,7 @@ FSLR,First Solar Inc Common
 FTNT,Fortinet Inc Common
 FTV,Fortive Corp Common
 GD,General Dynamics Corp Common
-GE,General Electric Co Common
+GE,General Electric Co
 GEN,Gen Digital Inc Common
 GILD,Gilead Sciences Inc Common
 GIS,General Mills Inc Common
@@ -211,19 +211,19 @@ GOOGL,Alphabet Inc A Common
 GPC,Genuine Parts Co Common
 GPN,Global Payments Inc Common
 GRMN,Garmin Ltd Common
-GS,Goldman Sachs Group Inc Common
+GS,"The Goldman Sachs Group, Inc."
 GWW,WW Grainger Inc Common
 HAL,Halliburton Co Common
 HAS,Hasbro Inc Common
 HBAN,Huntington Bancshares Inc Common
 HCA,HCA Healthcare Inc Common
-HD,Home Depot Inc Common
+HD,"The Home Depot, Inc."
 HES,
 HIG,Hartford Insurance Group Inc Common
 HII,Huntington Ingalls Industries Inc Common
 HLT,Hilton Worldwide Holdings Inc Common
 HOLX,Hologic Inc Common
-HON,Honeywell International Inc Common
+HON,Honeywell International Inc.
 HPE,Hewlett Packard Enterprise Co Common
 HPQ,HP Inc Common
 HRL,Hormel Foods Corp Common
@@ -232,7 +232,7 @@ HST,Host Hotels & Resorts Inc Common
 HSY,Hershey Co Common
 HUM,Humana Inc Common
 HWM,Howmet Aerospace Inc Common
-IBM,International Business Machines Corp Common
+IBM,International Business Machines Corporation
 ICE,Intercontinental Exchange Inc Common
 IDXX,IDEXX Laboratories Inc Common
 IEX,IDEX Corp Common
@@ -257,7 +257,7 @@ JCI,Johnson Controls International PLC Common
 JKHY,Jack Henry & Associates Inc Common
 JNJ,Johnson & Johnson Common
 JNPR,
-JPM,JPMorgan Chase & Co Common
+JPM,JPMorgan Chase & Co.
 K,Kellanova Common
 KDP,Keurig Dr Pepper Inc Common
 KEY,KeyCorp Common
@@ -268,7 +268,7 @@ KLAC,KLA Corp Common
 KMB,Kimberly-Clark Corp Common
 KMI,Kinder Morgan Inc Common
 KMX,Carmax Inc Common
-KO,Coca-Cola Co Common
+KO,The Coca-Cola Company
 KR,Kroger Co Common
 L,Loews Corp Common
 LDOS,Leidos Holdings Inc Common
@@ -279,11 +279,11 @@ LIN,Linde PLC Common
 LKQ,LKQ Corp Common
 LLY,Eli Lilly and Co Common
 LMT,Lockheed Martin Corp Common
-LNC,Lincoln National Corp Common
+LNC,Lincoln National Corp
 LNT,Alliant Energy Corp Common
 LOW,Lowe's Companies Inc Common
 LRCX,Lam Research Corp Common
-LUMN,Lumen Technologies Inc Common
+LUMN,Lumen Technologies Inc
 LUV,Southwest Airlines Co Common
 LVS,Las Vegas Sands Corp Common
 LW,Lamb Weston Holdings Inc Common
@@ -293,7 +293,7 @@ MA,Mastercard Inc A Common
 MAA,Mid America Apartment Communities Common
 MAR,Marriott International Inc A Common
 MAS,Masco Corp Common
-MCD,McDonald's Corp Common
+MCD,McDonald's Corporation
 MCHP,Microchip Technology Inc Common
 MCK,McKesson Corp Common
 MCO,Moody's Corp Common
@@ -307,19 +307,19 @@ MKC,McCormick & Company Inc Non-Vtg Common
 MKTX,Marketaxess Holdings Inc Common
 MLM,Martin Marietta Materials Inc Common
 MMC,Marsh & McLennan Companies Inc Common
-MMM,3M Co Common
+MMM,3M Company
 MNST,Monster Beverage Corp Common
 MO,Altria Group Inc Common
 MOH,Molina Healthcare Inc Common
 MOS,Mosaic Co Common
 MPC,Marathon Petroleum Corp Common
 MPWR,Monolithic Power Systems Inc Common
-MRK,Merck & Co Inc Common
+MRK,"Merck & Co., Inc."
 MRNA,Moderna Inc Common
 MRO,
 MS,Morgan Stanley Common
 MSCI,MSCI Inc Common
-MSFT,Microsoft Corp Common
+MSFT,Microsoft Corporation
 MSI,Motorola Solutions Inc Common
 MTB,M&T Bank Corp Common
 MTCH,Match Group Inc Common
@@ -342,18 +342,18 @@ NTRS,Northern Trust Corp Common
 NUE,Nucor Corp Common
 NVDA,NVIDIA Corp Common
 NVR,NVR Inc Common
-NWL,Newell Brands Inc Common
+NWL,Newell Brands Inc
 NWS,News Corp B Common
 NWSA,News Corp A Common
 NXPI,NXP Semiconductors NV Common
 O,Realty Income Corp Common
-ODFL,Old Dominion Freight Line Inc Common
-OGN,Organon & Co Common
+ODFL,Old Dominion Freight Line
+OGN,Organon & Co
 OKE,ONEOK Inc Common
 OMC,Omnicom Group Inc Common
 ON,ON Semiconductor Corp Common
 ORCL,Oracle Corp Common
-ORLY,O'Reilly Automotive Inc Common
+ORLY,O'Reilly Automotive
 OTIS,Otis Worldwide Corp Common
 OXY,Occidental Petroleum Corp Common
 PAYC,Paycom Software Inc Common
@@ -364,7 +364,7 @@ PEG,Public Service Enterprise Group Inc Common
 PEP,PepsiCo Inc Common
 PFE,Pfizer Inc Common
 PFG,Principal Financial Group Inc Common
-PG,Procter & Gamble Co Common
+PG,The Procter & Gamble Company
 PGR,Progressive Corp Common
 PH,Parker-Hannifin Corp Common
 PHM,Pultegroup Inc Common
@@ -403,11 +403,11 @@ RSG,Republic Services Inc Common
 RTX,RTX Corp Common
 RVTY,Revvity Inc Common
 SBAC,SBA Communications Corp A Common
-SBNY,Signature Bank Common
+SBNY,Signature Bank
 SBUX,Starbucks Corp Common
 SCHW,Charles Schwab Corp Common
-SEDG,Solaredge Technologies Inc Common
-SEE,Sealed Air Corp Common
+SEDG,SolarEdge Technologies Inc
+SEE,Sealed Air Corp
 SHW,Sherwin-Williams Co Common
 SIVBQ,
 SJM,J M Smucker Co Common
@@ -445,7 +445,7 @@ TPR,Tapestry Inc Common
 TRGP,Targa Resources Corp Common
 TRMB,Trimble Inc Common
 TROW,T Rowe Price Group Inc Common
-TRV,Travelers Companies Inc Common
+TRV,"The Travelers Companies, Inc."
 TSCO,Tractor Supply Co Common
 TSLA,Tesla Inc Common
 TSN,Tyson Foods Inc A Common
@@ -458,7 +458,7 @@ UAL,United Airlines Holdings Inc Common
 UDR,UDR Inc Common
 UHS,Universal Health Services Inc B Common
 ULTA,Ulta Beauty Inc Common
-UNH,UnitedHealth Group Inc Common
+UNH,UnitedHealth Group Incorporated
 UNP,Union Pacific Corp Common
 UPS,United Parcel Service Inc B Common
 URI,United Rentals Inc Common
@@ -468,13 +468,13 @@ VFC,VF Corp Common
 VICI,VICI Properties Inc Common
 VLO,Valero Energy Corp Common
 VMC,Vulcan Materials Co Common
-VNO,Vornado Realty Trust Common
-VRSK,Verisk Analytics Inc Common
+VNO,Vornado Realty Trust
+VRSK,Verisk
 VRSN,VeriSign Inc Common
 VRTX,Vertex Pharmaceuticals Inc Common
 VTR,Ventas Inc Common
 VTRS,Viatris Inc Common
-VZ,Verizon Communications Inc Common
+VZ,Verizon Communications Inc.
 WAB,Westinghouse Air Brake Technologies Co Common
 WAT,Waters Corp Common
 WBA,
@@ -486,7 +486,7 @@ WFC,Wells Fargo & Co Common
 WHR,Whirlpool Corp Common
 WM,Waste Management Inc Common
 WMB,Williams Companies Inc Common
-WMT,Walmart Inc Common
+WMT,Walmart Inc.
 WRB,W R Berkley Corp Common
 WRK,
 WST,West Pharmaceutical Services Inc Common

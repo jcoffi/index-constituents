@@ -1,20 +1,19 @@
 Symbol,Name
-AA,Alcoa Inc
-AMZN,"Amazon.com, Inc.amazon.com"
 AXP,American Express Company
 BA,The Boeing Company
 BAC,Bank of America Corp
 C,Citigroup Inc
-CAT,Caterpillar Inc.
-CVX,Chevron Corporation
-DD,DuPont de Nemours Inc
+CAT,Caterpillar Inc Common
+CVX,Chevron Corp Common
+DD,
 DIS,The Walt Disney Company
 GE,General Electric Co
-GM,General Motors Corp
 HD,"The Home Depot, Inc."
 HPQ,Hewlett-Packard Co
+HWM,Howmet Aerospace Inc Common
 IBM,International Business Machines Corporation
-JNJ,Johnson & Johnson
+INTC,Intel Corp Common
+JNJ,Johnson & Johnson Common
 JPM,JPMorgan Chase & Co.
 KO,The Coca-Cola Company
 MCD,McDonald's Corporation
@@ -22,12 +21,10 @@ MDLZ,Mondelez International Inc
 MMM,3M Company
 MRK,"Merck & Co., Inc."
 MSFT,Microsoft Corporation
-NVDA,Nvidia
 PFE,Pfizer Inc
 PG,The Procter & Gamble Company
-SHW,Sherwin-Williams
+RTX,Raytheon Technologies Corp
 T,AT&T Inc
-UTX,United Technologies Corp
 VZ,Verizon Communications Inc.
 WMT,Walmart Inc.
 XOM,Exxon Mobil Corp

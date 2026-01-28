@@ -1,108 +1,102 @@
 Symbol,Name
 AAL,American Airlines Group Inc
-AAPL,Apple Inc.
-ADBE,Adobe Inc.
-ADI,Analog Devices
+AAPL,Apple Inc Common
+ADBE,Adobe Inc Common
+ADI,Analog Devices Inc Common
 ADP,ADP
-ADSK,Autodesk
+ADSK,Autodesk Inc Common
 ALGN,Align Technology Inc
-ALXN,Alexion Pharmaceuticals Inc
-AMAT,Applied Materials
-AMGN,Amgen
-AMZN,Amazon
-APP,Applovin Corp
-ARM,Arm Holdings
-ASML,ASML Holding
-ATVI,Activision Blizzard Inc
+ALXN,
+AMAT,Applied Materials Inc Common
+AMGN,Amgen Inc.
+AMZN,"Amazon.com, Inc.amazon.com"
+ATVI,
 AVGO,Broadcom Inc.
-AXON,Axon Enterprise Inc.
 BIDU,Baidu Inc
-BIIB,Biogen
-BKNG,Booking Holdings
+BIIB,Biogen Inc Common
+BKNG,Booking Holdings Inc Common
 BMRN,Biomarin Pharmaceutical Inc
-CA,CA Inc
-CDNS,Cadence Design Systems
-CELG,Celgene Corp
-CERN,Cerner Corp
+CA,
+CELG,
+CERN,
 CHKP,Check Point Software Technologies Ltd
-CHTR,Charter Communications
-CMCSA,Comcast
-COST,Costco
-CSCO,Cisco
-CSX,CSX Corporation
-CTAS,Cintas
-CTSH,Cognizant
-CTXS,Citrix Systems Inc
-DISH,DISH Network Corp
-EA,Electronic Arts
+CHTR,Charter Communications Inc A Common
+CMCSA,Comcast Corp A Common
+COST,Costco Wholesale Corp Common
+CSCO,"Cisco Systems, Inc."
+CSX,CSX Corp Common
+CTAS,Cintas Corp Common
+CTSH,Cognizant Technology Solutions Corp A Common
+CTXS,
+DISH,
+DLTR,Dollar Tree Inc Common
+EA,Electronic Arts Inc Common
 EBAY,eBay Inc
-ESRX,Express Scripts Holding Co
+ESRX,
 EXPE,Expedia Inc
-FAST,Fastenal
-FISV,Fiserv Inc
-FOX (Old),21st Century Fox Inc Class B
-FOXA (Old),21st Century Fox Inc Class A
-GILD,Gilead Sciences
-GOOG,Alphabet Inc. (Class C)
-GOOGL,Alphabet Inc. (Class A)
+FAST,Fastenal Co Common
+FI,Fiserv Inc Common
+GEN,Gen Digital Inc Common
+GILD,Gilead Sciences Inc Common
+GOOG,Alphabet Inc C Common
+GOOGL,Alphabet Inc A Common
 HAS,Hasbro Inc
 HOLX,Hologic Inc
 HSIC,Henry Schein Inc
-IDXX,Idexx Laboratories
+IDXX,IDEXX Laboratories Inc Common
+ILMN,Illumina Inc Common
 INCY,Incyte Corp
-INTC,Intel
-INTU,Intuit
-ISRG,Intuitive Surgical
+INTC,Intel Corp Common
+INTU,Intuit Inc Common
+ISRG,Intuitive Surgical Inc Common
 JBHT,J. B. Hunt Transport Services Inc
 JD,JD.com Inc
-KHC,Kraft Heinz
-KLAC,KLA Corporation
+KHC,Kraft Heinz Co Common
+KLAC,KLA Corp Common
 LBTYA,Liberty Global Plc Class A
 LBTYK,Liberty Global Plc Class C
-LRCX,Lam Research
-LVNTA,Liberty Ventures
-MAR,Marriott International
-MCHP,Microchip Technology
-MDLZ,Mondelez International
+LILA,Liberty Global plc LiLAC Class A
+LILAK,Liberty Global plc LiLAC Class C
+LRCX,Lam Research Corp Common
+LVNTA,
+MAR,Marriott International Inc A Common
+MCHP,Microchip Technology Inc Common
+MDLZ,Mondelez International Inc A Common
 MELI,MercadoLibre
-META,Meta Platforms
-MNST,Monster Beverage
-MSFT,Microsoft
-MSTR,MicroStrategy Inc.
-MU,Micron Technology
-MXIM,Maxim Integrated Products Inc
-NFLX,Netflix
-NLOK,NortonLifeLock Inc
+META,Meta Platforms Inc A Common
+MNST,Monster Beverage Corp Common
+MSFT,Microsoft Corporation
+MU,Micron Technology Inc Common
+MXIM,
+NFLX,Netflix Inc Common
 NTES,NetEase Inc
-NVDA,Nvidia
+NVDA,NVIDIA Corp Common
 ORLY,O'Reilly Automotive
-PAYX,Paychex
-PCAR,Paccar
-PLTR,Palantir Technologies
-PYPL,PayPal
-QCOM,Qualcomm
-QRTEA,Liberty Interactive Corp Series A
-REGN,Regeneron Pharmaceuticals
-ROST,Ross Stores
-SBUX,Starbucks
-SHOP,Shopify
-SHPG,Shire PLC
-SNPS,Synopsys
+PAYX,Paychex Inc Common
+PCAR,Paccar Inc Common
+PYPL,PayPal Holdings Inc Common
+QCOM,Qualcomm Inc Common
+QVCGA,
+REGN,Regeneron Pharmaceuticals Inc Common
+ROST,Ross Stores Inc Common
+SBUX,Starbucks Corp Common
+SHPG,
+SIRI,Sirius XM Holdings Inc
 STX,Seagate Technology plc
 SWKS,Skyworks Solutions Inc
 TCOM,Trip.com Group Ltd
-TMUS,T-Mobile US
-TRI,Thomson Reuters
-TSLA,"Tesla, Inc."
-TTWO,Take-Two Interactive
-TXN,Texas Instruments
+TFCF,
+TFCFA,
+TMUS,T-Mobile US Inc Common
+TSLA,Tesla Inc Common
+TXN,Texas Instruments Inc Common
 ULTA,Ulta Salon Cosmetics and Fragrance Inc
 VOD,Vodafone Group plc
 VRSK,Verisk
-VRTX,Vertex Pharmaceuticals
+VRTX,Vertex Pharmaceuticals Inc Common
 VTRS,Viatris Inc
-WDAY,"Workday, Inc."
+WBA,
 WDC,Western Digital Corp
 WYNN,Wynn Resorts Ltd
-XLNX,Xilinx Inc
+XLNX,
 XRAY,Dentsply Sirona Inc
