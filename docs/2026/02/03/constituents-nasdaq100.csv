@@ -24,8 +24,8 @@ TMUS,T-Mobile US
 LIN,Linde plc
 TXN,Texas Instruments
 AMGN,Amgen
-GILD,Gilead Sciences
 KLAC,KLA Corporation
+GILD,Gilead Sciences
 ISRG,Intuitive Surgical
 QCOM,Qualcomm
 APP,Applovin Corp
@@ -40,8 +40,8 @@ PANW,Palo Alto Networks
 ADBE,Adobe Inc.
 ARM,Arm Holdings
 CMCSA,Comcast
-CRWD,CrowdStrike
 MELI,MercadoLibre
+CRWD,CrowdStrike
 SBUX,Starbucks
 WDC,Western Digital
 CEG,Constellation Energy
@@ -53,8 +53,8 @@ ORLY,O'Reilly Automotive
 SNPS,Synopsys
 MNST,Monster Beverage
 REGN,Regeneron Pharmaceuticals
-CTAS,Cintas
 MDLZ,Mondelez International
+CTAS,Cintas
 ABNB,Airbnb
 CDNS,Cadence Design Systems
 CSX,CSX Corporation
@@ -81,8 +81,8 @@ DDOG,Datadog
 CCEP,Coca-Cola Europacific Partners
 MCHP,Microchip Technology
 TRI,Thomson Reuters Corporation
-TTWO,Take-Two Interactive
 ODFL,Old Dominion Freight Line
+TTWO,Take-Two Interactive
 PYPL,PayPal
 MSTR,MicroStrategy Inc.
 KDP,Keurig Dr Pepper
@@ -94,8 +94,8 @@ AXON,Axon Enterprise Inc.
 PAYX,Paychex
 INSM,Insmed Incorporated
 ZS,Zscaler
-DXCM,DexCom
 KHC,Kraft Heinz
+DXCM,DexCom
 TEAM,Atlassian
 CHTR,Charter Communications
 VRSK,Verisk
