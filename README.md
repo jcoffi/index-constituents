@@ -20,20 +20,38 @@ All symbols are consistent with those in [Yahoo Finance](https://finance.yahoo.c
 ## Supported indices
 
 
-| Code      |  Name             |  Start     | Download                                                                                                                                                        |
-|:----------|:------------------|:-----------|:----------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| csi300    | CSI 300 (沪深300)   | 2023/07    | [json](https://jcoffi.github.io/index-constituents/constituents-csi300.json) / [csv](https://jcoffi.github.io/index-constituents/constituents-csi300.csv)       |
-| csi500    | CSI 500 (中证500)   | 2024/02    | [json](https://jcoffi.github.io/index-constituents/constituents-csi500.json) / [csv](https://jcoffi.github.io/index-constituents/constituents-csi500.csv)       |
-| csi1000   | CSI 1000 (中证1000) | 2024/02    | [json](https://jcoffi.github.io/index-constituents/constituents-csi1000.json) / [csv](https://jcoffi.github.io/index-constituents/constituents-csi1000.csv)     |
-| sse       | SSE (上证综指)        | 2023/07    | [json](https://jcoffi.github.io/index-constituents/constituents-sse.json) / [csv](https://jcoffi.github.io/index-constituents/constituents-sse.csv)             |
-| szse      | SZSE (深证成指)       | 2023/07    | [json](https://jcoffi.github.io/index-constituents/constituents-szse.json) / [csv](https://jcoffi.github.io/index-constituents/constituents-szse.csv)           |
-| nasdaq100 | NASDAQ 100        | 1995/01/27 | [json](https://jcoffi.github.io/index-constituents/constituents-nasdaq100.json) / [csv](https://jcoffi.github.io/index-constituents/constituents-nasdaq100.csv) |
-| sp500     | S&P 500           | 1970/03/05 | [json](https://jcoffi.github.io/index-constituents/constituents-sp500.json) / [csv](https://jcoffi.github.io/index-constituents/constituents-sp500.csv)         |
-| dowjones  | Dow Jones         | 1982/08/30 | [json](https://jcoffi.github.io/index-constituents/constituents-dowjones.json) / [csv](https://jcoffi.github.io/index-constituents/constituents-dowjones.csv)   |
-| dax       | DAX               | 1987/12/30 | [json](https://jcoffi.github.io/index-constituents/constituents-dax.json) / [csv](https://jcoffi.github.io/index-constituents/constituents-dax.csv)             |
-| hsi       | HSI (恒生指数)        | 2023/07    | [json](https://jcoffi.github.io/index-constituents/constituents-hsi.json) / [csv](https://jcoffi.github.io/index-constituents/constituents-hsi.csv)             |
-| ftse100   | FTSE 100          | 2023/07    | [json](https://jcoffi.github.io/index-constituents/constituents-ftse100.json) / [csv](https://jcoffi.github.io/index-constituents/constituents-ftse100.csv)     |
-| nifty50   | NIFTY 50          | 2008/01    | [json](https://jcoffi.github.io/index-constituents/constituents-nifty50.json) / [csv](https://jcoffi.github.io/index-constituents/constituents-nifty50.csv)     |
+| Code      |  Name                              |  Start     | Download                                                                                                                                                        |
+|:----------|:-----------------------------------|:-----------|:----------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| csi300    | CSI 300 (沪深300)                    | 2023/07    | [json](https://jcoffi.github.io/index-constituents/constituents-csi300.json) / [csv](https://jcoffi.github.io/index-constituents/constituents-csi300.csv)       |
+| csi500    | CSI 500 (中证500)                    | 2024/02    | [json](https://jcoffi.github.io/index-constituents/constituents-csi500.json) / [csv](https://jcoffi.github.io/index-constituents/constituents-csi500.csv)       |
+| csi1000   | CSI 1000 (中证1000)                  | 2024/02    | [json](https://jcoffi.github.io/index-constituents/constituents-csi1000.json) / [csv](https://jcoffi.github.io/index-constituents/constituents-csi1000.csv)     |
+| sse       | SSE (上证综指)                         | 2023/07    | [json](https://jcoffi.github.io/index-constituents/constituents-sse.json) / [csv](https://jcoffi.github.io/index-constituents/constituents-sse.csv)             |
+| szse      | SZSE (深证成指)                        | 2023/07    | [json](https://jcoffi.github.io/index-constituents/constituents-szse.json) / [csv](https://jcoffi.github.io/index-constituents/constituents-szse.csv)           |
+| nasdaq100 | NASDAQ 100                         | 1995/01/27 | [json](https://jcoffi.github.io/index-constituents/constituents-nasdaq100.json) / [csv](https://jcoffi.github.io/index-constituents/constituents-nasdaq100.csv) |
+| sp500     | S&P 500                            | 1970/03/05 | [json](https://jcoffi.github.io/index-constituents/constituents-sp500.json) / [csv](https://jcoffi.github.io/index-constituents/constituents-sp500.csv)         |
+| dowjones  | Dow Jones                          | 1982/08/30 | [json](https://jcoffi.github.io/index-constituents/constituents-dowjones.json) / [csv](https://jcoffi.github.io/index-constituents/constituents-dowjones.csv)   |
+| dax       | DAX                                | 1987/12/30 | [json](https://jcoffi.github.io/index-constituents/constituents-dax.json) / [csv](https://jcoffi.github.io/index-constituents/constituents-dax.csv)             |
+| hsi       | HSI (恒生指数)                         | 2023/07    | [json](https://jcoffi.github.io/index-constituents/constituents-hsi.json) / [csv](https://jcoffi.github.io/index-constituents/constituents-hsi.csv)             |
+| ftse100   | FTSE 100                           | 2023/07    | [json](https://jcoffi.github.io/index-constituents/constituents-ftse100.json) / [csv](https://jcoffi.github.io/index-constituents/constituents-ftse100.csv)     |
+| nifty50   | NIFTY 50                           | 2008/01    | [json](https://jcoffi.github.io/index-constituents/constituents-nifty50.json) / [csv](https://jcoffi.github.io/index-constituents/constituents-nifty50.csv)     |
+| omxs30    | OMXS30                             | 2009/06/11 | [json](https://jcoffi.github.io/index-constituents/constituents-omxs30.json) / [csv](https://jcoffi.github.io/index-constituents/constituents-omxs30.csv)       |
+| nqcl      | NASDAQ Chile Index                 | 2012/12/03 | [json](https://jcoffi.github.io/index-constituents/constituents-nqcl.json) / [csv](https://jcoffi.github.io/index-constituents/constituents-nqcl.csv)           |
+| nqcllc    | NASDAQ Chile Large Cap Index       | 2012/12/03 | [json](https://jcoffi.github.io/index-constituents/constituents-nqcllc.json) / [csv](https://jcoffi.github.io/index-constituents/constituents-nqcllc.csv)       |
+| nqglci    | NASDAQ Global Large Cap Index      | 2012/12/12 | [json](https://jcoffi.github.io/index-constituents/constituents-nqglci.json) / [csv](https://jcoffi.github.io/index-constituents/constituents-nqglci.csv)       |
+| nqat      | NASDAQ Austria Index               | 2012/12/03 | [json](https://jcoffi.github.io/index-constituents/constituents-nqat.json) / [csv](https://jcoffi.github.io/index-constituents/constituents-nqat.csv)           |
+| nqbe      | NASDAQ Belgium Index               | 2012/12/03 | [json](https://jcoffi.github.io/index-constituents/constituents-nqbe.json) / [csv](https://jcoffi.github.io/index-constituents/constituents-nqbe.csv)           |
+| nqbelc    | NASDAQ Belgium Large Cap Index     | 2012/12/03 | [json](https://jcoffi.github.io/index-constituents/constituents-nqbelc.json) / [csv](https://jcoffi.github.io/index-constituents/constituents-nqbelc.csv)       |
+| nqbr      | NASDAQ Brazil Index                | 2012/12/03 | [json](https://jcoffi.github.io/index-constituents/constituents-nqbr.json) / [csv](https://jcoffi.github.io/index-constituents/constituents-nqbr.csv)           |
+| nqbrlc    | NASDAQ Brazil Large Cap Index      | 2012/12/03 | [json](https://jcoffi.github.io/index-constituents/constituents-nqbrlc.json) / [csv](https://jcoffi.github.io/index-constituents/constituents-nqbrlc.csv)       |
+| nqca      | NASDAQ Canada Index                | 2012/12/03 | [json](https://jcoffi.github.io/index-constituents/constituents-nqca.json) / [csv](https://jcoffi.github.io/index-constituents/constituents-nqca.csv)           |
+| nqcalc    | NASDAQ Canada Large Cap Index      | 2012/12/03 | [json](https://jcoffi.github.io/index-constituents/constituents-nqcalc.json) / [csv](https://jcoffi.github.io/index-constituents/constituents-nqcalc.csv)       |
+| nqch      | NASDAQ Switzerland Index           | 2012/12/03 | [json](https://jcoffi.github.io/index-constituents/constituents-nqch.json) / [csv](https://jcoffi.github.io/index-constituents/constituents-nqch.csv)           |
+| nqchlc    | NASDAQ Switzerland Large Cap Index | 2012/12/03 | [json](https://jcoffi.github.io/index-constituents/constituents-nqchlc.json) / [csv](https://jcoffi.github.io/index-constituents/constituents-nqchlc.csv)       |
+| nqco      | NASDAQ Colombia Index              | 2012/12/03 | [json](https://jcoffi.github.io/index-constituents/constituents-nqco.json) / [csv](https://jcoffi.github.io/index-constituents/constituents-nqco.csv)           |
+| nqcolc    | NASDAQ Colombia Large Cap Index    | 2012/12/03 | [json](https://jcoffi.github.io/index-constituents/constituents-nqcolc.json) / [csv](https://jcoffi.github.io/index-constituents/constituents-nqcolc.csv)       |
+| nqmx      | NASDAQ Mexico Index                | 2012/12/03 | [json](https://jcoffi.github.io/index-constituents/constituents-nqmx.json) / [csv](https://jcoffi.github.io/index-constituents/constituents-nqmx.csv)           |
+| nqmxlc    | NASDAQ Mexico Large Cap Index      | 2012/12/03 | [json](https://jcoffi.github.io/index-constituents/constituents-nqmxlc.json) / [csv](https://jcoffi.github.io/index-constituents/constituents-nqmxlc.csv)       |
+| nqpe      | NASDAQ Peru Index                  | 2012/12/03 | [json](https://jcoffi.github.io/index-constituents/constituents-nqpe.json) / [csv](https://jcoffi.github.io/index-constituents/constituents-nqpe.csv)           |
 
 ## Usage
 ### Direct download
@@ -83,6 +101,7 @@ Historical data of a particular index is only available from the month we start 
 * [Slickcharts](https://www.slickcharts.com/)
 * [Bloomberg](https://www.bloomberg.com/)
 * [The Sheridan Press](https://www.wyomingnewspapers.org/)
+* [Nasdaq OMX](https://indexes.nasdaqomx.com/)
 * [Misc Sources](./sources/)
 
 
