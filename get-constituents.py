@@ -104,7 +104,7 @@ def get_constituents_from_nasdaqomx(index_symbol, suffix, trade_date=None, lookb
             header_row = None
             for idx, row in df_raw.iterrows():
                 if 'Company Name' in row.values and 'Security Symbol' in row.values:
-                    header_row = idx
+                    header_row = int(idx)
                     break
 
             if header_row is None:
@@ -117,7 +117,7 @@ def get_constituents_from_nasdaqomx(index_symbol, suffix, trade_date=None, lookb
 
             df = df[['Security Symbol', 'Company Name']].copy()
             df.columns = ['Symbol', 'Name']
-            df['Symbol'] = df['Symbol'].apply(normalize_symbol) + suffix
+            df['Symbol'] = [normalize_symbol(x) + suffix for x in df['Symbol'].tolist()]
 
             if df.empty:
                 raise ValueError('Empty constituents file')
@@ -127,6 +127,8 @@ def get_constituents_from_nasdaqomx(index_symbol, suffix, trade_date=None, lookb
             last_exc = e
             continue
 
+    if last_exc is None:
+        raise RuntimeError('Failed to fetch Nasdaq OMX export')
     raise last_exc
 
 # 沪深300
@@ -207,7 +209,7 @@ def get_constituents_nifty50():
                     raise ValueError(f'Unexpected CSV columns: {cols}')
 
             # Normalize symbols to use NSE suffix for Yahoo Finance compatibility
-            df['Symbol'] = df['Symbol'].astype(str).str.upper().str.replace(r'\\.NS$', '', regex=True) + '.NS'
+            df['Symbol'] = df['Symbol'].astype(str).str.upper().str.replace(r'\.NS$', '', regex=True) + '.NS'
 
             return df[['Symbol', 'Name']]
         except Exception as e:
@@ -215,39 +217,13 @@ def get_constituents_nifty50():
             continue
 
     # If both attempts failed, raise the last exception
+    if last_exc is None:
+        raise RuntimeError('Failed to fetch NIFTY 50 constituents')
     raise last_exc
-
-# OMXS30
-def get_constituents_omxs30():
-    return get_constituents_from_nasdaqomx('OMXS30', '.ST')
-
-# NASDAQ Chile Large Cap Index
-def get_constituents_nqcllc():
-    return get_constituents_from_nasdaqomx('NQCLLC', '.SN')
 
 # NASDAQ Global Large Cap Index
 def get_constituents_nqglci():
     return get_constituents_from_nasdaqomx('NQGLCI', '')
-
-# NASDAQ Austria Index
-def get_constituents_nqat():
-    return get_constituents_from_nasdaqomx('NQAT', '.VI')
-
-# NASDAQ Belgium Index
-def get_constituents_nqbe():
-    return get_constituents_from_nasdaqomx('NQBE', '.BR')
-
-# NASDAQ Belgium Large Cap Index
-def get_constituents_nqbelc():
-    return get_constituents_from_nasdaqomx('NQBELC', '.BR')
-
-# NASDAQ Switzerland Index
-def get_constituents_nqch():
-    return get_constituents_from_nasdaqomx('NQCH', '.SW')
-
-# NASDAQ Switzerland Large Cap Index
-def get_constituents_nqchlc():
-    return get_constituents_from_nasdaqomx('NQCHLC', '.SW')
 
 # NASDAQ Brazil Index
 def get_constituents_nqbr():
@@ -265,17 +241,6 @@ def get_constituents_nqca():
 def get_constituents_nqcalc():
     return get_constituents_from_nasdaqomx('NQCALC', '.TO')
 
-# NASDAQ Chile Index
-def get_constituents_nqcl():
-    return get_constituents_from_nasdaqomx('NQCL', '.SN')
-
-# NASDAQ Colombia Index
-def get_constituents_nqco():
-    return get_constituents_from_nasdaqomx('NQCO', '.CL')
-
-# NASDAQ Colombia Large Cap Index
-def get_constituents_nqcolc():
-    return get_constituents_from_nasdaqomx('NQCOLC', '.CL')
 
 # NASDAQ Mexico Index
 def get_constituents_nqmx():
@@ -285,9 +250,6 @@ def get_constituents_nqmx():
 def get_constituents_nqmxlc():
     return get_constituents_from_nasdaqomx('NQMXLC', '.MX')
 
-# NASDAQ Peru Index
-def get_constituents_nqpe():
-    return get_constituents_from_nasdaqomx('NQPE', '.LM')
 
 def get_constituents_sp500():
     url = 'https://www.slickcharts.com/sp500'
@@ -634,42 +596,6 @@ if __name__ == '__main__':
         else:
             break
 
-    # OMXS30
-    print('Fetching the constituents of OMXS30...')
-    for i in range(n_retries):
-        try:
-            df = get_constituents_omxs30()
-            df.to_csv('docs/constituents-omxs30.csv', index=False)
-            df.to_json('docs/constituents-omxs30.json', orient='records')
-        except Exception as e:
-            print(f'Attempt {i+1} failed: {e}')
-            if i == n_retries - 1:
-                status = 1
-                print('Failed to fetch the constituents of OMXS30.')
-            else:
-                time.sleep(random.paretovariate(2) * 5)
-            continue
-        else:
-            break
-
-    # NASDAQ Chile Large Cap Index
-    print('Fetching the constituents of NASDAQ Chile Large Cap Index...')
-    for i in range(n_retries):
-        try:
-            df = get_constituents_nqcllc()
-            df.to_csv('docs/constituents-nqcllc.csv', index=False)
-            df.to_json('docs/constituents-nqcllc.json', orient='records')
-        except Exception as e:
-            print(f'Attempt {i+1} failed: {e}')
-            if i == n_retries - 1:
-                status = 1
-                print('Failed to fetch the constituents of NASDAQ Chile Large Cap Index.')
-            else:
-                time.sleep(random.paretovariate(2) * 5)
-            continue
-        else:
-            break
-
     # NASDAQ Global Large Cap Index
     print('Fetching the constituents of NASDAQ Global Large Cap Index...')
     for i in range(n_retries):
@@ -682,96 +608,6 @@ if __name__ == '__main__':
             if i == n_retries - 1:
                 status = 1
                 print('Failed to fetch the constituents of NASDAQ Global Large Cap Index.')
-            else:
-                time.sleep(random.paretovariate(2) * 5)
-            continue
-        else:
-            break
-
-    # NASDAQ Austria Index
-    print('Fetching the constituents of NASDAQ Austria Index...')
-    for i in range(n_retries):
-        try:
-            df = get_constituents_nqat()
-            df.to_csv('docs/constituents-nqat.csv', index=False)
-            df.to_json('docs/constituents-nqat.json', orient='records')
-        except Exception as e:
-            print(f'Attempt {i+1} failed: {e}')
-            if i == n_retries - 1:
-                status = 1
-                print('Failed to fetch the constituents of NASDAQ Austria Index.')
-            else:
-                time.sleep(random.paretovariate(2) * 5)
-            continue
-        else:
-            break
-
-    # NASDAQ Belgium Index
-    print('Fetching the constituents of NASDAQ Belgium Index...')
-    for i in range(n_retries):
-        try:
-            df = get_constituents_nqbe()
-            df.to_csv('docs/constituents-nqbe.csv', index=False)
-            df.to_json('docs/constituents-nqbe.json', orient='records')
-        except Exception as e:
-            print(f'Attempt {i+1} failed: {e}')
-            if i == n_retries - 1:
-                status = 1
-                print('Failed to fetch the constituents of NASDAQ Belgium Index.')
-            else:
-                time.sleep(random.paretovariate(2) * 5)
-            continue
-        else:
-            break
-
-    # NASDAQ Belgium Large Cap Index
-    print('Fetching the constituents of NASDAQ Belgium Large Cap Index...')
-    for i in range(n_retries):
-        try:
-            df = get_constituents_nqbelc()
-            df.to_csv('docs/constituents-nqbelc.csv', index=False)
-            df.to_json('docs/constituents-nqbelc.json', orient='records')
-        except Exception as e:
-            print(f'Attempt {i+1} failed: {e}')
-            if i == n_retries - 1:
-                status = 1
-                print('Failed to fetch the constituents of NASDAQ Belgium Large Cap Index.')
-            else:
-                time.sleep(random.paretovariate(2) * 5)
-            continue
-        else:
-            break
-
-    # NASDAQ Switzerland Index
-    print('Fetching the constituents of NASDAQ Switzerland Index...')
-    for i in range(n_retries):
-        try:
-            df = get_constituents_nqch()
-            df.to_csv('docs/constituents-nqch.csv', index=False)
-            df.to_json('docs/constituents-nqch.json', orient='records')
-        except Exception as e:
-            print(f'Attempt {i+1} failed: {e}')
-            if i == n_retries - 1:
-                status = 1
-                print('Failed to fetch the constituents of NASDAQ Switzerland Index.')
-            else:
-                time.sleep(random.paretovariate(2) * 5)
-            continue
-        else:
-            break
-
-    # NASDAQ Switzerland Large Cap Index
-    print('Fetching the constituents of NASDAQ Switzerland Large Cap Index...')
-    for i in range(n_retries):
-        try:
-            df = get_constituents_nqchlc()
-            df.to_csv('docs/constituents-nqchlc.csv', index=False)
-            df.to_json('docs/constituents-nqchlc.json', orient='records')
-        except Exception as e:
-            print(f'Attempt {i+1} failed: {e}')
-            if i == n_retries - 1:
-                status = 1
-                print('Failed to fetch the constituents of NASDAQ Switzerland Large Cap Index.')
             else:
                 time.sleep(random.paretovariate(2) * 5)
             continue
@@ -850,60 +686,6 @@ if __name__ == '__main__':
         else:
             break
 
-    # NASDAQ Chile Index
-    print('Fetching the constituents of NASDAQ Chile Index...')
-    for i in range(n_retries):
-        try:
-            df = get_constituents_nqcl()
-            df.to_csv('docs/constituents-nqcl.csv', index=False)
-            df.to_json('docs/constituents-nqcl.json', orient='records')
-        except Exception as e:
-            print(f'Attempt {i+1} failed: {e}')
-            if i == n_retries - 1:
-                status = 1
-                print('Failed to fetch the constituents of NASDAQ Chile Index.')
-            else:
-                time.sleep(random.paretovariate(2) * 5)
-            continue
-        else:
-            break
-
-    # NASDAQ Colombia Index
-    print('Fetching the constituents of NASDAQ Colombia Index...')
-    for i in range(n_retries):
-        try:
-            df = get_constituents_nqco()
-            df.to_csv('docs/constituents-nqco.csv', index=False)
-            df.to_json('docs/constituents-nqco.json', orient='records')
-        except Exception as e:
-            print(f'Attempt {i+1} failed: {e}')
-            if i == n_retries - 1:
-                status = 1
-                print('Failed to fetch the constituents of NASDAQ Colombia Index.')
-            else:
-                time.sleep(random.paretovariate(2) * 5)
-            continue
-        else:
-            break
-
-    # NASDAQ Colombia Large Cap Index
-    print('Fetching the constituents of NASDAQ Colombia Large Cap Index...')
-    for i in range(n_retries):
-        try:
-            df = get_constituents_nqcolc()
-            df.to_csv('docs/constituents-nqcolc.csv', index=False)
-            df.to_json('docs/constituents-nqcolc.json', orient='records')
-        except Exception as e:
-            print(f'Attempt {i+1} failed: {e}')
-            if i == n_retries - 1:
-                status = 1
-                print('Failed to fetch the constituents of NASDAQ Colombia Large Cap Index.')
-            else:
-                time.sleep(random.paretovariate(2) * 5)
-            continue
-        else:
-            break
-
     # NASDAQ Mexico Index
     print('Fetching the constituents of NASDAQ Mexico Index...')
     for i in range(n_retries):
@@ -934,24 +716,6 @@ if __name__ == '__main__':
             if i == n_retries - 1:
                 status = 1
                 print('Failed to fetch the constituents of NASDAQ Mexico Large Cap Index.')
-            else:
-                time.sleep(random.paretovariate(2) * 5)
-            continue
-        else:
-            break
-
-    # NASDAQ Peru Index
-    print('Fetching the constituents of NASDAQ Peru Index...')
-    for i in range(n_retries):
-        try:
-            df = get_constituents_nqpe()
-            df.to_csv('docs/constituents-nqpe.csv', index=False)
-            df.to_json('docs/constituents-nqpe.json', orient='records')
-        except Exception as e:
-            print(f'Attempt {i+1} failed: {e}')
-            if i == n_retries - 1:
-                status = 1
-                print('Failed to fetch the constituents of NASDAQ Peru Index.')
             else:
                 time.sleep(random.paretovariate(2) * 5)
             continue
