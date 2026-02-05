@@ -221,6 +221,10 @@ def get_constituents_nifty50():
         raise RuntimeError('Failed to fetch NIFTY 50 constituents')
     raise last_exc
 
+# OMXS30
+def get_constituents_omxs30():
+    return get_constituents_from_nasdaqomx('OMXS30', '.ST')
+
 # NASDAQ Global Large Cap Index
 def get_constituents_nqglci():
     return get_constituents_from_nasdaqomx('NQGLCI', '')
@@ -590,6 +594,24 @@ if __name__ == '__main__':
             if i == n_retries - 1:
                 status = 1
                 print('Failed to fetch the constituents of NIFTY 50.')
+            else:
+                time.sleep(random.paretovariate(2) * 5)
+            continue
+        else:
+            break
+
+    # OMXS30
+    print('Fetching the constituents of OMXS30...')
+    for i in range(n_retries):
+        try:
+            df = get_constituents_omxs30()
+            df.to_csv('docs/constituents-omxs30.csv', index=False)
+            df.to_json('docs/constituents-omxs30.json', orient='records')
+        except Exception as e:
+            print(f'Attempt {i+1} failed: {e}')
+            if i == n_retries - 1:
+                status = 1
+                print('Failed to fetch the constituents of OMXS30.')
             else:
                 time.sleep(random.paretovariate(2) * 5)
             continue
