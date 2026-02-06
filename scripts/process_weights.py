@@ -63,7 +63,7 @@ def write_json_file(file_path, symbols):
         json.dump(data, f, indent=2)
 
 def main():
-    weights_file = '../sources/weights.csv'
+    weights_file = str(Path(__file__).resolve().parents[1] / 'sources' / 'weights.csv')
     docs_dir = 'docs'
 
     if not os.path.exists(weights_file):
