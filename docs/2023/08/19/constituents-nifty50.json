@@ -1,1 +1,202 @@
-[{"Symbol": "ADANIENT.NS", "Name": "ADANIENT"}, {"Symbol": "ADANIPORTS.NS", "Name": "ADANIPORTS"}, {"Symbol": "APOLLOHOSP.NS", "Name": "APOLLOHOSP"}, {"Symbol": "ASIANPAINT.NS", "Name": "ASIANPAINT"}, {"Symbol": "AXISBANK.NS", "Name": "AXISBANK"}, {"Symbol": "BAJAJAUTO.NS", "Name": "BAJAJAUTO"}, {"Symbol": "BAJAJFINSV.NS", "Name": "BAJAJFINSV"}, {"Symbol": "BAJFINANCE.NS", "Name": "BAJFINANCE"}, {"Symbol": "BHARTIARTL.NS", "Name": "BHARTIARTL"}, {"Symbol": "BPCL.NS", "Name": "BPCL"}, {"Symbol": "BRITANNIA.NS", "Name": "BRITANNIA"}, {"Symbol": "CIPLA.NS", "Name": "CIPLA"}, {"Symbol": "COALINDIA.NS", "Name": "COALINDIA"}, {"Symbol": "DIVISLAB.NS", "Name": "DIVISLAB"}, {"Symbol": "DRREDDY.NS", "Name": "DRREDDY"}, {"Symbol": "EICHERMOT.NS", "Name": "EICHERMOT"}, {"Symbol": "GRASIM.NS", "Name": "GRASIM"}, {"Symbol": "HCLTECH.NS", "Name": "HCLTECH"}, {"Symbol": "HDFCBANK.NS", "Name": "HDFCBANK"}, {"Symbol": "HDFCLIFE.NS", "Name": "HDFCLIFE"}, {"Symbol": "HEROMOTOCO.NS", "Name": "HEROMOTOCO"}, {"Symbol": "HINDALCO.NS", "Name": "HINDALCO"}, {"Symbol": "HINDUNILVR.NS", "Name": "HINDUNILVR"}, {"Symbol": "ICICIBANK.NS", "Name": "ICICIBANK"}, {"Symbol": "INDUSINDBK.NS", "Name": "INDUSINDBK"}, {"Symbol": "INFY.NS", "Name": "INFY"}, {"Symbol": "ITC.NS", "Name": "ITC"}, {"Symbol": "JSWSTEEL.NS", "Name": "JSWSTEEL"}, {"Symbol": "KOTAKBANK.NS", "Name": "KOTAKBANK"}, {"Symbol": "LT.NS", "Name": "LT"}, {"Symbol": "LTIM.NS", "Name": "LTIM"}, {"Symbol": "M&M.NS", "Name": "M&M"}, {"Symbol": "MARUTI.NS", "Name": "MARUTI"}, {"Symbol": "NESTLEIND.NS", "Name": "NESTLEIND"}, {"Symbol": "NTPC.NS", "Name": "NTPC"}, {"Symbol": "ONGC.NS", "Name": "ONGC"}, {"Symbol": "POWERGRID.NS", "Name": "POWERGRID"}, {"Symbol": "RELIANCE.NS", "Name": "RELIANCE"}, {"Symbol": "SBILIFE.NS", "Name": "SBILIFE"}, {"Symbol": "SBIN.NS", "Name": "SBIN"}, {"Symbol": "SUNPHARMA.NS", "Name": "SUNPHARMA"}, {"Symbol": "TATACONSUM.NS", "Name": "TATACONSUM"}, {"Symbol": "TATAMOTORS.NS", "Name": "TATAMOTORS"}, {"Symbol": "TATASTEEL.NS", "Name": "TATASTEEL"}, {"Symbol": "TCS.NS", "Name": "TCS"}, {"Symbol": "TECHM.NS", "Name": "TECHM"}, {"Symbol": "TITAN.NS", "Name": "TITAN"}, {"Symbol": "ULTRACEMCO.NS", "Name": "ULTRACEMCO"}, {"Symbol": "UPL.NS", "Name": "UPL"}, {"Symbol": "WIPRO.NS", "Name": "WIPRO"}]
+[
+  {
+    "Symbol": "ADANIENT",
+    "Name": "ADANIENT"
+  },
+  {
+    "Symbol": "ADANIPORTS",
+    "Name": "ADANIPORTS"
+  },
+  {
+    "Symbol": "APOLLOHOSP",
+    "Name": "APOLLOHOSP"
+  },
+  {
+    "Symbol": "ASIANPAINT",
+    "Name": "ASIANPAINT"
+  },
+  {
+    "Symbol": "AXISBANK",
+    "Name": "AXISBANK"
+  },
+  {
+    "Symbol": "BAJAJAUTO",
+    "Name": "BAJAJAUTO"
+  },
+  {
+    "Symbol": "BAJAJFINSV",
+    "Name": "BAJAJFINSV"
+  },
+  {
+    "Symbol": "BAJFINANCE",
+    "Name": "BAJFINANCE"
+  },
+  {
+    "Symbol": "BHARTIARTL",
+    "Name": "BHARTIARTL"
+  },
+  {
+    "Symbol": "BPCL",
+    "Name": "BPCL"
+  },
+  {
+    "Symbol": "BRITANNIA",
+    "Name": "BRITANNIA"
+  },
+  {
+    "Symbol": "CIPLA",
+    "Name": "CIPLA"
+  },
+  {
+    "Symbol": "COALINDIA",
+    "Name": "COALINDIA"
+  },
+  {
+    "Symbol": "DIVISLAB",
+    "Name": "DIVISLAB"
+  },
+  {
+    "Symbol": "DRREDDY",
+    "Name": "DRREDDY"
+  },
+  {
+    "Symbol": "EICHERMOT",
+    "Name": "EICHERMOT"
+  },
+  {
+    "Symbol": "GRASIM",
+    "Name": "GRASIM"
+  },
+  {
+    "Symbol": "HCLTECH",
+    "Name": "HCLTECH"
+  },
+  {
+    "Symbol": "HDFCBANK",
+    "Name": "HDFCBANK"
+  },
+  {
+    "Symbol": "HDFCLIFE",
+    "Name": "HDFCLIFE"
+  },
+  {
+    "Symbol": "HEROMOTOCO",
+    "Name": "HEROMOTOCO"
+  },
+  {
+    "Symbol": "HINDALCO",
+    "Name": "HINDALCO"
+  },
+  {
+    "Symbol": "HINDUNILVR",
+    "Name": "HINDUNILVR"
+  },
+  {
+    "Symbol": "ICICIBANK",
+    "Name": "ICICIBANK"
+  },
+  {
+    "Symbol": "INDUSINDBK",
+    "Name": "INDUSINDBK"
+  },
+  {
+    "Symbol": "INFY",
+    "Name": "INFY"
+  },
+  {
+    "Symbol": "ITC",
+    "Name": "ITC"
+  },
+  {
+    "Symbol": "JSWSTEEL",
+    "Name": "JSWSTEEL"
+  },
+  {
+    "Symbol": "KOTAKBANK",
+    "Name": "KOTAKBANK"
+  },
+  {
+    "Symbol": "LT",
+    "Name": "LT"
+  },
+  {
+    "Symbol": "LTIM",
+    "Name": "LTIM"
+  },
+  {
+    "Symbol": "M&M",
+    "Name": "M&M"
+  },
+  {
+    "Symbol": "MARUTI",
+    "Name": "MARUTI"
+  },
+  {
+    "Symbol": "NESTLEIND",
+    "Name": "NESTLEIND"
+  },
+  {
+    "Symbol": "NTPC",
+    "Name": "NTPC"
+  },
+  {
+    "Symbol": "ONGC",
+    "Name": "ONGC"
+  },
+  {
+    "Symbol": "POWERGRID",
+    "Name": "POWERGRID"
+  },
+  {
+    "Symbol": "RELIANCE",
+    "Name": "RELIANCE"
+  },
+  {
+    "Symbol": "SBILIFE",
+    "Name": "SBILIFE"
+  },
+  {
+    "Symbol": "SBIN",
+    "Name": "SBIN"
+  },
+  {
+    "Symbol": "SUNPHARMA",
+    "Name": "SUNPHARMA"
+  },
+  {
+    "Symbol": "TATACONSUM",
+    "Name": "TATACONSUM"
+  },
+  {
+    "Symbol": "TATAMOTORS",
+    "Name": "TATAMOTORS"
+  },
+  {
+    "Symbol": "TATASTEEL",
+    "Name": "TATASTEEL"
+  },
+  {
+    "Symbol": "TCS",
+    "Name": "TCS"
+  },
+  {
+    "Symbol": "TECHM",
+    "Name": "TECHM"
+  },
+  {
+    "Symbol": "TITAN",
+    "Name": "TITAN"
+  },
+  {
+    "Symbol": "ULTRACEMCO",
+    "Name": "ULTRACEMCO"
+  },
+  {
+    "Symbol": "UPL",
+    "Name": "UPL"
+  },
+  {
+    "Symbol": "WIPRO",
+    "Name": "WIPRO"
+  }
+]
