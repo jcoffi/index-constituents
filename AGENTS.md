@@ -159,6 +159,38 @@ This codebase is script-first and pragmatic. Maintain existing conventions in `g
    - `.venv/bin/python gen-supported-indices-md.py` (then paste/patch output).
 6. If the website list (`docs/index.html`) is meant to include the new index, update it consistently.
 
+## Historical Data Backfilling
+
+**CRITICAL: NEVER backfill historical data by copying current constituent lists to past dates.**
+
+This creates misleading historical records. Only backfill when you have **accurate historical data** from one of these sources:
+
+### Valid Historical Data Sources
+
+1. **APIs with date parameters** (e.g., Nasdaq OMX `tradeDate` parameter)
+2. **Historical change event logs** (e.g., DAX quarterly reviews with add/remove dates)
+3. **Archived snapshots** from the Wayback Machine or other archives
+4. **Official historical composition files** from index providers
+
+### Invalid Backfilling Methods
+
+❌ **Never** run the current scraper with `DATE_OVERRIDE` to create historical snapshots  
+❌ **Never** copy today's constituents to fill historical gaps  
+❌ **Never** assume constituents were stable across missing dates
+
+### When Missing Data Cannot Be Backfilled
+
+If missing dates exist and no valid historical source is available:
+- Document the gap in audit reports
+- Leave the dates missing rather than creating inaccurate data
+- Only fill gaps if you can verify historical accuracy
+
+### Existing Backfill Scripts
+
+- `scripts/backfill_nasdaqomx_daily.py`: Uses historical API (valid ✓)
+- `scripts/import_dax_from_events.py`: Reconstructs from change events (valid ✓)
+- `scripts/import_historical_snapshots.py`: Uses Excel change logs (valid ✓)
+
 ## Secrets and Credentials
 
 - Do not commit tokens or `.env` files.
