@@ -1,202 +1,202 @@
 [
   {
-    "Symbol": "ABB",
+    "Symbol": "ABB.NS",
     "Name": "ABB"
   },
   {
-    "Symbol": "ACC",
+    "Symbol": "ACC.NS",
     "Name": "ACC"
   },
   {
-    "Symbol": "AMBUJACEM",
+    "Symbol": "AMBUJACEM.NS",
     "Name": "AMBUJACEM"
   },
   {
-    "Symbol": "AXISBANK",
+    "Symbol": "AXISBANK.NS",
     "Name": "AXISBANK"
   },
   {
-    "Symbol": "BHARTIARTL",
+    "Symbol": "BHARTIARTL.NS",
     "Name": "BHARTIARTL"
   },
   {
-    "Symbol": "BHEL",
+    "Symbol": "BHEL.NS",
     "Name": "BHEL"
   },
   {
-    "Symbol": "BPCL",
+    "Symbol": "BPCL.NS",
     "Name": "BPCL"
   },
   {
-    "Symbol": "CAIRN",
+    "Symbol": "CAIRN.NS",
     "Name": "CAIRN"
   },
   {
-    "Symbol": "CIPLA",
+    "Symbol": "CIPLA.NS",
     "Name": "CIPLA"
   },
   {
-    "Symbol": "DLF",
+    "Symbol": "DLF.NS",
     "Name": "DLF"
   },
   {
-    "Symbol": "GAIL",
+    "Symbol": "GAIL.NS",
     "Name": "GAIL"
   },
   {
-    "Symbol": "GRASIM",
+    "Symbol": "GRASIM.NS",
     "Name": "GRASIM"
   },
   {
-    "Symbol": "HCLTECH",
+    "Symbol": "HCLTECH.NS",
     "Name": "HCLTECH"
   },
   {
-    "Symbol": "HDFC",
+    "Symbol": "HDFC.NS",
     "Name": "HDFC"
   },
   {
-    "Symbol": "HDFCBANK",
+    "Symbol": "HDFCBANK.NS",
     "Name": "HDFCBANK"
   },
   {
-    "Symbol": "HEROMOTOCO",
+    "Symbol": "HEROMOTOCO.NS",
     "Name": "HEROMOTOCO"
   },
   {
-    "Symbol": "HINDALCO",
+    "Symbol": "HINDALCO.NS",
     "Name": "HINDALCO"
   },
   {
-    "Symbol": "HINDUNILVR",
+    "Symbol": "HINDUNILVR.NS",
     "Name": "HINDUNILVR"
   },
   {
-    "Symbol": "ICICIBANK",
+    "Symbol": "ICICIBANK.NS",
     "Name": "ICICIBANK"
   },
   {
-    "Symbol": "IDEA",
+    "Symbol": "IDEA.NS",
     "Name": "IDEA"
   },
   {
-    "Symbol": "INFY",
+    "Symbol": "INFY.NS",
     "Name": "INFY"
   },
   {
-    "Symbol": "ITC",
+    "Symbol": "ITC.NS",
     "Name": "ITC"
   },
   {
-    "Symbol": "JINDALSTEL",
+    "Symbol": "JINDALSTEL.NS",
     "Name": "JINDALSTEL"
   },
   {
-    "Symbol": "LT",
+    "Symbol": "LT.NS",
     "Name": "LT"
   },
   {
-    "Symbol": "M&M",
+    "Symbol": "M&M.NS",
     "Name": "M&M"
   },
   {
-    "Symbol": "MARUTI",
+    "Symbol": "MARUTI.NS",
     "Name": "MARUTI"
   },
   {
-    "Symbol": "NATIONALUM",
+    "Symbol": "NATIONALUM.NS",
     "Name": "NATIONALUM"
   },
   {
-    "Symbol": "NTPC",
+    "Symbol": "NTPC.NS",
     "Name": "NTPC"
   },
   {
-    "Symbol": "ONGC",
+    "Symbol": "ONGC.NS",
     "Name": "ONGC"
   },
   {
-    "Symbol": "PNB",
+    "Symbol": "PNB.NS",
     "Name": "PNB"
   },
   {
-    "Symbol": "POWERGRID",
+    "Symbol": "POWERGRID.NS",
     "Name": "POWERGRID"
   },
   {
-    "Symbol": "RANBAXY",
+    "Symbol": "RANBAXY.NS",
     "Name": "RANBAXY"
   },
   {
-    "Symbol": "RCOM",
+    "Symbol": "RCOM.NS",
     "Name": "RCOM"
   },
   {
-    "Symbol": "RELCAPITAL",
+    "Symbol": "RELCAPITAL.NS",
     "Name": "RELCAPITAL"
   },
   {
-    "Symbol": "RELIANCE",
+    "Symbol": "RELIANCE.NS",
     "Name": "RELIANCE"
   },
   {
-    "Symbol": "RELINFRA",
+    "Symbol": "RELINFRA.NS",
     "Name": "RELINFRA"
   },
   {
-    "Symbol": "RPOWER",
+    "Symbol": "RPOWER.NS",
     "Name": "RPOWER"
   },
   {
-    "Symbol": "SAIL",
+    "Symbol": "SAIL.NS",
     "Name": "SAIL"
   },
   {
-    "Symbol": "SBIN",
+    "Symbol": "SBIN.NS",
     "Name": "SBIN"
   },
   {
-    "Symbol": "SIEMENS",
+    "Symbol": "SIEMENS.NS",
     "Name": "SIEMENS"
   },
   {
-    "Symbol": "STER",
+    "Symbol": "STER.NS",
     "Name": "STER"
   },
   {
-    "Symbol": "SUNPHARMA",
+    "Symbol": "SUNPHARMA.NS",
     "Name": "SUNPHARMA"
   },
   {
-    "Symbol": "SUZLON",
+    "Symbol": "SUZLON.NS",
     "Name": "SUZLON"
   },
   {
-    "Symbol": "TATACOMM",
+    "Symbol": "TATACOMM.NS",
     "Name": "TATACOMM"
   },
   {
-    "Symbol": "TATAMOTORS",
+    "Symbol": "TATAMOTORS.NS",
     "Name": "TATAMOTORS"
   },
   {
-    "Symbol": "TATAPOWER",
+    "Symbol": "TATAPOWER.NS",
     "Name": "TATAPOWER"
   },
   {
-    "Symbol": "TATASTEEL",
+    "Symbol": "TATASTEEL.NS",
     "Name": "TATASTEEL"
   },
   {
-    "Symbol": "TCS",
+    "Symbol": "TCS.NS",
     "Name": "TCS"
   },
   {
-    "Symbol": "UNITECH",
+    "Symbol": "UNITECH.NS",
     "Name": "UNITECH"
   },
   {
-    "Symbol": "WIPRO",
+    "Symbol": "WIPRO.NS",
     "Name": "WIPRO"
   }
 ]

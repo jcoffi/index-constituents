@@ -1,202 +1,202 @@
 [
   {
-    "Symbol": "ADANIENT",
+    "Symbol": "ADANIENT.NS",
     "Name": "ADANIENT"
   },
   {
-    "Symbol": "ADANIPORTS",
+    "Symbol": "ADANIPORTS.NS",
     "Name": "ADANIPORTS"
   },
   {
-    "Symbol": "APOLLOHOSP",
+    "Symbol": "APOLLOHOSP.NS",
     "Name": "APOLLOHOSP"
   },
   {
-    "Symbol": "ASIANPAINT",
+    "Symbol": "ASIANPAINT.NS",
     "Name": "ASIANPAINT"
   },
   {
-    "Symbol": "AXISBANK",
+    "Symbol": "AXISBANK.NS",
     "Name": "AXISBANK"
   },
   {
-    "Symbol": "BAJAJAUTO",
+    "Symbol": "BAJAJAUTO.NS",
     "Name": "BAJAJAUTO"
   },
   {
-    "Symbol": "BAJAJFINSV",
+    "Symbol": "BAJAJFINSV.NS",
     "Name": "BAJAJFINSV"
   },
   {
-    "Symbol": "BAJFINANCE",
+    "Symbol": "BAJFINANCE.NS",
     "Name": "BAJFINANCE"
   },
   {
-    "Symbol": "BHARTIARTL",
+    "Symbol": "BHARTIARTL.NS",
     "Name": "BHARTIARTL"
   },
   {
-    "Symbol": "BPCL",
+    "Symbol": "BPCL.NS",
     "Name": "BPCL"
   },
   {
-    "Symbol": "BRITANNIA",
+    "Symbol": "BRITANNIA.NS",
     "Name": "BRITANNIA"
   },
   {
-    "Symbol": "CIPLA",
+    "Symbol": "CIPLA.NS",
     "Name": "CIPLA"
   },
   {
-    "Symbol": "COALINDIA",
+    "Symbol": "COALINDIA.NS",
     "Name": "COALINDIA"
   },
   {
-    "Symbol": "DIVISLAB",
+    "Symbol": "DIVISLAB.NS",
     "Name": "DIVISLAB"
   },
   {
-    "Symbol": "DRREDDY",
+    "Symbol": "DRREDDY.NS",
     "Name": "DRREDDY"
   },
   {
-    "Symbol": "EICHERMOT",
+    "Symbol": "EICHERMOT.NS",
     "Name": "EICHERMOT"
   },
   {
-    "Symbol": "GRASIM",
+    "Symbol": "GRASIM.NS",
     "Name": "GRASIM"
   },
   {
-    "Symbol": "HCLTECH",
+    "Symbol": "HCLTECH.NS",
     "Name": "HCLTECH"
   },
   {
-    "Symbol": "HDFC",
+    "Symbol": "HDFC.NS",
     "Name": "HDFC"
   },
   {
-    "Symbol": "HDFCBANK",
+    "Symbol": "HDFCBANK.NS",
     "Name": "HDFCBANK"
   },
   {
-    "Symbol": "HDFCLIFE",
+    "Symbol": "HDFCLIFE.NS",
     "Name": "HDFCLIFE"
   },
   {
-    "Symbol": "HEROMOTOCO",
+    "Symbol": "HEROMOTOCO.NS",
     "Name": "HEROMOTOCO"
   },
   {
-    "Symbol": "HINDALCO",
+    "Symbol": "HINDALCO.NS",
     "Name": "HINDALCO"
   },
   {
-    "Symbol": "HINDUNILVR",
+    "Symbol": "HINDUNILVR.NS",
     "Name": "HINDUNILVR"
   },
   {
-    "Symbol": "ICICIBANK",
+    "Symbol": "ICICIBANK.NS",
     "Name": "ICICIBANK"
   },
   {
-    "Symbol": "INDUSINDBK",
+    "Symbol": "INDUSINDBK.NS",
     "Name": "INDUSINDBK"
   },
   {
-    "Symbol": "INFY",
+    "Symbol": "INFY.NS",
     "Name": "INFY"
   },
   {
-    "Symbol": "ITC",
+    "Symbol": "ITC.NS",
     "Name": "ITC"
   },
   {
-    "Symbol": "JSWSTEEL",
+    "Symbol": "JSWSTEEL.NS",
     "Name": "JSWSTEEL"
   },
   {
-    "Symbol": "KOTAKBANK",
+    "Symbol": "KOTAKBANK.NS",
     "Name": "KOTAKBANK"
   },
   {
-    "Symbol": "LT",
+    "Symbol": "LT.NS",
     "Name": "LT"
   },
   {
-    "Symbol": "M&M",
+    "Symbol": "M&M.NS",
     "Name": "M&M"
   },
   {
-    "Symbol": "MARUTI",
+    "Symbol": "MARUTI.NS",
     "Name": "MARUTI"
   },
   {
-    "Symbol": "NESTLEIND",
+    "Symbol": "NESTLEIND.NS",
     "Name": "NESTLEIND"
   },
   {
-    "Symbol": "NTPC",
+    "Symbol": "NTPC.NS",
     "Name": "NTPC"
   },
   {
-    "Symbol": "ONGC",
+    "Symbol": "ONGC.NS",
     "Name": "ONGC"
   },
   {
-    "Symbol": "POWERGRID",
+    "Symbol": "POWERGRID.NS",
     "Name": "POWERGRID"
   },
   {
-    "Symbol": "RELIANCE",
+    "Symbol": "RELIANCE.NS",
     "Name": "RELIANCE"
   },
   {
-    "Symbol": "SBILIFE",
+    "Symbol": "SBILIFE.NS",
     "Name": "SBILIFE"
   },
   {
-    "Symbol": "SBIN",
+    "Symbol": "SBIN.NS",
     "Name": "SBIN"
   },
   {
-    "Symbol": "SUNPHARMA",
+    "Symbol": "SUNPHARMA.NS",
     "Name": "SUNPHARMA"
   },
   {
-    "Symbol": "TATACONSUM",
+    "Symbol": "TATACONSUM.NS",
     "Name": "TATACONSUM"
   },
   {
-    "Symbol": "TATAMOTORS",
+    "Symbol": "TATAMOTORS.NS",
     "Name": "TATAMOTORS"
   },
   {
-    "Symbol": "TATASTEEL",
+    "Symbol": "TATASTEEL.NS",
     "Name": "TATASTEEL"
   },
   {
-    "Symbol": "TCS",
+    "Symbol": "TCS.NS",
     "Name": "TCS"
   },
   {
-    "Symbol": "TECHM",
+    "Symbol": "TECHM.NS",
     "Name": "TECHM"
   },
   {
-    "Symbol": "TITAN",
+    "Symbol": "TITAN.NS",
     "Name": "TITAN"
   },
   {
-    "Symbol": "ULTRACEMCO",
+    "Symbol": "ULTRACEMCO.NS",
     "Name": "ULTRACEMCO"
   },
   {
-    "Symbol": "UPL",
+    "Symbol": "UPL.NS",
     "Name": "UPL"
   },
   {
-    "Symbol": "WIPRO",
+    "Symbol": "WIPRO.NS",
     "Name": "WIPRO"
   }
 ]
