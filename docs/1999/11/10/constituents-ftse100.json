@@ -1,0 +1,474 @@
+[
+  {
+    "Symbol": "AAL.L",
+    "Name": "Anglo American PLC"
+  },
+  {
+    "Symbol": "AB..L",
+    "Name": "Alliance Boots"
+  },
+  {
+    "Symbol": "ABDN.L",
+    "Name": "Abrdn"
+  },
+  {
+    "Symbol": "ABF.L",
+    "Name": "Associated British Foods"
+  },
+  {
+    "Symbol": "AHM.L",
+    "Name": "Amersham"
+  },
+  {
+    "Symbol": "AL..L",
+    "Name": "Alliance & Leicester"
+  },
+  {
+    "Symbol": "ALLD.L",
+    "Name": "Allied Domecq"
+  },
+  {
+    "Symbol": "ANL.L",
+    "Name": "Abbey National"
+  },
+  {
+    "Symbol": "AV/.L",
+    "Name": "Aviva PLC"
+  },
+  {
+    "Symbol": "AZN.L",
+    "Name": "AstraZeneca PLC"
+  },
+  {
+    "Symbol": "AZU.L",
+    "Name": "Allied Zurich"
+  },
+  {
+    "Symbol": "BA/.L",
+    "Name": "BAE Systems PLC"
+  },
+  {
+    "Symbol": "BAA.L",
+    "Name": "BAA"
+  },
+  {
+    "Symbol": "BARC.L",
+    "Name": "Barclays PLC"
+  },
+  {
+    "Symbol": "BATS.L",
+    "Name": "British American Tobacco PLC"
+  },
+  {
+    "Symbol": "BAY.L",
+    "Name": "British Airways"
+  },
+  {
+    "Symbol": "BBY.L",
+    "Name": "Balfour Beatty"
+  },
+  {
+    "Symbol": "BCI.L",
+    "Name": "Blue Circle Industries"
+  },
+  {
+    "Symbol": "BG..L",
+    "Name": "BG Group"
+  },
+  {
+    "Symbol": "BGY.L",
+    "Name": "British Energy"
+  },
+  {
+    "Symbol": "BHP.L",
+    "Name": "BHP Group Plc"
+  },
+  {
+    "Symbol": "BOC.L",
+    "Name": "BOC"
+  },
+  {
+    "Symbol": "BP/.L",
+    "Name": "BP PLC"
+  },
+  {
+    "Symbol": "BSCT.L",
+    "Name": "Bank of Scotland"
+  },
+  {
+    "Symbol": "BT/A.L",
+    "Name": "British Telecommunications"
+  },
+  {
+    "Symbol": "BTRW.L",
+    "Name": "Barratt Redrow PLC"
+  },
+  {
+    "Symbol": "CCL.L",
+    "Name": "Carnival"
+  },
+  {
+    "Symbol": "CCM.L",
+    "Name": "Carlton Communication"
+  },
+  {
+    "Symbol": "CNA.L",
+    "Name": "Centrica"
+  },
+  {
+    "Symbol": "COLT.L",
+    "Name": "Colt Telecom Group"
+  },
+  {
+    "Symbol": "CPG.L",
+    "Name": "Compass Group"
+  },
+  {
+    "Symbol": "CS..L",
+    "Name": "Corus Group"
+  },
+  {
+    "Symbol": "CW..L",
+    "Name": "Cable & Wireless"
+  },
+  {
+    "Symbol": "DGE.L",
+    "Name": "Diageo PLC"
+  },
+  {
+    "Symbol": "DMGT.L",
+    "Name": "Daily Mail & General Trust"
+  },
+  {
+    "Symbol": "DSGI.L",
+    "Name": "DSG International"
+  },
+  {
+    "Symbol": "EGS.L",
+    "Name": "Energis"
+  },
+  {
+    "Symbol": "EMI.L",
+    "Name": "EMI Group"
+  },
+  {
+    "Symbol": "ENT.L",
+    "Name": "Entain PLC"
+  },
+  {
+    "Symbol": "EXL.L",
+    "Name": "Exel"
+  },
+  {
+    "Symbol": "FCIT.L",
+    "Name": "Foreign & Col Inv Trust"
+  },
+  {
+    "Symbol": "FERG.L",
+    "Name": "Ferguson"
+  },
+  {
+    "Symbol": "FLG.L",
+    "Name": "Friends Life Group"
+  },
+  {
+    "Symbol": "FLTR.L",
+    "Name": "Flutter Entertainment"
+  },
+  {
+    "Symbol": "GEC.L",
+    "Name": "General Electric Company"
+  },
+  {
+    "Symbol": "GKN.L",
+    "Name": "GKN"
+  },
+  {
+    "Symbol": "GLXO.L",
+    "Name": "Glaxo Wellcome"
+  },
+  {
+    "Symbol": "GRA.L",
+    "Name": "Granada Group"
+  },
+  {
+    "Symbol": "GSK.L",
+    "Name": "SmithKline Beecham"
+  },
+  {
+    "Symbol": "GUS.L",
+    "Name": "GUS"
+  },
+  {
+    "Symbol": "HAS.L",
+    "Name": "Hays"
+  },
+  {
+    "Symbol": "HFX.L",
+    "Name": "Halifax Group"
+  },
+  {
+    "Symbol": "HNSN.L",
+    "Name": "Hanson"
+  },
+  {
+    "Symbol": "HSBA.L",
+    "Name": "HSBC Holdings PLC"
+  },
+  {
+    "Symbol": "IAG.L",
+    "Name": "International Consolidated Airlines Group SA"
+  },
+  {
+    "Symbol": "ICI.L",
+    "Name": "Imperial Chemical Industries"
+  },
+  {
+    "Symbol": "IHG.L",
+    "Name": "InterContinental Hotels Group PLC"
+  },
+  {
+    "Symbol": "III.L",
+    "Name": "3i Group"
+  },
+  {
+    "Symbol": "IMB.L",
+    "Name": "Imperial Brands PLC"
+  },
+  {
+    "Symbol": "IMT.L",
+    "Name": "Imperial Tobacco Group"
+  },
+  {
+    "Symbol": "INTU.L",
+    "Name": "Intu Properties"
+  },
+  {
+    "Symbol": "IPR.L",
+    "Name": "International Power"
+  },
+  {
+    "Symbol": "ISYS.L",
+    "Name": "Invensys"
+  },
+  {
+    "Symbol": "ITV.L",
+    "Name": "ITV"
+  },
+  {
+    "Symbol": "IVZ.L",
+    "Name": "Invesco Plc"
+  },
+  {
+    "Symbol": "JD/.L",
+    "Name": "JD Sports Fashion PLC"
+  },
+  {
+    "Symbol": "KGF.L",
+    "Name": "Kingfisher"
+  },
+  {
+    "Symbol": "LAD.L",
+    "Name": "Ladbrokes"
+  },
+  {
+    "Symbol": "LAND.L",
+    "Name": "Land Securities Group PLC"
+  },
+  {
+    "Symbol": "LGEN.L",
+    "Name": "Legal & General Group PLC"
+  },
+  {
+    "Symbol": "LLOY.L",
+    "Name": "Lloyds Banking Group PLC"
+  },
+  {
+    "Symbol": "MAB.L",
+    "Name": "Mitchells & Butlers"
+  },
+  {
+    "Symbol": "MKS.L",
+    "Name": "Marks and Spencer Group"
+  },
+  {
+    "Symbol": "MNG.L",
+    "Name": "M&G PLC"
+  },
+  {
+    "Symbol": "MSY.L",
+    "Name": "Misys"
+  },
+  {
+    "Symbol": "NG/.L",
+    "Name": "National Grid PLC"
+  },
+  {
+    "Symbol": "NU..L",
+    "Name": "Norwich Union Plc"
+  },
+  {
+    "Symbol": "NWG.L",
+    "Name": "NatWest"
+  },
+  {
+    "Symbol": "OGE.L",
+    "Name": "Orange Plc"
+  },
+  {
+    "Symbol": "OML.L",
+    "Name": "Old Mutual"
+  },
+  {
+    "Symbol": "PNN.L",
+    "Name": "Pennon Group"
+  },
+  {
+    "Symbol": "PO..L",
+    "Name": "P & O"
+  },
+  {
+    "Symbol": "PRU.L",
+    "Name": "Prudential PLC"
+  },
+  {
+    "Symbol": "PSON.L",
+    "Name": "Pearson PLC"
+  },
+  {
+    "Symbol": "PWG.L",
+    "Name": "PowerGen"
+  },
+  {
+    "Symbol": "REL.L",
+    "Name": "RELX PLC"
+  },
+  {
+    "Symbol": "RIO.L",
+    "Name": "Rio Tinto PLC"
+  },
+  {
+    "Symbol": "RKT.L",
+    "Name": "Reckitt Benckiser Group PLC"
+  },
+  {
+    "Symbol": "RR/.L",
+    "Name": "Rolls Royce"
+  },
+  {
+    "Symbol": "RS1.L",
+    "Name": "RS Group"
+  },
+  {
+    "Symbol": "RSA.L",
+    "Name": "Royal & Sun Alliance Insurance Group"
+  },
+  {
+    "Symbol": "RTK.L",
+    "Name": "Railtrack Group"
+  },
+  {
+    "Symbol": "RTO.L",
+    "Name": "Rentokil"
+  },
+  {
+    "Symbol": "SBRY.L",
+    "Name": "J Sainsbury PLC"
+  },
+  {
+    "Symbol": "SCR.L",
+    "Name": "Securicor Plc"
+  },
+  {
+    "Symbol": "SCTN.L",
+    "Name": "Scottish & Newcastle"
+  },
+  {
+    "Symbol": "SDR.L",
+    "Name": "Schroders"
+  },
+  {
+    "Symbol": "SEM.L",
+    "Name": "Sema"
+  },
+  {
+    "Symbol": "SGE.L",
+    "Name": "Sage Group PLC/The"
+  },
+  {
+    "Symbol": "SHEL.L",
+    "Name": "Shell Transport & Trading Co"
+  },
+  {
+    "Symbol": "SKY.L",
+    "Name": "Sky"
+  },
+  {
+    "Symbol": "SLPH.L",
+    "Name": "SLPH"
+  },
+  {
+    "Symbol": "SN/.L",
+    "Name": "Smith & Nephew PLC"
+  },
+  {
+    "Symbol": "SPW.L",
+    "Name": "Scottish Power"
+  },
+  {
+    "Symbol": "SSE.L",
+    "Name": "SSE PLC"
+  },
+  {
+    "Symbol": "STAN.L",
+    "Name": "Standard Chartered PLC"
+  },
+  {
+    "Symbol": "SVT.L",
+    "Name": "Severn Trent"
+  },
+  {
+    "Symbol": "TMW.L",
+    "Name": "Thames Water"
+  },
+  {
+    "Symbol": "TRI.L",
+    "Name": "Thomson Reuters"
+  },
+  {
+    "Symbol": "TSCO.L",
+    "Name": "Tesco PLC"
+  },
+  {
+    "Symbol": "TWT.L",
+    "Name": "Telewest Communications"
+  },
+  {
+    "Symbol": "UBM.L",
+    "Name": "United Business Media"
+  },
+  {
+    "Symbol": "ULVR.L",
+    "Name": "Unilever PLC"
+  },
+  {
+    "Symbol": "UU/.L",
+    "Name": "United Utilities Group PLC"
+  },
+  {
+    "Symbol": "VOD.L",
+    "Name": "Vodafone Group PLC"
+  },
+  {
+    "Symbol": "WOL.L",
+    "Name": "Woolwich"
+  },
+  {
+    "Symbol": "WPP.L",
+    "Name": "WPP"
+  },
+  {
+    "Symbol": "WTB.L",
+    "Name": "Whitbread"
+  }
+]

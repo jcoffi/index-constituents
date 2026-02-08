@@ -1,4 +1,8 @@
 #!/usr/bin/env python3
+"""
+Backfill FTSE 100 historical data from change events (1984 onwards).
+"""
+
 import pandas as pd
 import json
 import os
@@ -14,44 +18,20 @@ base_dir = 'docs'
 with open(mapping_json, 'r') as f:
     name_to_ticker = json.load(f)
 
-# Overrides and manual mappings for missing/incorrect ones
+# Overrides
 overrides = {
-    "Intermediate Capital Group": "ICG",
-    "Intermediate Capital Grup": "ICG",
-    "Marks & Spencer Group": "MKS",
-    "Howden Joinery Group": "HWDN",
-    "British Land Co": "BLND",
-    "British Land Co.": "BLND",
-    "Smith (DS)": "SMDS",
-    "Hargreaves Lansdown": "HL",
-    "Diploma": "DPLM",
-    "Abrdn": "ABDN",
-    "Hiscox": "HSX",
-    "Hikma Pharmaceuticals": "HIK",
-    "Johnson Matthey": "JMAT",
-    "Dechra Pharmaceuticals": "DPH",
-    "Easyjet": "EZJ",
-    "Endeavour Mining": "EDV",
-    "Flutter Entertainment": "FLTR",
-    "Darktrace": "DARK",
-    "LondonMetric Property": "LMP",
-    "RS Group": "RS1",
-    "Vistry Group": "VTY",
-    "St. James's Place": "STJ",
-    "Smurfit Kappa Group": "SKG",
-    "Burberry Group": "BRBY",
-    "B&M European Value Retail": "BME",
-    "Alliance Witan": "ALW",
-    "Games Workshop Group": "GAW",
-    "Polar Capital Technology Trust": "PCT",
-    "Coca-Cola Europacific Partners": "CCEP",
-    "Babcock International Group": "BAB",
-    "Taylor Wimpey": "TW",
-    "Unite Group": "UTG",
-    "Metlen Energy & Metals": "MTLN",
-    "WPP": "WPP",
-    "Valterra Platinum Distribution Line": "VALT_TEMP",
-    "The Magnum Ice Cream Company": "MAGNUM_TEMP"
+    "BT Group": "BT/A", "British Telecom": "BT/A", "British Telecommunications": "BT/A",
+    "BP": "BP/", "BP PLC": "BP/", "Rolls Royce": "RR/", "Rolls-Royce": "RR/", "Rolls-Royce Holdings": "RR/",
+    "Shell": "SHEL", "Royal Dutch Shell": "SHEL", "Royal Dutch Shell A&B": "SHEL", "Royal Dutch Shell B": "SHEL",
+    "Intermediate Capital Group": "ICG", "Intermediate Capital Grup": "ICG",
+    "Marks & Spencer Group": "MKS", "Marks and Spencer Group": "MKS", "M&S": "MKS",
+    "Howden Joinery Group": "HWDN", "British Land Co": "BLND", "British Land Co.": "BLND",
+    "Smith (DS)": "SMDS", "Hargreaves Lansdown": "HL.", "BHP Group Plc": "BHP",
+    "Rio Tinto": "RIO", "GlaxoSmithKline": "GSK", "AstraZeneca": "AZN",
+    "Vodafone": "VOD", "Vodafone Group": "VOD", "WPP Group": "WPP",
+    "3i Group": "III", "BAA": "BAA", "GKN": "GKN", "GKN PLC": "GKN",
+    "BT.A": "BT/A", "BP.": "BP/", "RR.": "RR/", "JD.": "JD/", "SN.": "SN/",
+    "JE.": "JE/", "DC.": "DC/", "BG.": "BG/", "NG.": "NG/", "NWG": "NWG",
 }
 name_to_ticker.update(overrides)
 
@@ -62,28 +42,33 @@ df_changes = df_changes.dropna(subset=['Date']).sort_values('Date', ascending=Fa
 
 # Find latest FTSE100 file
 latest_date = None
-latest_df = None
+latest_symbols = set()
+latest_names = {} # symbol -> name mapping
+
 today = datetime.now()
-for i in range(30):
+for i in range(60):
     dt = today - timedelta(days=i)
     path = Path(base_dir) / dt.strftime('%Y/%m/%d') / 'constituents-ftse100.csv'
     if path.exists():
-        latest_date = datetime(dt.year, dt.month, dt.day)
-        latest_df = pd.read_csv(path)
-        print(f"Base composition from {latest_date.date()}: {len(latest_df)} constituents")
+        latest_date = dt.replace(hour=0, minute=0, second=0, microsecond=0)
+        df = pd.read_csv(path)
+        latest_symbols = set(df['Symbol'].tolist())
+        for _, row in df.iterrows():
+            latest_names[row['Symbol']] = row['Name']
+        print(f"Base composition from {latest_date.date()}: {len(latest_symbols)} constituents")
         break
 
-if latest_df is None:
-    print("No existing FTSE100 data found in the last 30 days")
+if latest_date is None:
+    print("No existing FTSE100 data found in the last 60 days")
     exit(1)
 
 # FTSE100 start date
-start_date = datetime(2023, 7, 1)
+start_date = datetime(1984, 1, 3)
 
-current_df = latest_df.copy()
+current_symbols = latest_symbols.copy()
+current_names = latest_names.copy()
 current_date = latest_date
 
-# Helper to normalize ticker
 def normalize_ticker(name):
     ticker = name_to_ticker.get(name)
     if ticker and not ticker.endswith('.L'):
@@ -99,45 +84,39 @@ while current_date >= start_date:
     # Identify changes on this day
     day_changes = df_changes[df_changes['Date'] == current_date]
     if not day_changes.empty:
-        print(f"Processing {len(day_changes)} changes for {current_date.date()}:")
         for _, row in day_changes.iterrows():
             added = str(row['Added']).strip() if pd.notna(row['Added']) else None
             deleted = str(row['Deleted']).strip() if pd.notna(row['Deleted']) else None
             
-            # Walking backward:
+            # Walking backward
             if added:
-                ticker_add = normalize_ticker(added)
-                if ticker_add and ticker_add in current_df['Symbol'].values:
-                    current_df = current_df[current_df['Symbol'] != ticker_add]
-                    print(f"  Backward: Removed {ticker_add} ({added})")
-                elif ticker_add:
-                    print(f"  Warning: {ticker_add} ({added}) not found in composition on {current_date.date()}")
-            
+                t_add = normalize_ticker(added)
+                if t_add in current_symbols:
+                    current_symbols.remove(t_add)
             if deleted:
-                ticker_del = normalize_ticker(deleted)
-                if ticker_del and ticker_del not in current_df['Symbol'].values:
-                    new_row = pd.DataFrame({'Symbol': [ticker_del], 'Name': [deleted]})
-                    current_df = pd.concat([current_df, new_row], ignore_index=True)
-                    print(f"  Backward: Added {ticker_del} ({deleted})")
+                t_del = normalize_ticker(deleted)
+                if t_del:
+                    current_symbols.add(t_del)
+                    current_names[t_del] = deleted
 
-    # Standardize DF
-    current_df = current_df[['Symbol', 'Name']].sort_values('Symbol').drop_duplicates().reset_index(drop=True)
-
-    # We skip writing if file exists, but we MUST update current_df anyway to maintain state
     if not csv_path.exists():
         os.makedirs(dir_path, exist_ok=True)
-        current_df.to_csv(csv_path, index=False)
         
-        # Write JSON
-        records = current_df.to_dict('records')
+        # Prepare data
+        sorted_symbols = sorted(list(current_symbols))
+        out_rows = []
+        for s in sorted_symbols:
+            name = current_names.get(s, s)
+            out_rows.append({'Symbol': s, 'Name': name})
+        
+        out_df = pd.DataFrame(out_rows)
+        out_df.to_csv(csv_path, index=False)
         with open(json_path, 'w') as f:
-            json.dump(records, f, indent=2)
-        
-        if len(current_df) != 100:
-            print(f"Created {date_str} (WARNING: {len(current_df)} symbols)")
-        elif current_date.day == 1:
-            print(f"Created {date_str} (100 symbols)")
+            json.dump(out_rows, f, indent=2)
+            
+        if current_date.day == 1 or len(current_symbols) != 100:
+            print(f"Created {date_str} ({len(current_symbols)} symbols)")
 
     current_date -= timedelta(days=1)
 
-print(f"✓ Backfill complete for FTSE100")
+print("✓ FTSE100 full history backfill complete")
