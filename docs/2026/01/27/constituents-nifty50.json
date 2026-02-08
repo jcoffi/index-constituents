@@ -1,1 +1,206 @@
-[{"Symbol":"ADANIENT.NS","Name":"Adani Enterprises Ltd."},{"Symbol":"ADANIPORTS.NS","Name":"Adani Ports and Special Economic Zone Ltd."},{"Symbol":"APOLLOHOSP.NS","Name":"Apollo Hospitals Enterprise Ltd."},{"Symbol":"ASIANPAINT.NS","Name":"Asian Paints Ltd."},{"Symbol":"AXISBANK.NS","Name":"Axis Bank Ltd."},{"Symbol":"BAJAJ-AUTO.NS","Name":"Bajaj Auto Ltd."},{"Symbol":"BAJFINANCE.NS","Name":"Bajaj Finance Ltd."},{"Symbol":"BAJAJFINSV.NS","Name":"Bajaj Finserv Ltd."},{"Symbol":"BEL.NS","Name":"Bharat Electronics Ltd."},{"Symbol":"BHARTIARTL.NS","Name":"Bharti Airtel Ltd."},{"Symbol":"CIPLA.NS","Name":"Cipla Ltd."},{"Symbol":"COALINDIA.NS","Name":"Coal India Ltd."},{"Symbol":"DRREDDY.NS","Name":"Dr. Reddy's Laboratories Ltd."},{"Symbol":"DUMMYHDLVR.NS","Name":"Dummy Hindustan Unilever Ltd."},{"Symbol":"EICHERMOT.NS","Name":"Eicher Motors Ltd."},{"Symbol":"ETERNAL.NS","Name":"Eternal Ltd."},{"Symbol":"GRASIM.NS","Name":"Grasim Industries Ltd."},{"Symbol":"HCLTECH.NS","Name":"HCL Technologies Ltd."},{"Symbol":"HDFCBANK.NS","Name":"HDFC Bank Ltd."},{"Symbol":"HDFCLIFE.NS","Name":"HDFC Life Insurance Company Ltd."},{"Symbol":"HINDALCO.NS","Name":"Hindalco Industries Ltd."},{"Symbol":"HINDUNILVR.NS","Name":"Hindustan Unilever Ltd."},{"Symbol":"ICICIBANK.NS","Name":"ICICI Bank Ltd."},{"Symbol":"ITC.NS","Name":"ITC Ltd."},{"Symbol":"INFY.NS","Name":"Infosys Ltd."},{"Symbol":"INDIGO.NS","Name":"InterGlobe Aviation Ltd."},{"Symbol":"JSWSTEEL.NS","Name":"JSW Steel Ltd."},{"Symbol":"JIOFIN.NS","Name":"Jio Financial Services Ltd."},{"Symbol":"KOTAKBANK.NS","Name":"Kotak Mahindra Bank Ltd."},{"Symbol":"LT.NS","Name":"Larsen & Toubro Ltd."},{"Symbol":"M&M.NS","Name":"Mahindra & Mahindra Ltd."},{"Symbol":"MARUTI.NS","Name":"Maruti Suzuki India Ltd."},{"Symbol":"MAXHEALTH.NS","Name":"Max Healthcare Institute Ltd."},{"Symbol":"NTPC.NS","Name":"NTPC Ltd."},{"Symbol":"NESTLEIND.NS","Name":"Nestle India Ltd."},{"Symbol":"ONGC.NS","Name":"Oil & Natural Gas Corporation Ltd."},{"Symbol":"POWERGRID.NS","Name":"Power Grid Corporation of India Ltd."},{"Symbol":"RELIANCE.NS","Name":"Reliance Industries Ltd."},{"Symbol":"SBILIFE.NS","Name":"SBI Life Insurance Company Ltd."},{"Symbol":"SHRIRAMFIN.NS","Name":"Shriram Finance Ltd."},{"Symbol":"SBIN.NS","Name":"State Bank of India"},{"Symbol":"SUNPHARMA.NS","Name":"Sun Pharmaceutical Industries Ltd."},{"Symbol":"TCS.NS","Name":"Tata Consultancy Services Ltd."},{"Symbol":"TATACONSUM.NS","Name":"Tata Consumer Products Ltd."},{"Symbol":"TMPV.NS","Name":"Tata Motors Passenger Vehicles Ltd."},{"Symbol":"TATASTEEL.NS","Name":"Tata Steel Ltd."},{"Symbol":"TECHM.NS","Name":"Tech Mahindra Ltd."},{"Symbol":"TITAN.NS","Name":"Titan Company Ltd."},{"Symbol":"TRENT.NS","Name":"Trent Ltd."},{"Symbol":"ULTRACEMCO.NS","Name":"UltraTech Cement Ltd."},{"Symbol":"WIPRO.NS","Name":"Wipro Ltd."}]
+[
+  {
+    "Symbol": "ADANIENT.NS",
+    "Name": "Adani Enterprises Ltd."
+  },
+  {
+    "Symbol": "ADANIPORTS.NS",
+    "Name": "Adani Ports and Special Economic Zone Ltd."
+  },
+  {
+    "Symbol": "APOLLOHOSP.NS",
+    "Name": "Apollo Hospitals Enterprise Ltd."
+  },
+  {
+    "Symbol": "ASIANPAINT.NS",
+    "Name": "Asian Paints Ltd."
+  },
+  {
+    "Symbol": "AXISBANK.NS",
+    "Name": "Axis Bank Ltd."
+  },
+  {
+    "Symbol": "BAJAJ-AUTO.NS",
+    "Name": "Bajaj Auto Ltd."
+  },
+  {
+    "Symbol": "BAJFINANCE.NS",
+    "Name": "Bajaj Finance Ltd."
+  },
+  {
+    "Symbol": "BAJAJFINSV.NS",
+    "Name": "Bajaj Finserv Ltd."
+  },
+  {
+    "Symbol": "BEL.NS",
+    "Name": "Bharat Electronics Ltd."
+  },
+  {
+    "Symbol": "BHARTIARTL.NS",
+    "Name": "Bharti Airtel Ltd."
+  },
+  {
+    "Symbol": "CIPLA.NS",
+    "Name": "Cipla Ltd."
+  },
+  {
+    "Symbol": "COALINDIA.NS",
+    "Name": "Coal India Ltd."
+  },
+  {
+    "Symbol": "DRREDDY.NS",
+    "Name": "Dr. Reddy's Laboratories Ltd."
+  },
+  {
+    "Symbol": "DUMMYHDLVR.NS",
+    "Name": "Dummy Hindustan Unilever Ltd."
+  },
+  {
+    "Symbol": "EICHERMOT.NS",
+    "Name": "Eicher Motors Ltd."
+  },
+  {
+    "Symbol": "ETERNAL.NS",
+    "Name": "Eternal Ltd."
+  },
+  {
+    "Symbol": "GRASIM.NS",
+    "Name": "Grasim Industries Ltd."
+  },
+  {
+    "Symbol": "HCLTECH.NS",
+    "Name": "HCL Technologies Ltd."
+  },
+  {
+    "Symbol": "HDFCBANK.NS",
+    "Name": "HDFC Bank Ltd."
+  },
+  {
+    "Symbol": "HDFCLIFE.NS",
+    "Name": "HDFC Life Insurance Company Ltd."
+  },
+  {
+    "Symbol": "HINDALCO.NS",
+    "Name": "Hindalco Industries Ltd."
+  },
+  {
+    "Symbol": "HINDUNILVR.NS",
+    "Name": "Hindustan Unilever Ltd."
+  },
+  {
+    "Symbol": "ICICIBANK.NS",
+    "Name": "ICICI Bank Ltd."
+  },
+  {
+    "Symbol": "ITC.NS",
+    "Name": "ITC Ltd."
+  },
+  {
+    "Symbol": "INFY.NS",
+    "Name": "Infosys Ltd."
+  },
+  {
+    "Symbol": "INDIGO.NS",
+    "Name": "InterGlobe Aviation Ltd."
+  },
+  {
+    "Symbol": "JSWSTEEL.NS",
+    "Name": "JSW Steel Ltd."
+  },
+  {
+    "Symbol": "JIOFIN.NS",
+    "Name": "Jio Financial Services Ltd."
+  },
+  {
+    "Symbol": "KOTAKBANK.NS",
+    "Name": "Kotak Mahindra Bank Ltd."
+  },
+  {
+    "Symbol": "LT.NS",
+    "Name": "Larsen & Toubro Ltd."
+  },
+  {
+    "Symbol": "M&M.NS",
+    "Name": "Mahindra & Mahindra Ltd."
+  },
+  {
+    "Symbol": "MARUTI.NS",
+    "Name": "Maruti Suzuki India Ltd."
+  },
+  {
+    "Symbol": "MAXHEALTH.NS",
+    "Name": "Max Healthcare Institute Ltd."
+  },
+  {
+    "Symbol": "NTPC.NS",
+    "Name": "NTPC Ltd."
+  },
+  {
+    "Symbol": "NESTLEIND.NS",
+    "Name": "Nestle India Ltd."
+  },
+  {
+    "Symbol": "ONGC.NS",
+    "Name": "Oil & Natural Gas Corporation Ltd."
+  },
+  {
+    "Symbol": "POWERGRID.NS",
+    "Name": "Power Grid Corporation of India Ltd."
+  },
+  {
+    "Symbol": "RELIANCE.NS",
+    "Name": "Reliance Industries Ltd."
+  },
+  {
+    "Symbol": "SBILIFE.NS",
+    "Name": "SBI Life Insurance Company Ltd."
+  },
+  {
+    "Symbol": "SHRIRAMFIN.NS",
+    "Name": "Shriram Finance Ltd."
+  },
+  {
+    "Symbol": "SBIN.NS",
+    "Name": "State Bank of India"
+  },
+  {
+    "Symbol": "SUNPHARMA.NS",
+    "Name": "Sun Pharmaceutical Industries Ltd."
+  },
+  {
+    "Symbol": "TCS.NS",
+    "Name": "Tata Consultancy Services Ltd."
+  },
+  {
+    "Symbol": "TATACONSUM.NS",
+    "Name": "Tata Consumer Products Ltd."
+  },
+  {
+    "Symbol": "TMPV.NS",
+    "Name": "Tata Motors Passenger Vehicles Ltd."
+  },
+  {
+    "Symbol": "TATASTEEL.NS",
+    "Name": "Tata Steel Ltd."
+  },
+  {
+    "Symbol": "TECHM.NS",
+    "Name": "Tech Mahindra Ltd."
+  },
+  {
+    "Symbol": "TITAN.NS",
+    "Name": "Titan Company Ltd."
+  },
+  {
+    "Symbol": "TRENT.NS",
+    "Name": "Trent Ltd."
+  },
+  {
+    "Symbol": "ULTRACEMCO.NS",
+    "Name": "UltraTech Cement Ltd."
+  },
+  {
+    "Symbol": "WIPRO.NS",
+    "Name": "Wipro Ltd."
+  }
+]
