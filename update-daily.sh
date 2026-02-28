@@ -18,6 +18,7 @@ mkdir -p docs/$year/$month/$day
 
 # retrieve data
 ./get-constituents.py
+fetch_status=$?
 
 # copy files into daily folder (robust if no matches)
 find docs/ -maxdepth 1 -type f -name '*.json' -exec cp -t "docs/$year/$month/$day" {} +
@@ -25,3 +26,6 @@ find docs/ -maxdepth 1 -type f -name '*.csv'  -exec cp -t "docs/$year/$month/$da
 
 # update timestamp in index.html
 ./update-timestamp.sh
+
+# propagate fetch failure so CI can detect it
+exit $fetch_status
